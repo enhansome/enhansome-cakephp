@@ -53,7 +53,7 @@
             "last_commit": "2025-11-20T16:25:26Z",
             "owner": "markstory",
             "repo": "asset_compress",
-            "stars": 369
+            "stars": 368
           }
         },
         {
@@ -340,7 +340,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-12T12:45:18Z",
+            "last_commit": "2026-08-14T07:59:44Z",
             "owner": "dereuromark",
             "repo": "cakephp-ide-helper",
             "stars": 189
@@ -450,10 +450,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-03T08:21:13Z",
+            "last_commit": "2026-08-13T19:56:52Z",
             "owner": "cakephp",
             "repo": "debug_kit",
-            "stars": 840
+            "stars": 839
           }
         },
         {
@@ -707,7 +707,7 @@
             "last_commit": "2020-09-05T10:17:17Z",
             "owner": "rocketeers",
             "repo": "rocketeer",
-            "stars": 2633
+            "stars": 2632
           }
         },
         {
@@ -1067,7 +1067,7 @@
             "last_commit": "2026-02-25T14:53:48Z",
             "owner": "josbeir",
             "repo": "cakephp-mercure",
-            "stars": 4
+            "stars": 5
           }
         },
         {
@@ -2101,7 +2101,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T10:44:16.724Z",
+    "last_updated": "2026-08-14T10:39:40.750Z",
     "original_repository": "FriendsOfCake/awesome-cakephp",
     "original_repository_sha": "b35566a0db5f0b6168989a914f692bafa5dad390",
     "enhanced_repository": "enhansome/enhansome-cakephp",

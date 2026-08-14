@@ -13,8 +13,8 @@ If you are looking for previous CakePHP resources please visit:
 
 Additional lists you might find useful:
 
-* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,603 | 🐛 61 | 🌐 Ruby | 📅 2024-06-02
-* [Awesome PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,647 | 🐛 81 | 📅 2026-07-13
+* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,609 | 🐛 60 | 🌐 Ruby | 📅 2024-06-02
+* [Awesome PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,649 | 🐛 82 | 📅 2026-07-13
 * [CakePHP Plugins](https://plugins.cakephp.org)
 
 > For those wondering; this list differs from plugins.cakephp.org by supporting
@@ -89,7 +89,7 @@ Additional lists you might find useful:
 
 *Managing, compressing and minifying website assets.*
 
-* [AssetCompress plugin](https://github.com/markstory/asset_compress) ⭐ 369 | 🐛 30 | 🌐 PHP | 📅 2025-11-20 - A complete asset manager for CakePHP.
+* [AssetCompress plugin](https://github.com/markstory/asset_compress) ⭐ 368 | 🐛 30 | 🌐 PHP | 📅 2025-11-20 - A complete asset manager for CakePHP.
 * [AssetMix plugin](https://github.com/ishanvyas22/asset-mix) ⭐ 33 | 🐛 1 | 🌐 PHP | 📅 2024-09-24 - Provides integration with [Laravel Mix](https://laravel-mix.com) asset compilation.
 * [CakeVite plugin](https://github.com/josbeir/cakephp-vite) ⭐ 2 | 🐛 0 | 🌐 PHP | 📅 2026-03-08 - A fully-featured [Vite](https://vite.dev/) plugin (spiritual successor of [brandcom/cakephp-vite](https://github.com/brandcom/cakephp-vite) ⭐ 23 | 🐛 6 | 🌐 PHP | 📅 2026-01-25).
 
@@ -119,7 +119,7 @@ Additional lists you might find useful:
 
 * [ADmad/SocialAuth plugin](https://github.com/ADmad/cakephp-social-auth) ⭐ 51 | 🐛 4 | 🌐 PHP | 📅 2026-01-06 - A plugin which allows you to authenticate using social providers like Facebook/Google/Twitter etc. using [SocialConnect/auth](https://github.com/SocialConnect/auth) ⭐ 565 | 🐛 37 | 🌐 PHP | 📅 2026-06-23 social sign on library.
 
-* [TwoFactorAuth plugin](https://github.com/andrej-griniuk/cakephp-two-factor-auth) ⭐ 38 | 🐛 2 | 🌐 PHP | 📅 2026-05-07 - Allows two factor authentication using Google Authenticator or similar app to generate one-time codes. Based on [RobThree/TwoFactorAuth](https://github.com/RobThree/TwoFactorAuth) ⭐ 1,186 | 🐛 3 | 🌐 PHP | 📅 2026-01-05 library.
+* [TwoFactorAuth plugin](https://github.com/andrej-griniuk/cakephp-two-factor-auth) ⭐ 38 | 🐛 2 | 🌐 PHP | 📅 2026-05-07 - Allows two factor authentication using Google Authenticator or similar app to generate one-time codes. Based on [RobThree/TwoFactorAuth](https://github.com/RobThree/TwoFactorAuth) ⭐ 1,187 | 🐛 3 | 🌐 PHP | 📅 2026-01-05 library.
 
 * [ApiTokenAuthenticator plugin](https://github.com/rrd108/api-token-authenticator) ⭐ 3 | 🐛 4 | 🌐 PHP | 📅 2025-11-26 - A simple token authentication plugin for CakePHP REST APIs.
 
@@ -136,7 +136,7 @@ Additional lists you might find useful:
 
 *Analyzing, parsing and manipulation codebases.*
 
-* [IdeHelper plugin](https://github.com/dereuromark/cakephp-ide-helper) ⭐ 189 | 🐛 4 | 🌐 PHP | 📅 2026-08-12 - Helps to make IDE support better by adding annotations to your existing code similar to what baking does to new code.
+* [IdeHelper plugin](https://github.com/dereuromark/cakephp-ide-helper) ⭐ 189 | 🐛 4 | 🌐 PHP | 📅 2026-08-14 - Helps to make IDE support better by adding annotations to your existing code similar to what baking does to new code.
 * [cakedc/cakephp-phpstan](https://github.com/CakeDC/cakephp-phpstan) ⭐ 43 | 🐛 0 | 🌐 PHP | 📅 2026-05-21 - A PHPStan extension to resolve CakePHP magic around getter return types for the static analyzer.
 * [TestHelper plugin](https://github.com/dereuromark/cakephp-test-helper) ⭐ 6 | 🐛 1 | 🌐 PHP | 📅 2026-08-02 - Provides testing enhancements and TDD support as browser backend.
 * [lordsimal/cakephp-psalm](https://github.com/LordSimal/cakephp-psalm) ⭐ 2 | 🐛 0 | 🌐 PHP | 📅 2025-11-21 - A Psalm extension to resolve CakePHP magic around getter return types for the static analyzer.
@@ -153,7 +153,7 @@ Additional lists you might find useful:
 
 *Debugging and local development.*
 
-* [DebugKit plugin](https://github.com/cakephp/debug_kit) ⭐ 840 | 🐛 0 | 🌐 PHP | 📅 2026-08-03 - The de-facto standard for debugging.
+* [DebugKit plugin](https://github.com/cakephp/debug_kit) ⭐ 839 | 🐛 0 | 🌐 PHP | 📅 2026-08-13 - The de-facto standard for debugging.
 * [Setup plugin](https://github.com/dereuromark/cakephp-setup) ⭐ 35 | 🐛 0 | 🌐 PHP | 📅 2026-08-02 - A lightweight setup plugin containing healthcheck(s), debugging and maintenance tools.
 * [Execution order](https://github.com/dereuromark/executionorder) ⭐ 21 | 🐛 4 | 🌐 PHP | 📅 2024-11-07 - A demo app to display the execution order of files, methods and callbacks.
 * [CakephpWhoops plugin](https://github.com/dereuromark/cakephp-whoops) ⭐ 14 | 🐛 1 | 🌐 PHP | 📅 2026-06-28 - PHP errors and exceptions for cool kids with [filp/whoops](https://github.com/filp/whoops) ⭐ 13,234 | 🐛 9 | 🌐 PHP | 📅 2026-05-06.
@@ -260,7 +260,7 @@ Additional lists you might find useful:
 
 *Working with notification software.*
 
-* [Mercure plugin](https://github.com/josbeir/cakephp-mercure) ⭐ 4 | 🐛 1 | 🌐 PHP | 📅 2026-02-25 - Push real-time updates to clients using the Mercure protocol.
+* [Mercure plugin](https://github.com/josbeir/cakephp-mercure) ⭐ 5 | 🐛 1 | 🌐 PHP | 📅 2026-02-25 - Push real-time updates to clients using the Mercure protocol.
 * [Crustum/Notification plugin](https://github.com/crustum/notification) ⭐ 2 | 🐛 0 | 🌐 PHP | 📅 2026-07-25 - The Notification plugin provides support for sending notifications across a variety of delivery channels.
 * [Crustum/Broadcasting plugin](https://github.com/crustum/broadcasting) ⭐ 1 | 🐛 0 | 🌐 PHP | 📅 2026-08-13 - The Broadcasting plugin provides real-time event broadcasting for CakePHP applications using WebSocket connections compatible with the Pusher protocol or Redis pub/sub.
 
@@ -395,7 +395,7 @@ Additional lists you might find useful:
 * [Puppet](https://puppetlabs.com/) - A server automation framework and application.
 * [Vagrant](https://developer.hashicorp.com/vagrant) - A portable development environment utility.
 
-IDE specific compatibility information and tips can be found [here](https://github.com/dereuromark/cakephp-ide-helper/wiki#ide-support-and-tips) ⭐ 189 | 🐛 4 | 🌐 PHP | 📅 2026-08-12.
+IDE specific compatibility information and tips can be found [here](https://github.com/dereuromark/cakephp-ide-helper/wiki#ide-support-and-tips) ⭐ 189 | 🐛 4 | 🌐 PHP | 📅 2026-08-14.
 
 ### Web Applications
 
@@ -403,13 +403,13 @@ IDE specific compatibility information and tips can be found [here](https://gith
 
 ### CMS and applications built on CakePHP
 
-* [baserCMS](https://github.com/baserproject/basercms) ⭐ 194 | 🐛 101 | 🌐 PHP | 📅 2026-08-11 - This is a website development framework with RESTful APIs. Installable as a plugin for CakePHP.
+* [baserCMS](https://github.com/baserproject/basercms) ⭐ 194 | 🐛 99 | 🌐 PHP | 📅 2026-08-14 - This is a website development framework with RESTful APIs. Installable as a plugin for CakePHP.
 
 ### Demo
 
 *Web-based (demo) applications and tools.*
 
-* [RealWorld](https://github.com/gothinkster/cakephp-realworld-example-app) ⚠️ Archived - Example CakePHP codebase containing real world examples (CRUD, auth, advanced patterns and more) that adheres to the [RealWorld](https://github.com/gothinkster/realworld-example-apps) ⭐ 84,078 | 🐛 32 | 🌐 TypeScript | 📅 2026-08-12 spec and API.
+* [RealWorld](https://github.com/gothinkster/cakephp-realworld-example-app) ⚠️ Archived - Example CakePHP codebase containing real world examples (CRUD, auth, advanced patterns and more) that adheres to the [RealWorld](https://github.com/gothinkster/realworld-example-apps) ⭐ 84,080 | 🐛 32 | 🌐 TypeScript | 📅 2026-08-13 spec and API.
 * [Query examples](https://github.com/lorenzo/cakephp3-examples) ⭐ 56 | 🐛 0 | 🌐 PHP | 📅 2014-08-23 - Advanced query building examples.
 * [Xeta](https://github.com/XetaIO/Xeta) ⭐ 50 | 🐛 4 | 🌐 PHP | 📅 2017-04-25 - A resource to help people starting with CakePHP.
 * [Vue.js demo app](https://github.com/ishanvyas22/cakephpvue-spa) ⭐ 46 | 🐛 2 | 🌐 PHP | 📅 2026-08-06 - A CakePHP + Vue.js single page application skeleton.
@@ -465,7 +465,7 @@ Various resources, such as books, websites and articles, for improving your Cake
 
 *Reading materials related to the CakePHP internals and decisions.*
 
-* [Top 10 (and more) core contributors](https://github.com/cakephp/cakephp/graphs/contributors) ⭐ 8,795 | 🐛 27 | 🌐 PHP | 📅 2026-08-07 - Give 'em a hand.
+* [Top 10 (and more) core contributors](https://github.com/cakephp/cakephp/graphs/contributors) ⭐ 8,794 | 🐛 28 | 🌐 PHP | 📅 2026-08-13 - Give 'em a hand.
 
 ## Conferences
 
@@ -487,4 +487,4 @@ awesome-cakephp has been created by [dereuromark](https://github.com/dereuromark
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
