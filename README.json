@@ -898,7 +898,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-05T13:10:17Z",
+            "last_commit": "2026-08-15T07:45:07Z",
             "owner": "mirko-pagliai",
             "repo": "cakephp-database-backup",
             "stars": 24
@@ -1838,7 +1838,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-07-08T14:13:24Z",
+            "last_commit": "2026-08-14T12:10:49Z",
             "owner": "cakephp",
             "repo": "cakephp-codesniffer",
             "stars": 232
@@ -2101,7 +2101,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T10:39:40.750Z",
+    "last_updated": "2026-08-15T09:58:46.708Z",
     "original_repository": "FriendsOfCake/awesome-cakephp",
     "original_repository_sha": "b35566a0db5f0b6168989a914f692bafa5dad390",
     "enhanced_repository": "enhansome/enhansome-cakephp",
