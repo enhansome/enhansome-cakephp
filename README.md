@@ -13,8 +13,8 @@ If you are looking for previous CakePHP resources please visit:
 
 Additional lists you might find useful:
 
-* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,608 | 🐛 60 | 🌐 Ruby | 📅 2024-06-02
-* [Awesome PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,650 | 🐛 83 | 📅 2026-07-13
+* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,610 | 🐛 60 | 🌐 Ruby | 📅 2024-06-02
+* [Awesome PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,653 | 🐛 83 | 📅 2026-07-13
 * [CakePHP Plugins](https://plugins.cakephp.org)
 
 > For those wondering; this list differs from plugins.cakephp.org by supporting
@@ -218,7 +218,7 @@ Additional lists you might find useful:
 
 *Syntax highlighting and markup processing.*
 
-* [Markup plugin](https://github.com/dereuromark/cakephp-markup) ⭐ 3 | 🐛 0 | 🌐 PHP | 📅 2026-07-09 - Allows to use PHP or JS based syntax highlighting.
+* [Markup plugin](https://github.com/dereuromark/cakephp-markup) ⭐ 3 | 🐛 1 | 🌐 PHP | 📅 2026-08-16 - Allows to use PHP or JS based syntax highlighting.
 
 ### Migration
 
@@ -403,13 +403,13 @@ IDE specific compatibility information and tips can be found [here](https://gith
 
 ### CMS and applications built on CakePHP
 
-* [baserCMS](https://github.com/baserproject/basercms) ⭐ 193 | 🐛 99 | 🌐 PHP | 📅 2026-08-14 - This is a website development framework with RESTful APIs. Installable as a plugin for CakePHP.
+* [baserCMS](https://github.com/baserproject/basercms) ⭐ 193 | 🐛 99 | 🌐 PHP | 📅 2026-08-16 - This is a website development framework with RESTful APIs. Installable as a plugin for CakePHP.
 
 ### Demo
 
 *Web-based (demo) applications and tools.*
 
-* [RealWorld](https://github.com/gothinkster/cakephp-realworld-example-app) ⚠️ Archived - Example CakePHP codebase containing real world examples (CRUD, auth, advanced patterns and more) that adheres to the [RealWorld](https://github.com/gothinkster/realworld-example-apps) ⭐ 84,078 | 🐛 32 | 🌐 TypeScript | 📅 2026-08-13 spec and API.
+* [RealWorld](https://github.com/gothinkster/cakephp-realworld-example-app) ⚠️ Archived - Example CakePHP codebase containing real world examples (CRUD, auth, advanced patterns and more) that adheres to the [RealWorld](https://github.com/gothinkster/realworld-example-apps) ⭐ 84,081 | 🐛 32 | 🌐 TypeScript | 📅 2026-08-13 spec and API.
 * [Query examples](https://github.com/lorenzo/cakephp3-examples) ⭐ 56 | 🐛 0 | 🌐 PHP | 📅 2014-08-23 - Advanced query building examples.
 * [Xeta](https://github.com/XetaIO/Xeta) ⭐ 50 | 🐛 4 | 🌐 PHP | 📅 2017-04-25 - A resource to help people starting with CakePHP.
 * [Vue.js demo app](https://github.com/ishanvyas22/cakephpvue-spa) ⭐ 46 | 🐛 2 | 🌐 PHP | 📅 2026-08-06 - A CakePHP + Vue.js single page application skeleton.
@@ -465,7 +465,7 @@ Various resources, such as books, websites and articles, for improving your Cake
 
 *Reading materials related to the CakePHP internals and decisions.*
 
-* [Top 10 (and more) core contributors](https://github.com/cakephp/cakephp/graphs/contributors) ⭐ 8,795 | 🐛 28 | 🌐 PHP | 📅 2026-08-13 - Give 'em a hand.
+* [Top 10 (and more) core contributors](https://github.com/cakephp/cakephp/graphs/contributors) ⭐ 8,795 | 🐛 26 | 🌐 PHP | 📅 2026-08-16 - Give 'em a hand.
 
 ## Conferences
 
@@ -487,4 +487,4 @@ awesome-cakephp has been created by [dereuromark](https://github.com/dereuromark
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
