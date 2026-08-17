@@ -1348,7 +1348,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-04-30T14:21:48Z",
+            "last_commit": "2026-08-17T08:01:20Z",
             "owner": "CakeDC",
             "repo": "cakephp-api",
             "stars": 61
@@ -1667,7 +1667,7 @@
             "last_commit": "2026-07-11T09:50:37Z",
             "owner": "FriendsOfCake",
             "repo": "bootstrap-ui",
-            "stars": 351
+            "stars": 353
           }
         },
         {
@@ -2101,7 +2101,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T09:59:06.566Z",
+    "last_updated": "2026-08-17T10:15:07.839Z",
     "original_repository": "FriendsOfCake/awesome-cakephp",
     "original_repository_sha": "b35566a0db5f0b6168989a914f692bafa5dad390",
     "enhanced_repository": "enhansome/enhansome-cakephp",
