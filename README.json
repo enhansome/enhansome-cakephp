@@ -216,7 +216,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-05T14:42:54Z",
+            "last_commit": "2026-08-17T18:22:20Z",
             "owner": "cakephp",
             "repo": "authentication",
             "stars": 118
@@ -230,7 +230,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-04T06:13:24Z",
+            "last_commit": "2026-08-17T18:22:54Z",
             "owner": "cakephp",
             "repo": "authorization",
             "stars": 74
@@ -450,7 +450,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-13T19:56:52Z",
+            "last_commit": "2026-08-17T18:18:08Z",
             "owner": "cakephp",
             "repo": "debug_kit",
             "stars": 839
@@ -732,7 +732,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-02T12:56:19Z",
+            "last_commit": "2026-08-17T18:21:24Z",
             "owner": "cakephp",
             "repo": "chronos",
             "stars": 1362
@@ -766,7 +766,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-03T03:20:03Z",
+            "last_commit": "2026-08-17T18:20:10Z",
             "owner": "cakephp",
             "repo": "migrations",
             "stars": 134
@@ -842,7 +842,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-02T01:28:48Z",
+            "last_commit": "2026-08-17T12:06:47Z",
             "owner": "dereuromark",
             "repo": "cakephp-shim",
             "stars": 40
@@ -1258,7 +1258,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-08T16:38:54Z",
+            "last_commit": "2026-08-17T18:23:17Z",
             "owner": "cakephp",
             "repo": "queue",
             "stars": 36
@@ -1410,7 +1410,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-02T12:58:19Z",
+            "last_commit": "2026-08-17T18:19:38Z",
             "owner": "cakephp",
             "repo": "elastic-search",
             "stars": 85
@@ -1706,7 +1706,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-03T16:12:21Z",
+            "last_commit": "2026-08-17T18:20:41Z",
             "owner": "cakephp",
             "repo": "bake",
             "stars": 112
@@ -2101,7 +2101,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T10:15:07.839Z",
+    "last_updated": "2026-08-18T10:03:04.613Z",
     "original_repository": "FriendsOfCake/awesome-cakephp",
     "original_repository_sha": "b35566a0db5f0b6168989a914f692bafa5dad390",
     "enhanced_repository": "enhansome/enhansome-cakephp",
