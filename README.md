@@ -14,7 +14,7 @@ If you are looking for previous CakePHP resources please visit:
 Additional lists you might find useful:
 
 * [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,609 | 🐛 60 | 🌐 Ruby | 📅 2024-06-02
-* [Awesome PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,656 | 🐛 83 | 📅 2026-07-13
+* [Awesome PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,657 | 🐛 83 | 📅 2026-07-13
 * [CakePHP Plugins](https://plugins.cakephp.org)
 
 > For those wondering; this list differs from plugins.cakephp.org by supporting
