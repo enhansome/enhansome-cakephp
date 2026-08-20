@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-08T09:41:01Z",
                 "owner": "josbeir",
                 "repo": "cakephp-synapse",
-                "stars": 8
+                "stars": 9
               }
             },
             {
@@ -2242,7 +2242,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:23:34.796Z",
+    "last_updated": "2026-08-20T10:05:25.481Z",
     "original_repository": "FriendsOfCake/awesome-cakephp",
     "original_repository_id": 22418008,
     "original_repository_sha": "b35566a0db5f0b6168989a914f692bafa5dad390",
