@@ -600,6 +600,21 @@
                 "repo": "cakephp-sendgrid",
                 "stars": 5
               }
+            },
+            {
+              "node_type": "item",
+              "title": "CakeSymfonyMailer plugin",
+              "description": "Use Symfony Mailer as a CakePHP mail transport.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1335830011,
+                "language": "PHP",
+                "last_commit": "2026-08-16T14:17:30Z",
+                "owner": "josbeir",
+                "repo": "cakephp-symfony-mailer",
+                "stars": 0
+              }
             }
           ],
           "description": "Transports and tools for email handling.",
@@ -967,7 +982,7 @@
                 "archived": false,
                 "id": 95145744,
                 "language": "PHP",
-                "last_commit": "2026-08-21T07:16:27Z",
+                "last_commit": "2026-08-22T08:40:10Z",
                 "owner": "mirko-pagliai",
                 "repo": "cakephp-database-backup",
                 "stars": 24
@@ -2242,10 +2257,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T10:06:03.589Z",
+    "last_updated": "2026-08-22T09:59:37.261Z",
     "original_repository": "FriendsOfCake/awesome-cakephp",
     "original_repository_id": 22418008,
-    "original_repository_sha": "b35566a0db5f0b6168989a914f692bafa5dad390",
+    "original_repository_sha": "59f01b52812e486542b464aa30263ddc9480d610",
     "enhanced_repository": "enhansome/enhansome-cakephp",
     "enhanced_repository_description": null,
     "title": "Awesome CakePHP with stars"
