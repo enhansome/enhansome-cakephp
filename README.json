@@ -12,7 +12,7 @@
             "archived": false,
             "id": 22418008,
             "language": null,
-            "last_commit": "2026-08-21T18:27:29Z",
+            "last_commit": "2026-08-25T09:35:10Z",
             "owner": "FriendsOfCake",
             "repo": "awesome-cakephp",
             "stars": 937
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 22418008,
             "language": null,
-            "last_commit": "2026-08-21T18:27:29Z",
+            "last_commit": "2026-08-25T09:35:10Z",
             "owner": "FriendsOfCake",
             "repo": "awesome-cakephp",
             "stars": 937
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 22418008,
             "language": null,
-            "last_commit": "2026-08-21T18:27:29Z",
+            "last_commit": "2026-08-25T09:35:10Z",
             "owner": "FriendsOfCake",
             "repo": "awesome-cakephp",
             "stars": 937
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 22418008,
             "language": null,
-            "last_commit": "2026-08-21T18:27:29Z",
+            "last_commit": "2026-08-25T09:35:10Z",
             "owner": "FriendsOfCake",
             "repo": "awesome-cakephp",
             "stars": 937
@@ -75,7 +75,7 @@
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33625
+            "stars": 33624
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-07-13T19:44:57Z",
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32671
+            "stars": 32670
           }
         }
       ],
@@ -1291,6 +1291,21 @@
                 "repo": "cakephp-attribute-registry",
                 "stars": 2
               }
+            },
+            {
+              "node_type": "item",
+              "title": "FeatureFlags plugin",
+              "description": "A plugin for managing feature flags in your code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 554859908,
+                "language": "PHP",
+                "last_commit": "2026-08-25T09:08:24Z",
+                "owner": "orca-services",
+                "repo": "cakephp-feature-flags",
+                "stars": 0
+              }
             }
           ],
           "description": "Misc plugins and libraries.",
@@ -2342,7 +2357,7 @@
                 "archived": false,
                 "id": 3420388,
                 "language": "PHP",
-                "last_commit": "2026-08-23T13:35:20Z",
+                "last_commit": "2026-08-25T08:17:34Z",
                 "owner": "baserproject",
                 "repo": "basercms",
                 "stars": 193
@@ -2485,10 +2500,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:08:25.536Z",
+    "last_updated": "2026-08-25T10:06:01.554Z",
     "original_repository": "FriendsOfCake/awesome-cakephp",
     "original_repository_id": 22418008,
-    "original_repository_sha": "59f01b52812e486542b464aa30263ddc9480d610",
+    "original_repository_sha": "3d88e89ed7e8a9c6679ffce659f38cba6b4226ad",
     "enhanced_repository": "enhansome/enhansome-cakephp",
     "enhanced_repository_description": null,
     "title": "Awesome CakePHP with stars"
