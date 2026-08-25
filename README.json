@@ -75,7 +75,7 @@
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33620
+            "stars": 33625
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-07-13T19:44:57Z",
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32672
+            "stars": 32671
           }
         }
       ],
@@ -303,7 +303,7 @@
                 "archived": false,
                 "id": 865313,
                 "language": "PHP",
-                "last_commit": "2026-07-01T07:22:49Z",
+                "last_commit": "2026-08-24T17:34:25Z",
                 "owner": "CakeDC",
                 "repo": "users",
                 "stars": 523
@@ -1166,7 +1166,7 @@
                 "archived": false,
                 "id": 95145744,
                 "language": "PHP",
-                "last_commit": "2026-08-22T08:40:10Z",
+                "last_commit": "2026-08-24T16:12:45Z",
                 "owner": "mirko-pagliai",
                 "repo": "cakephp-database-backup",
                 "stars": 24
@@ -1576,7 +1576,7 @@
                 "archived": false,
                 "id": 225091981,
                 "language": "PHP",
-                "last_commit": "2026-08-23T06:40:29Z",
+                "last_commit": "2026-08-24T17:56:37Z",
                 "owner": "cakephp",
                 "repo": "queue",
                 "stars": 36
@@ -2485,7 +2485,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:17:21.771Z",
+    "last_updated": "2026-08-25T06:08:25.536Z",
     "original_repository": "FriendsOfCake/awesome-cakephp",
     "original_repository_id": 22418008,
     "original_repository_sha": "59f01b52812e486542b464aa30263ddc9480d610",
