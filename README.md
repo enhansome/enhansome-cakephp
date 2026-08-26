@@ -14,7 +14,7 @@ If you are looking for previous CakePHP resources please visit:
 Additional lists you might find useful:
 
 * [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,624 | 🐛 61 | 🌐 Ruby | 📅 2024-06-02
-* [Awesome PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,670 | 🐛 85 | 📅 2026-07-13
+* [Awesome PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,669 | 🐛 85 | 📅 2026-07-13
 * [CakePHP Plugins](https://plugins.cakephp.org)
 
 > For those wondering; this list differs from plugins.cakephp.org by supporting
@@ -240,7 +240,7 @@ Additional lists you might find useful:
 * [Setup:Maintenance](https://github.com/dereuromark/cakephp-setup/blob/master/docs/maintenance/index.md) ⭐ 35 | 🐛 0 | 🌐 PHP | 📅 2026-08-24 - Maintenance shell to go into maintenance mode for all requests with optional IP whitelisting.
 * [CakeDC/Enum plugin](https://github.com/CakeDC/enum) ⭐ 30 | 🐛 4 | 🌐 PHP | 📅 2026-07-06 - A plugin to add enumeration list support to your app.
 * [CakeDto plugin](https://github.com/dereuromark/cakephp-dto) ⭐ 30 | 🐛 0 | 🌐 PHP | 📅 2026-06-28 - Quickly generate useful data transfer objects for your app (mutable/immutable), replacing messy arrays and leveraging your IDE through typehinting and autocomplete.
-* [DatabaseBackup plugin](https://github.com/mirko-pagliai/cakephp-database-backup) ⭐ 24 | 🐛 4 | 🌐 PHP | 📅 2026-08-24 - A plugin to export, import and manage database backups. Currently, the plugin supports MySQL, PostgreSQL and SQLite databases.
+* [DatabaseBackup plugin](https://github.com/mirko-pagliai/cakephp-database-backup) ⭐ 24 | 🐛 4 | 🌐 PHP | 📅 2026-08-26 - A plugin to export, import and manage database backups. Currently, the plugin supports MySQL, PostgreSQL and SQLite databases.
 * [CakeHtmx plugin](https://github.com/zunnu/cake-htmx) ⭐ 18 | 🐛 0 | 🌐 PHP | 📅 2025-12-03 - CakePHP integration for [htmx](https://htmx.org/).
 * [Calendar plugin](https://github.com/dereuromark/cakephp-calendar) ⭐ 16 | 🐛 0 | 🌐 PHP | 📅 2026-06-28 - For generating basic calendars. Includes IcalView for ICS calendar file generation.
 * [Flash plugin](https://github.com/dereuromark/cakephp-flash) ⭐ 12 | 🐛 0 | 🌐 PHP | 📅 2026-06-28 - More powerful flash messages for your application.
@@ -312,7 +312,7 @@ Additional lists you might find useful:
 *Plugins and software for indexing and performing search queries on data.*
 
 * [Search plugin](https://github.com/FriendsOfCake/search) ⭐ 171 | 🐛 0 | 🌐 PHP | 📅 2026-05-11 - Provides easy searching/filtering for paginated views using PRG pattern.
-* [Cake/Elasticsearch plugin](https://github.com/cakephp/elastic-search) ⭐ 86 | 🐛 1 | 🌐 PHP | 📅 2026-08-17 - Alternative ORM using [Elasticsearch](https://www.elastic.co/) as its backend.
+* [Cake/Elasticsearch plugin](https://github.com/cakephp/elastic-search) ⭐ 86 | 🐛 0 | 🌐 PHP | 📅 2026-08-25 - Alternative ORM using [Elasticsearch](https://www.elastic.co/) as its backend.
 * [PlumSearch plugin](https://github.com/skie/plum_search) ⭐ 19 | 🐛 0 | 🌐 PHP | 📅 2026-08-13 - Implements custom, flexible and extendable search strategies. Implements PRG pattern.
 * [Tags plugin](https://github.com/dereuromark/cakephp-tags) ⭐ 17 | 🐛 1 | 🌐 PHP | 📅 2026-06-28 - For tagging and finding tagged records.
 * [CakeDC/SearchFilter plugin](https://github.com/CakeDC/search-filter) ⭐ 3 | 🐛 0 | 🌐 PHP | 📅 2026-07-01 - Powerful and flexible solution for implementing advanced search functionality. Provides a robust set of tools for creating dynamic, user-friendly search interfaces with minimal effort.
@@ -405,13 +405,13 @@ IDE specific compatibility information and tips can be found [here](https://gith
 
 ### CMS and applications built on CakePHP
 
-* [baserCMS](https://github.com/baserproject/basercms) ⭐ 193 | 🐛 95 | 🌐 PHP | 📅 2026-08-25 - This is a website development framework with RESTful APIs. Installable as a plugin for CakePHP.
+* [baserCMS](https://github.com/baserproject/basercms) ⭐ 193 | 🐛 87 | 🌐 PHP | 📅 2026-08-26 - This is a website development framework with RESTful APIs. Installable as a plugin for CakePHP.
 
 ### Demo
 
 *Web-based (demo) applications and tools.*
 
-* [RealWorld](https://github.com/gothinkster/cakephp-realworld-example-app) ⚠️ Archived - Example CakePHP codebase containing real world examples (CRUD, auth, advanced patterns and more) that adheres to the [RealWorld](https://github.com/gothinkster/realworld-example-apps) ⭐ 84,139 | 🐛 32 | 🌐 TypeScript | 📅 2026-08-13 spec and API.
+* [RealWorld](https://github.com/gothinkster/cakephp-realworld-example-app) ⚠️ Archived - Example CakePHP codebase containing real world examples (CRUD, auth, advanced patterns and more) that adheres to the [RealWorld](https://github.com/gothinkster/realworld-example-apps) ⭐ 84,136 | 🐛 28 | 🌐 TypeScript | 📅 2026-08-26 spec and API.
 * [Query examples](https://github.com/lorenzo/cakephp3-examples) ⭐ 56 | 🐛 0 | 🌐 PHP | 📅 2014-08-23 - Advanced query building examples.
 * [Xeta](https://github.com/XetaIO/Xeta) ⭐ 50 | 🐛 4 | 🌐 PHP | 📅 2017-04-25 - A resource to help people starting with CakePHP.
 * [Vue.js demo app](https://github.com/ishanvyas22/cakephpvue-spa) ⭐ 46 | 🐛 2 | 🌐 PHP | 📅 2026-08-06 - A CakePHP + Vue.js single page application skeleton.
@@ -467,7 +467,7 @@ Various resources, such as books, websites and articles, for improving your Cake
 
 *Reading materials related to the CakePHP internals and decisions.*
 
-* [Top 10 (and more) core contributors](https://github.com/cakephp/cakephp/graphs/contributors) ⭐ 8,795 | 🐛 26 | 🌐 PHP | 📅 2026-08-24 - Give 'em a hand.
+* [Top 10 (and more) core contributors](https://github.com/cakephp/cakephp/graphs/contributors) ⭐ 8,795 | 🐛 28 | 🌐 PHP | 📅 2026-08-26 - Give 'em a hand.
 
 ## Conferences
 
@@ -489,4 +489,4 @@ awesome-cakephp has been created by [dereuromark](https://github.com/dereuromark
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
