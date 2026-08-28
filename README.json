@@ -16,7 +16,8 @@
             "owner": "FriendsOfCake",
             "repo": "awesome-cakephp",
             "stars": 937
-          }
+          },
+          "first_seen": "2026-08-28T20:59:01.216Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "FriendsOfCake",
             "repo": "awesome-cakephp",
             "stars": 937
-          }
+          },
+          "first_seen": "2026-08-28T20:59:01.216Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "FriendsOfCake",
             "repo": "awesome-cakephp",
             "stars": 937
-          }
+          },
+          "first_seen": "2026-08-28T20:59:01.216Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "FriendsOfCake",
             "repo": "awesome-cakephp",
             "stars": 937
-          }
+          },
+          "first_seen": "2026-08-28T20:59:01.216Z"
         },
         {
           "node_type": "item",
@@ -75,8 +79,9 @@
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33631
-          }
+            "stars": 33634
+          },
+          "first_seen": "2026-08-28T20:59:01.216Z"
         },
         {
           "node_type": "item",
@@ -90,8 +95,9 @@
             "last_commit": "2026-07-13T19:44:57Z",
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32669
-          }
+            "stars": 32671
+          },
+          "first_seen": "2026-08-28T20:59:01.216Z"
         }
       ],
       "title": "Overview"
@@ -114,7 +120,8 @@
                 "owner": "josbeir",
                 "repo": "cakephp-synapse",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -129,7 +136,8 @@
                 "owner": "Crustum",
                 "repo": "cakephp-open-router",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             }
           ],
           "description": "Plugins and libraries for integrating artificial intelligence and machine learning tools.",
@@ -151,7 +159,8 @@
                 "owner": "burzum",
                 "repo": "cakephp-service-layer",
                 "stars": 68
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             }
           ],
           "description": null,
@@ -173,7 +182,8 @@
                 "owner": "markstory",
                 "repo": "asset_compress",
                 "stars": 368
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -188,7 +198,8 @@
                 "owner": "ishanvyas22",
                 "repo": "asset-mix",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -203,7 +214,8 @@
                 "owner": "josbeir",
                 "repo": "cakephp-vite",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             }
           ],
           "description": "Managing, compressing and minifying website assets.",
@@ -225,7 +237,8 @@
                 "owner": "UseMuffin",
                 "repo": "Footprint",
                 "stars": 95
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -240,7 +253,8 @@
                 "owner": "josegonzalez",
                 "repo": "cakephp-version",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -255,7 +269,8 @@
                 "owner": "dereuromark",
                 "repo": "CakePHP-DatabaseLog",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -270,7 +285,8 @@
                 "owner": "dereuromark",
                 "repo": "cakephp-audit-stash",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -285,7 +301,8 @@
                 "owner": "dereuromark",
                 "repo": "cakephp-bouncer",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             }
           ],
           "description": "Tracking changes and events in your app.",
@@ -303,11 +320,12 @@
                 "archived": false,
                 "id": 865313,
                 "language": "PHP",
-                "last_commit": "2026-08-24T17:34:25Z",
+                "last_commit": "2026-08-28T12:37:25Z",
                 "owner": "CakeDC",
                 "repo": "users",
                 "stars": 523
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -322,7 +340,8 @@
                 "owner": "dereuromark",
                 "repo": "cakephp-tools",
                 "stars": 333
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -337,7 +356,8 @@
                 "owner": "dereuromark",
                 "repo": "cakephp-tinyauth",
                 "stars": 131
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -352,7 +372,8 @@
                 "owner": "cakephp",
                 "repo": "authentication",
                 "stars": 118
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -367,7 +388,8 @@
                 "owner": "cakephp",
                 "repo": "authorization",
                 "stars": 74
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -382,7 +404,8 @@
                 "owner": "ADmad",
                 "repo": "cakephp-social-auth",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -397,7 +420,8 @@
                 "owner": "andrej-griniuk",
                 "repo": "cakephp-two-factor-auth",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -412,7 +436,8 @@
                 "owner": "rrd108",
                 "repo": "api-token-authenticator",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -427,7 +452,8 @@
                 "owner": "salines",
                 "repo": "cakephp-verification",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             }
           ],
           "description": "Plugins and libraries for implementing authentication and authorization.",
@@ -449,7 +475,8 @@
                 "owner": "dereuromark",
                 "repo": "cakephp-cache",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -464,7 +491,8 @@
                 "owner": "CakeDC",
                 "repo": "cakephp-cached-routing",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             }
           ],
           "description": "Storing data for faster retrieval.",
@@ -486,7 +514,8 @@
                 "owner": "dereuromark",
                 "repo": "cakephp-ide-helper",
                 "stars": 189
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -501,7 +530,8 @@
                 "owner": "CakeDC",
                 "repo": "cakephp-phpstan",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -516,7 +546,8 @@
                 "owner": "dereuromark",
                 "repo": "cakephp-test-helper",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -531,7 +562,8 @@
                 "owner": "LordSimal",
                 "repo": "cakephp-psalm",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -546,7 +578,8 @@
                 "owner": "dereuromark",
                 "repo": "cakephp-ide-helper-extra",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             }
           ],
           "description": "Analyzing, parsing and manipulation codebases.",
@@ -568,7 +601,8 @@
                 "owner": "skie",
                 "repo": "SignalHandler",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -583,7 +617,8 @@
                 "owner": "skie",
                 "repo": "cakephp-scheduling",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             }
           ],
           "description": "Command-line tools and improvements.",
@@ -605,7 +640,8 @@
                 "owner": "cakephp",
                 "repo": "debug_kit",
                 "stars": 839
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -620,7 +656,8 @@
                 "owner": "dereuromark",
                 "repo": "cakephp-setup",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -635,7 +672,8 @@
                 "owner": "dereuromark",
                 "repo": "executionorder",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -650,7 +688,8 @@
                 "owner": "dereuromark",
                 "repo": "cakephp-whoops",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -665,7 +704,8 @@
                 "owner": "LordSimal",
                 "repo": "cakephp-sentry",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -680,7 +720,8 @@
                 "owner": "zunnu",
                 "repo": "associations-debugger",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             }
           ],
           "description": "Debugging and local development.",
@@ -702,7 +743,8 @@
                 "owner": "dereuromark",
                 "repo": "cakephp-queue",
                 "stars": 308
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -717,7 +759,8 @@
                 "owner": "sprintcube",
                 "repo": "cakephp-sendgrid",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -732,7 +775,8 @@
                 "owner": "josbeir",
                 "repo": "cakephp-symfony-mailer",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             }
           ],
           "description": "Transports and tools for email handling.",
@@ -754,7 +798,8 @@
                 "owner": "FriendsOfCake",
                 "repo": "cakephp-upload",
                 "stars": 545
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -769,7 +814,8 @@
                 "owner": "dereuromark",
                 "repo": "cakephp-file-storage",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             }
           ],
           "description": "Upload, storage, and file handling.",
@@ -791,7 +837,8 @@
                 "owner": "skie",
                 "repo": "rule-flow",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             }
           ],
           "description": "Data sanitization and validation rules.",
@@ -813,7 +860,8 @@
                 "owner": "dereuromark",
                 "repo": "cakephp-geo",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             }
           ],
           "description": "Geocoding addresses and working with latitudes and longitudes.",
@@ -835,7 +883,8 @@
                 "owner": "cakephp",
                 "repo": "localized",
                 "stars": 212
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -850,7 +899,8 @@
                 "owner": "ADmad",
                 "repo": "cakephp-i18n",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -865,7 +915,8 @@
                 "owner": "dereuromark",
                 "repo": "cakephp-translate",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             }
           ],
           "description": "I18n (Internationalization) and L10n (Localization).",
@@ -887,7 +938,8 @@
                 "owner": "ADmad",
                 "repo": "cakephp-glide",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -902,7 +954,8 @@
                 "owner": "dereuromark",
                 "repo": "cakephp-qrcode",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -917,7 +970,8 @@
                 "owner": "php-collective",
                 "repo": "file-storage-image-processor",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             }
           ],
           "description": "Image processing and manipulation libraries.",
@@ -938,8 +992,9 @@
                 "last_commit": "2020-09-05T10:17:17Z",
                 "owner": "rocketeers",
                 "repo": "rocketeer",
-                "stars": 2632
-              }
+                "stars": 2631
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -954,7 +1009,8 @@
                 "owner": "composer",
                 "repo": "installers",
                 "stars": 1441
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -969,7 +1025,8 @@
                 "owner": "cakephp",
                 "repo": "chronos",
                 "stars": 1362
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -984,7 +1041,8 @@
                 "owner": "alexandresalome",
                 "repo": "graphviz",
                 "stars": 73
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             }
           ],
           "description": "Useful libraries or tools that don't fit in any of the other categories.",
@@ -1006,7 +1064,8 @@
                 "owner": "dereuromark",
                 "repo": "cakephp-markup",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             }
           ],
           "description": "Syntax highlighting and markup processing.",
@@ -1028,7 +1087,8 @@
                 "owner": "cakephp",
                 "repo": "migrations",
                 "stars": 134
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -1043,7 +1103,8 @@
                 "owner": "cakephp",
                 "repo": "upgrade",
                 "stars": 111
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -1058,7 +1119,8 @@
                 "owner": "dereuromark",
                 "repo": "upgrade",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             }
           ],
           "description": "Plugins and resources around migration and upgrading.",
@@ -1080,7 +1142,8 @@
                 "owner": "dereuromark",
                 "repo": "cakephp-tools",
                 "stars": 333
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -1095,7 +1158,8 @@
                 "owner": "dereuromark",
                 "repo": "cakephp-ajax",
                 "stars": 54
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -1110,7 +1174,8 @@
                 "owner": "dereuromark",
                 "repo": "cakephp-shim",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -1125,7 +1190,8 @@
                 "owner": "dereuromark",
                 "repo": "cakephp-setup",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -1140,7 +1206,8 @@
                 "owner": "CakeDC",
                 "repo": "Enum",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -1155,7 +1222,8 @@
                 "owner": "dereuromark",
                 "repo": "cakephp-dto",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -1170,7 +1238,8 @@
                 "owner": "mirko-pagliai",
                 "repo": "cakephp-database-backup",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -1185,7 +1254,8 @@
                 "owner": "zunnu",
                 "repo": "cake-htmx",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -1200,7 +1270,8 @@
                 "owner": "dereuromark",
                 "repo": "cakephp-calendar",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -1215,7 +1286,8 @@
                 "owner": "dereuromark",
                 "repo": "cakephp-flash",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -1230,7 +1302,8 @@
                 "owner": "CakeDC",
                 "repo": "cakephp-inertia",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -1245,7 +1318,8 @@
                 "owner": "cnizzardini",
                 "repo": "cakephp-preloader",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -1260,7 +1334,8 @@
                 "owner": "dereuromark",
                 "repo": "cakephp-feedback",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -1275,7 +1350,8 @@
                 "owner": "dereuromark",
                 "repo": "cakephp-workflow",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -1290,7 +1366,8 @@
                 "owner": "josbeir",
                 "repo": "cakephp-attribute-registry",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -1305,7 +1382,8 @@
                 "owner": "orca-services",
                 "repo": "cakephp-feature-flags",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             }
           ],
           "description": "Misc plugins and libraries.",
@@ -1327,7 +1405,8 @@
                 "owner": "icings",
                 "repo": "menu",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -1342,7 +1421,8 @@
                 "owner": "dereuromark",
                 "repo": "cakephp-menu",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             }
           ],
           "description": "Building navigation structures.",
@@ -1364,7 +1444,8 @@
                 "owner": "josbeir",
                 "repo": "cakephp-mercure",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -1379,7 +1460,8 @@
                 "owner": "Crustum",
                 "repo": "Notification",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -1394,7 +1476,8 @@
                 "owner": "Crustum",
                 "repo": "Broadcasting",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             }
           ],
           "description": "Working with notification software.",
@@ -1416,7 +1499,8 @@
                 "owner": "UseMuffin",
                 "repo": "Trash",
                 "stars": 85
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -1431,7 +1515,8 @@
                 "owner": "riesenia",
                 "repo": "cakephp-duplicatable",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -1446,7 +1531,8 @@
                 "owner": "ADmad",
                 "repo": "cakephp-sequence",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -1461,7 +1547,8 @@
                 "owner": "itosho",
                 "repo": "easy-query",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -1476,7 +1563,8 @@
                 "owner": "UseMuffin",
                 "repo": "Orderly",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -1491,7 +1579,8 @@
                 "owner": "icings",
                 "repo": "partitionable",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -1506,7 +1595,8 @@
                 "owner": "dereuromark",
                 "repo": "cakephp-decimal",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -1521,7 +1611,8 @@
                 "owner": "lampager",
                 "repo": "lampager-cakephp",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -1536,7 +1627,8 @@
                 "owner": "josbeir",
                 "repo": "cakephp-uid",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             }
           ],
           "description": "Plugins that implement object-relational mapping or data-mapping techniques.",
@@ -1558,7 +1650,8 @@
                 "owner": "FriendsOfCake",
                 "repo": "CakePdf",
                 "stars": 371
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             }
           ],
           "description": "Plugins and software for working with PDF files.",
@@ -1580,7 +1673,8 @@
                 "owner": "dereuromark",
                 "repo": "cakephp-queue",
                 "stars": 308
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -1595,7 +1689,8 @@
                 "owner": "cakephp",
                 "repo": "queue",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -1610,7 +1705,8 @@
                 "owner": "dereuromark",
                 "repo": "cakephp-queue-scheduler",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -1625,7 +1721,8 @@
                 "owner": "CakeDC",
                 "repo": "cakephp-enqueue",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -1640,7 +1737,8 @@
                 "owner": "Crustum",
                 "repo": "batch-queue",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -1655,7 +1753,8 @@
                 "owner": "Crustum",
                 "repo": "cakephp-temporal",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             }
           ],
           "description": "Working with event and task queues.",
@@ -1677,7 +1776,8 @@
                 "owner": "FriendsOfCake",
                 "repo": "crud",
                 "stars": 379
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -1692,7 +1792,8 @@
                 "owner": "CakeDC",
                 "repo": "cakephp-api",
                 "stars": 61
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -1707,7 +1808,8 @@
                 "owner": "cnizzardini",
                 "repo": "cakephp-swagger-bake",
                 "stars": 60
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -1722,7 +1824,8 @@
                 "owner": "andrej-griniuk",
                 "repo": "cakephp-fractal-transformer-view",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             }
           ],
           "description": "Plugins and web tools for developing REST-ful APIs.",
@@ -1744,7 +1847,8 @@
                 "owner": "FriendsOfCake",
                 "repo": "search",
                 "stars": 171
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -1759,7 +1863,8 @@
                 "owner": "cakephp",
                 "repo": "elastic-search",
                 "stars": 86
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -1774,7 +1879,8 @@
                 "owner": "skie",
                 "repo": "plum_search",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -1789,7 +1895,8 @@
                 "owner": "dereuromark",
                 "repo": "cakephp-tags",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -1804,7 +1911,8 @@
                 "owner": "CakeDC",
                 "repo": "search-filter",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             }
           ],
           "description": "Plugins and software for indexing and performing search queries on data.",
@@ -1826,7 +1934,8 @@
                 "owner": "UseMuffin",
                 "repo": "Throttle",
                 "stars": 62
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -1841,7 +1950,8 @@
                 "owner": "UseMuffin",
                 "repo": "Obfuscate",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -1856,7 +1966,8 @@
                 "owner": "ctlabvn",
                 "repo": "Recaptcha",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -1871,7 +1982,8 @@
                 "owner": "dereuromark",
                 "repo": "cakephp-expose",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -1886,7 +1998,8 @@
                 "owner": "dereuromark",
                 "repo": "cakephp-captcha",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             }
           ],
           "description": "Plugins and information around security, preventing vulnerabilities and protection against XSS and alike.",
@@ -1908,7 +2021,8 @@
                 "owner": "dereuromark",
                 "repo": "cakephp-tools",
                 "stars": 333
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -1923,7 +2037,8 @@
                 "owner": "UseMuffin",
                 "repo": "Slug",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             }
           ],
           "description": "Search Engine Optimization.",
@@ -1944,8 +2059,9 @@
                 "last_commit": "2026-08-05T02:16:17Z",
                 "owner": "cakephp",
                 "repo": "app",
-                "stars": 386
-              }
+                "stars": 387
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -1960,7 +2076,8 @@
                 "owner": "dereuromark",
                 "repo": "cakephp-app",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             }
           ],
           "description": "Plugins and repositories around app skeletons.",
@@ -1982,7 +2099,8 @@
                 "owner": "dereuromark",
                 "repo": "cakephp-ratings",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -1997,7 +2115,8 @@
                 "owner": "dereuromark",
                 "repo": "cakephp-favorites",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -2012,7 +2131,8 @@
                 "owner": "dereuromark",
                 "repo": "cakephp-comments",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             }
           ],
           "description": "Plugins around social features.",
@@ -2034,7 +2154,8 @@
                 "owner": "FriendsOfCake",
                 "repo": "bootstrap-ui",
                 "stars": 353
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -2049,7 +2170,8 @@
                 "owner": "dereuromark",
                 "repo": "cakephp-tools",
                 "stars": 333
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -2064,7 +2186,8 @@
                 "owner": "FriendsOfCake",
                 "repo": "cakephp-csvview",
                 "stars": 177
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -2079,7 +2202,8 @@
                 "owner": "cakephp",
                 "repo": "bake",
                 "stars": 112
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -2094,7 +2218,8 @@
                 "owner": "cakephp",
                 "repo": "twig-view",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -2109,7 +2234,8 @@
                 "owner": "dereuromark",
                 "repo": "cakephp-feed",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -2124,7 +2250,8 @@
                 "owner": "dereuromark",
                 "repo": "cakephp-meta",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -2139,7 +2266,8 @@
                 "owner": "dereuromark",
                 "repo": "cakephp-templating",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -2154,7 +2282,8 @@
                 "owner": "josbeir",
                 "repo": "cakephp-latte-view",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -2169,7 +2298,8 @@
                 "owner": "dereuromark",
                 "repo": "cakephp-tailwind-ui",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -2184,7 +2314,8 @@
                 "owner": "impronta48",
                 "repo": "cakephp-xlsview",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -2199,7 +2330,8 @@
                 "owner": "josbeir",
                 "repo": "cakephp-templater-defaults",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             }
           ],
           "description": "Template engines and view generation.",
@@ -2221,7 +2353,8 @@
                 "owner": "cakephp",
                 "repo": "cakephp-codesniffer",
                 "stars": 232
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -2236,7 +2369,8 @@
                 "owner": "FriendsOfCake",
                 "repo": "fixturize",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -2251,7 +2385,8 @@
                 "owner": "dereuromark",
                 "repo": "cakephp-fixture-factories",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             }
           ],
           "description": "Plugins/Tools for testing codebases and generating test data.",
@@ -2279,7 +2414,8 @@
                 "owner": "junichi11",
                 "repo": "cakephp3-netbeans",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -2294,7 +2430,8 @@
                 "owner": "stefanvangastel",
                 "repo": "docker-cakephp",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -2309,7 +2446,8 @@
                 "owner": "cnizzardini",
                 "repo": "cakephp-docker",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -2324,7 +2462,8 @@
                 "owner": "cpierce",
                 "repo": "cakephp-vagrant-setup",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -2339,7 +2478,8 @@
                 "owner": "cpierce",
                 "repo": "cakephp-docker-setup",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             }
           ],
           "description": "Software and tools for creating a sandboxed development environment.\nIDE specific compatibility information and tips can be found here.",
@@ -2357,11 +2497,12 @@
                 "archived": false,
                 "id": 3420388,
                 "language": "PHP",
-                "last_commit": "2026-08-27T10:57:59Z",
+                "last_commit": "2026-08-28T02:42:33Z",
                 "owner": "baserproject",
                 "repo": "basercms",
                 "stars": 193
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             }
           ],
           "description": null,
@@ -2383,7 +2524,8 @@
                 "owner": "gothinkster",
                 "repo": "cakephp-realworld-example-app",
                 "stars": 105
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -2398,7 +2540,8 @@
                 "owner": "lorenzo",
                 "repo": "cakephp3-examples",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -2413,7 +2556,8 @@
                 "owner": "XetaIO",
                 "repo": "Xeta",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -2428,7 +2572,8 @@
                 "owner": "ishanvyas22",
                 "repo": "cakephpvue-spa",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -2443,7 +2588,8 @@
                 "owner": "lorenzo",
                 "repo": "cakephp3-bookmarkr",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -2458,7 +2604,8 @@
                 "owner": "Kareylo",
                 "repo": "BlogMVC-CakePHP3",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -2473,7 +2620,8 @@
                 "owner": "ishanvyas22",
                 "repo": "cakephp-loki-demo",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             },
             {
               "node_type": "item",
@@ -2488,7 +2636,8 @@
                 "owner": "dereuromark",
                 "repo": "cakephp-tinyauth-demo",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T20:59:01.216Z"
             }
           ],
           "description": "Web-based (demo) applications and tools.",
@@ -2500,7 +2649,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:59:54.448Z",
+    "last_updated": "2026-08-28T20:59:01.216Z",
     "original_repository_info": {
       "archived": false,
       "id": 22418008,
