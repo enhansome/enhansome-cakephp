@@ -13,8 +13,8 @@ If you are looking for previous CakePHP resources please visit:
 
 Additional lists you might find useful:
 
-* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,634 | 🐛 61 | 🌐 Ruby | 📅 2024-06-02
-* [Awesome PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,671 | 🐛 85 | 📅 2026-07-13
+* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,636 | 🐛 62 | 🌐 Ruby | 📅 2024-06-02
+* [Awesome PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,673 | 🐛 85 | 📅 2026-07-13
 * [CakePHP Plugins](https://plugins.cakephp.org)
 
 > For those wondering; this list differs from plugins.cakephp.org by supporting
@@ -115,7 +115,7 @@ Additional lists you might find useful:
 
 * [Authentication plugin](https://github.com/cakephp/authentication) ⭐ 118 | 🐛 2 | 🌐 PHP | 📅 2026-08-17 - Official CakePHP authentication middleware plugin.
 
-* [Authorization plugin](https://github.com/cakephp/authorization) ⭐ 74 | 🐛 3 | 🌐 PHP | 📅 2026-08-28 - Official CakePHP authorization stack.
+* [Authorization plugin](https://github.com/cakephp/authorization) ⭐ 74 | 🐛 3 | 🌐 PHP | 📅 2026-08-29 - Official CakePHP authorization stack.
 
 * [ADmad/SocialAuth plugin](https://github.com/ADmad/cakephp-social-auth) ⭐ 51 | 🐛 4 | 🌐 PHP | 📅 2026-01-06 - A plugin which allows you to authenticate using social providers like Facebook/Google/Twitter etc. using [SocialConnect/auth](https://github.com/SocialConnect/auth) ⭐ 564 | 🐛 37 | 🌐 PHP | 📅 2026-06-23 social sign on library.
 
@@ -226,7 +226,7 @@ Additional lists you might find useful:
 *Plugins and resources around migration and upgrading.*
 
 * [Migrations plugin](https://github.com/cakephp/migrations) ⭐ 134 | 🐛 6 | 🌐 PHP | 📅 2026-08-17 - (DB) Migration plugin.
-* [Upgrade app](https://github.com/cakephp/upgrade) ⭐ 111 | 🐛 0 | 🌐 PHP | 📅 2026-08-10 - Official upgrade app for 3.x=>4.x and 4.x=>5.x.
+* [Upgrade app](https://github.com/cakephp/upgrade) ⭐ 112 | 🐛 0 | 🌐 PHP | 📅 2026-08-10 - Official upgrade app for 3.x=>4.x and 4.x=>5.x.
 * [Upgrade app (extended)](https://github.com/dereuromark/upgrade) ⭐ 23 | 🐛 1 | 🌐 PHP | 📅 2026-06-18 - An extended upgrade app for 3.x=>4.x and some 5.x snippets.
 * [Upgrade/Migration Guide](https://book.cakephp.org/5/en/appendices.html) - Official migration guide.
 
@@ -411,7 +411,7 @@ IDE specific compatibility information and tips can be found [here](https://gith
 
 *Web-based (demo) applications and tools.*
 
-* [RealWorld](https://github.com/gothinkster/cakephp-realworld-example-app) ⚠️ Archived - Example CakePHP codebase containing real world examples (CRUD, auth, advanced patterns and more) that adheres to the [RealWorld](https://github.com/gothinkster/realworld-example-apps) ⭐ 84,157 | 🐛 27 | 🌐 TypeScript | 📅 2026-08-26 spec and API.
+* [RealWorld](https://github.com/gothinkster/cakephp-realworld-example-app) ⚠️ Archived - Example CakePHP codebase containing real world examples (CRUD, auth, advanced patterns and more) that adheres to the [RealWorld](https://github.com/gothinkster/realworld-example-apps) ⭐ 84,162 | 🐛 27 | 🌐 TypeScript | 📅 2026-08-26 spec and API.
 * [Query examples](https://github.com/lorenzo/cakephp3-examples) ⭐ 56 | 🐛 0 | 🌐 PHP | 📅 2014-08-23 - Advanced query building examples.
 * [Xeta](https://github.com/XetaIO/Xeta) ⭐ 50 | 🐛 4 | 🌐 PHP | 📅 2017-04-25 - A resource to help people starting with CakePHP.
 * [Vue.js demo app](https://github.com/ishanvyas22/cakephpvue-spa) ⭐ 46 | 🐛 2 | 🌐 PHP | 📅 2026-08-06 - A CakePHP + Vue.js single page application skeleton.
