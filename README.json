@@ -10,12 +10,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of amazingly awesome CakePHP plugins, resources and shiny things. ",
+            "homepage": null,
             "id": 22418008,
             "language": null,
+            "license": "WTFPL",
             "last_commit": "2026-08-25T09:35:10Z",
+            "open_issues": 5,
             "owner": "FriendsOfCake",
             "repo": "awesome-cakephp",
-            "stars": 937
+            "stars": 937,
+            "topics": [
+              "awesome",
+              "awesome-list"
+            ]
           },
           "first_seen": "2026-08-28T20:59:01.216Z"
         },
@@ -26,12 +34,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of amazingly awesome CakePHP plugins, resources and shiny things. ",
+            "homepage": null,
             "id": 22418008,
             "language": null,
+            "license": "WTFPL",
             "last_commit": "2026-08-25T09:35:10Z",
+            "open_issues": 5,
             "owner": "FriendsOfCake",
             "repo": "awesome-cakephp",
-            "stars": 937
+            "stars": 937,
+            "topics": [
+              "awesome",
+              "awesome-list"
+            ]
           },
           "first_seen": "2026-08-28T20:59:01.216Z"
         },
@@ -42,12 +58,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of amazingly awesome CakePHP plugins, resources and shiny things. ",
+            "homepage": null,
             "id": 22418008,
             "language": null,
+            "license": "WTFPL",
             "last_commit": "2026-08-25T09:35:10Z",
+            "open_issues": 5,
             "owner": "FriendsOfCake",
             "repo": "awesome-cakephp",
-            "stars": 937
+            "stars": 937,
+            "topics": [
+              "awesome",
+              "awesome-list"
+            ]
           },
           "first_seen": "2026-08-28T20:59:01.216Z"
         },
@@ -58,12 +82,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of amazingly awesome CakePHP plugins, resources and shiny things. ",
+            "homepage": null,
             "id": 22418008,
             "language": null,
+            "license": "WTFPL",
             "last_commit": "2026-08-25T09:35:10Z",
+            "open_issues": 5,
             "owner": "FriendsOfCake",
             "repo": "awesome-cakephp",
-            "stars": 937
+            "stars": 937,
+            "topics": [
+              "awesome",
+              "awesome-list"
+            ]
           },
           "first_seen": "2026-08-28T20:59:01.216Z"
         },
@@ -74,12 +106,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome awesomeness",
+            "homepage": null,
             "id": 21600440,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2024-06-02T22:46:41Z",
+            "open_issues": 61,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33634
+            "stars": 33634,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:59:01.216Z"
         },
@@ -90,12 +127,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of amazingly awesome PHP libraries, resources and shiny things.",
+            "homepage": null,
             "id": 14705691,
             "language": null,
+            "license": "WTFPL",
             "last_commit": "2026-07-13T19:44:57Z",
+            "open_issues": 85,
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32671
+            "stars": 32671,
+            "topics": [
+              "awesome",
+              "awesome-lists",
+              "php",
+              "php-applications",
+              "php-framework",
+              "php-installation",
+              "php-library"
+            ]
           },
           "first_seen": "2026-08-28T20:59:01.216Z"
         }
@@ -114,12 +164,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A CakePHP-focussed MCP server",
+                "homepage": null,
                 "id": 1100394568,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-08-08T09:41:01Z",
+                "open_issues": 0,
                 "owner": "josbeir",
                 "repo": "cakephp-synapse",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "ai",
+                  "cakephp",
+                  "cakephp-plugin",
+                  "mcp",
+                  "mcp-server"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -130,12 +191,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The OpenRouter plugin provides OpenRouter API integration for CakePHP applications.",
+                "homepage": null,
                 "id": 1119850261,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-07-25T21:28:18Z",
+                "open_issues": 0,
                 "owner": "Crustum",
                 "repo": "cakephp-open-router",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             }
@@ -153,12 +219,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Service layer implementation for CakePHP",
+                "homepage": null,
                 "id": 125648998,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-01-04T02:57:56Z",
+                "open_issues": 0,
                 "owner": "burzum",
                 "repo": "cakephp-service-layer",
-                "stars": 68
+                "stars": 68,
+                "topics": [
+                  "architecture",
+                  "cakephp",
+                  "cakephp-framework",
+                  "ddd",
+                  "design-pattern",
+                  "service",
+                  "services"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             }
@@ -176,12 +255,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An asset compression plugin for CakePHP.  Provides file concatenation and a flexible filter system for preprocessing and minification.",
+                "homepage": null,
                 "id": 553608,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2025-11-20T16:25:26Z",
+                "open_issues": 30,
                 "owner": "markstory",
                 "repo": "asset_compress",
-                "stars": 368
+                "stars": 368,
+                "topics": [
+                  "asset-pipeline",
+                  "cakephp",
+                  "cakephp-plugin",
+                  "php"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -192,12 +281,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Provides helpers functions for CakePHP to use Laravel Mix.",
+                "homepage": null,
                 "id": 217691431,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2024-09-24T05:21:12Z",
+                "open_issues": 1,
                 "owner": "ishanvyas22",
                 "repo": "asset-mix",
-                "stars": 33
+                "stars": 33,
+                "topics": [
+                  "assets",
+                  "cakephp",
+                  "cakephp-plugin",
+                  "javascript",
+                  "laravel-mix",
+                  "minifier",
+                  "react",
+                  "reactjs",
+                  "saas",
+                  "scaffolding",
+                  "vue",
+                  "vuejs"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -208,12 +315,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Vite plugin for CakePHP",
+                "homepage": null,
                 "id": 1120087155,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-03-08T16:39:33Z",
+                "open_issues": 0,
                 "owner": "josbeir",
                 "repo": "cakephp-vite",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             }
@@ -231,12 +343,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CakePHP plugin to allow passing currently logged in user to model layer.",
+                "homepage": null,
                 "id": 34571038,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-04-22T06:26:26Z",
+                "open_issues": 0,
                 "owner": "UseMuffin",
                 "repo": "Footprint",
-                "stars": 95
+                "stars": 95,
+                "topics": [
+                  "cakephp",
+                  "cakephp-plugin",
+                  "php"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -247,12 +368,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CakePHP3: plugin that facilitates versioned database entities",
+                "homepage": null,
                 "id": 26097971,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2024-01-09T14:57:21Z",
+                "open_issues": 7,
                 "owner": "josegonzalez",
                 "repo": "cakephp-version",
-                "stars": 49
+                "stars": 49,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -263,12 +389,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DatabaseLog CakePHP plugin to log into DB instead of files. Better to filter and search.",
+                "homepage": null,
                 "id": 9851701,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-08-06T13:39:38Z",
+                "open_issues": 0,
                 "owner": "dereuromark",
                 "repo": "CakePHP-DatabaseLog",
-                "stars": 44
+                "stars": 44,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -279,12 +410,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Flexible and rock solid audit log tracking for CakePHP",
+                "homepage": "https://dereuromark.github.io/cakephp-audit-stash/",
                 "id": 1077141053,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-06-28T10:52:52Z",
+                "open_issues": 1,
                 "owner": "dereuromark",
                 "repo": "cakephp-audit-stash",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "audit-log",
+                  "audit-trail",
+                  "cakephp",
+                  "cakephp-plugin",
+                  "logging",
+                  "php"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -295,12 +438,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Flexible and rock solid gate keeping for CakePHP, moderate/approve changes.",
+                "homepage": "https://dereuromark.github.io/cakephp-bouncer/",
                 "id": 1097616513,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-07-22T12:22:09Z",
+                "open_issues": 2,
                 "owner": "dereuromark",
                 "repo": "cakephp-bouncer",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "cakephp",
+                  "cakephp-plugin",
+                  "gate-keeper",
+                  "moderation",
+                  "php"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             }
@@ -318,12 +472,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Users Plugin for CakePHP",
+                "homepage": "https://www.cakedc.com",
                 "id": 865313,
                 "language": "PHP",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T12:37:25Z",
+                "open_issues": 49,
                 "owner": "CakeDC",
                 "repo": "users",
-                "stars": 523
+                "stars": 523,
+                "topics": [
+                  "cakephp",
+                  "cakephp-plugin",
+                  "hacktoberfest",
+                  "plugin",
+                  "rbac",
+                  "registration",
+                  "social-login",
+                  "users"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -334,12 +502,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A CakePHP Tools plugin containing lots of useful helpers, behaviors, components, shells, ...",
+                "homepage": "https://dereuromark.github.io/cakephp-tools/",
                 "id": 737564,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-08-02T12:09:36Z",
+                "open_issues": 1,
                 "owner": "dereuromark",
                 "repo": "cakephp-tools",
-                "stars": 333
+                "stars": 333,
+                "topics": [
+                  "cakephp",
+                  "cakephp-plugin",
+                  "enum",
+                  "php",
+                  "tools"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -350,12 +529,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CakePHP TinyAuth plugin for an easy and fast user authentication and authorization. Single or multi role. DB or config file based.",
+                "homepage": "https://dereuromark.github.io/cakephp-tinyauth/",
                 "id": 24190137,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-08-02T01:28:56Z",
+                "open_issues": 1,
                 "owner": "dereuromark",
                 "repo": "cakephp-tinyauth",
-                "stars": 131
+                "stars": 131,
+                "topics": [
+                  "acl",
+                  "authentication",
+                  "authorization",
+                  "cakephp",
+                  "cakephp-plugin",
+                  "multi-role",
+                  "php"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -366,12 +558,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Authentication plugin for CakePHP. Can also be used in PSR7 based applications.",
+                "homepage": "https://book.cakephp.org/authentication/",
                 "id": 75036358,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-08-17T18:22:20Z",
+                "open_issues": 2,
                 "owner": "cakephp",
                 "repo": "authentication",
-                "stars": 118
+                "stars": 118,
+                "topics": [
+                  "authentication",
+                  "cakephp",
+                  "cakephp-plugin",
+                  "middleware",
+                  "php",
+                  "psr7-middleware"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -382,12 +586,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PSR7 Middleware for authorization",
+                "homepage": "https://book.cakephp.org/authorization/",
                 "id": 113933042,
                 "language": "PHP",
-                "last_commit": "2026-08-17T18:22:54Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T23:55:31Z",
+                "open_issues": 3,
                 "owner": "cakephp",
                 "repo": "authorization",
-                "stars": 74
+                "stars": 74,
+                "topics": [
+                  "authorization",
+                  "cakephp",
+                  "cakephp-plugin",
+                  "middleware",
+                  "php",
+                  "psr7-middleware"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -398,12 +614,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A CakePHP plugin which allows you to authenticate using social providers like Facebook/Google/Twitter.",
+                "homepage": null,
                 "id": 88990997,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-01-06T12:50:05Z",
+                "open_issues": 4,
                 "owner": "ADmad",
                 "repo": "cakephp-social-auth",
-                "stars": 51
+                "stars": 51,
+                "topics": [
+                  "cakephp-plugin",
+                  "middleware",
+                  "oauth2",
+                  "php",
+                  "social-providers"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -414,12 +641,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Two-factor authentication plugin",
+                "homepage": null,
                 "id": 51571295,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-05-07T13:27:10Z",
+                "open_issues": 2,
                 "owner": "andrej-griniuk",
                 "repo": "cakephp-two-factor-auth",
-                "stars": 38
+                "stars": 38,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -430,12 +662,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 384445889,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2025-11-26T16:26:35Z",
+                "open_issues": 4,
                 "owner": "rrd108",
                 "repo": "api-token-authenticator",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -446,12 +683,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CakePHP 5.x plugin for step-up verification and MFA: email verify, Email OTP, SMS OTP, TOTP",
+                "homepage": "https://packagist.org/packages/salines/cakephp-verification",
                 "id": 1164070026,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-07-12T00:26:23Z",
+                "open_issues": 0,
                 "owner": "salines",
                 "repo": "cakephp-verification",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "2fa",
+                  "cakephp",
+                  "cakephp-plugin",
+                  "cakephp5",
+                  "otp-verification",
+                  "two-factor-authentication"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             }
@@ -469,12 +718,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CakePHP Cache plugin for caching views as static cache files.",
+                "homepage": null,
                 "id": 37812534,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-06-28T09:40:39Z",
+                "open_issues": 2,
                 "owner": "dereuromark",
                 "repo": "cakephp-cache",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -485,12 +739,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Provides a cached version of the RoutingMiddleware to improve the load time of routes",
+                "homepage": null,
                 "id": 463512718,
                 "language": "PHP",
+                "license": "NOASSERTION",
                 "last_commit": "2025-06-23T18:57:36Z",
+                "open_issues": 0,
                 "owner": "CakeDC",
                 "repo": "cakephp-cached-routing",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             }
@@ -508,12 +767,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "IDE Helper plugin for CakePHP",
+                "homepage": "https://dereuromark.github.io/cakephp-ide-helper/",
                 "id": 82395792,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-08-23T15:58:05Z",
+                "open_issues": 4,
                 "owner": "dereuromark",
                 "repo": "cakephp-ide-helper",
-                "stars": 189
+                "stars": 189,
+                "topics": [
+                  "annotations",
+                  "autocompletion",
+                  "cakephp",
+                  "cakephp-plugin",
+                  "ide-helper",
+                  "php",
+                  "support-annotations",
+                  "typehinting"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -524,12 +797,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CakePHP extension for PHPStan",
+                "homepage": null,
                 "id": 266729527,
                 "language": "PHP",
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-21T19:36:25Z",
+                "open_issues": 0,
                 "owner": "CakeDC",
                 "repo": "cakephp-phpstan",
-                "stars": 43
+                "stars": 43,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -540,12 +818,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Helper plugin around CakePHP testing and TDD as browser backend",
+                "homepage": "https://dereuromark.github.io/cakephp-test-helper/",
                 "id": 122780973,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-08-02T09:42:02Z",
+                "open_issues": 1,
                 "owner": "dereuromark",
                 "repo": "cakephp-test-helper",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "debugging",
+                  "generate",
+                  "setup",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -556,12 +844,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A CakePHP plugin for psalm",
+                "homepage": null,
                 "id": 443187815,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2025-11-21T17:21:52Z",
+                "open_issues": 0,
                 "owner": "LordSimal",
                 "repo": "cakephp-psalm",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "cakephp",
+                  "php",
+                  "psalm-plugin"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -572,12 +869,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "IdeHelper task and addon collection",
+                "homepage": "https://github.com/dereuromark/cakephp-ide-helper",
                 "id": 257024435,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-06-28T09:41:37Z",
+                "open_issues": 0,
                 "owner": "dereuromark",
                 "repo": "cakephp-ide-helper-extra",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             }
@@ -595,12 +897,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The SignalHandler plugin provides cross-platform signal handling for CakePHP console commands",
+                "homepage": null,
                 "id": 1018727161,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-07-04T10:25:31Z",
+                "open_issues": 0,
                 "owner": "skie",
                 "repo": "SignalHandler",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -611,12 +918,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The plugin provides task scheduling capabilities with sub-minute precision for CakePHP applications.",
+                "homepage": null,
                 "id": 1058709938,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-07-17T14:54:59Z",
+                "open_issues": 0,
                 "owner": "skie",
                 "repo": "cakephp-scheduling",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             }
@@ -634,12 +946,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Debug Toolbar for CakePHP applications.",
+                "homepage": "https://book.cakephp.org/debugkit/",
                 "id": 423066,
                 "language": "PHP",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-17T18:18:08Z",
+                "open_issues": 0,
                 "owner": "cakephp",
                 "repo": "debug_kit",
-                "stars": 839
+                "stars": 839,
+                "topics": [
+                  "cakephp",
+                  "cakephp-plugin",
+                  "debugbar",
+                  "debugging",
+                  "php"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -650,12 +973,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CakePHP Setup Plugin - containing useful management and debugging tools for CakePHP apps",
+                "homepage": "https://dereuromark.github.io/cakephp-setup/",
                 "id": 3544492,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-08-24T11:01:22Z",
+                "open_issues": 0,
                 "owner": "dereuromark",
                 "repo": "cakephp-setup",
-                "stars": 35
+                "stars": 35,
+                "topics": [
+                  "backup",
+                  "cakephp",
+                  "cakephp-plugin",
+                  "maintenance",
+                  "management",
+                  "php",
+                  "setup"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -666,12 +1002,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A demo app to display dispatching and execution order of files and callbacks in a CakePHP app. Try it out!",
+                "homepage": null,
                 "id": 29074230,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2024-11-07T00:13:51Z",
+                "open_issues": 4,
                 "owner": "dereuromark",
                 "repo": "executionorder",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -682,12 +1023,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Whoops Error Handler for CakePHP - PHP errors and exceptions for cool kids",
+                "homepage": null,
                 "id": 118172151,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-06-28T09:42:53Z",
+                "open_issues": 1,
                 "owner": "dereuromark",
                 "repo": "cakephp-whoops",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -698,12 +1044,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CakePHP 4.4+/5+ plugin integration for Sentry",
+                "homepage": null,
                 "id": 555414023,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-08-09T10:01:09Z",
+                "open_issues": 1,
                 "owner": "LordSimal",
                 "repo": "cakephp-sentry",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -714,12 +1065,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Association Debugger is a association diagram drawer for CakePHP",
+                "homepage": null,
                 "id": 336623549,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-06-15T14:43:06Z",
+                "open_issues": 1,
                 "owner": "zunnu",
                 "repo": "associations-debugger",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "associations",
+                  "cakephp",
+                  "cakephp-plugin",
+                  "php"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             }
@@ -737,12 +1098,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Queue plugin for CakePHP - simple, pure PHP and without dependencies.",
+                "homepage": "https://dereuromark.github.io/cakephp-queue/",
                 "id": 2543495,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-08-02T11:54:00Z",
+                "open_issues": 0,
                 "owner": "dereuromark",
                 "repo": "cakephp-queue",
-                "stars": 308
+                "stars": 308,
+                "topics": [
+                  "asynchronous",
+                  "background-jobs",
+                  "cakephp",
+                  "cakephp-plugin",
+                  "cronjob",
+                  "php",
+                  "queue"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -753,12 +1127,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SendGrid plugin for CakePHP",
+                "homepage": null,
                 "id": 150096068,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2025-01-10T11:36:00Z",
+                "open_issues": 5,
                 "owner": "sprintcube",
                 "repo": "cakephp-sendgrid",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "cakephp",
+                  "cakephp-plugin",
+                  "cakephp3",
+                  "cakephp4",
+                  "email",
+                  "php",
+                  "sendgrid"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -769,12 +1156,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A CakePHP plugin that allows you to use Symfony Mailer as a Mail Transport",
+                "homepage": null,
                 "id": 1335830011,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-08-16T14:17:30Z",
+                "open_issues": 0,
                 "owner": "josbeir",
                 "repo": "cakephp-symfony-mailer",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             }
@@ -792,12 +1184,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CakePHP: Handle file uploading sans ridiculous automagic",
+                "homepage": "https://cakephp-upload.readthedocs.io/",
                 "id": 825261,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-02-16T13:00:30Z",
+                "open_issues": 10,
                 "owner": "FriendsOfCake",
                 "repo": "cakephp-upload",
-                "stars": 545
+                "stars": 545,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -808,12 +1205,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Abstract file storage and upload plugin for CakePHP. Write to local disk, FTP, S3, Dropbox and more through a single interface. It's not just yet another uploader but a complete storage solution.",
+                "homepage": "https://dereuromark.github.io/cakephp-file-storage",
                 "id": 309511008,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-07-31T00:28:19Z",
+                "open_issues": 1,
                 "owner": "dereuromark",
                 "repo": "cakephp-file-storage",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "abstraction",
+                  "cakephp",
+                  "cakephp-plugin",
+                  "filesystem",
+                  "php",
+                  "storage",
+                  "upload"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             }
@@ -831,12 +1241,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CakePHP plugin for automatic server-to-client validation rule transformation using JSON Logic. Zero-config real-time form validation with custom rule support.",
+                "homepage": null,
                 "id": 1000939634,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2025-06-13T08:02:11Z",
+                "open_issues": 0,
                 "owner": "skie",
                 "repo": "rule-flow",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             }
@@ -854,12 +1269,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A CakePHP plugin around geocoding tools and helpers.",
+                "homepage": "https://dereuromark.github.io/cakephp-geo/",
                 "id": 24237908,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-08-02T09:42:21Z",
+                "open_issues": 0,
                 "owner": "dereuromark",
                 "repo": "cakephp-geo",
-                "stars": 51
+                "stars": 51,
+                "topics": [
+                  "cakephp",
+                  "cakephp-plugin",
+                  "geocoder",
+                  "geocoder-provider",
+                  "geocoding",
+                  "php"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             }
@@ -877,12 +1304,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "I18n and L10n related CakePHP code",
+                "homepage": null,
                 "id": 390669,
                 "language": "PHP",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-30T23:43:33Z",
+                "open_issues": 4,
                 "owner": "cakephp",
                 "repo": "localized",
-                "stars": 212
+                "stars": 212,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -893,12 +1325,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A CakePHP plugin with I18n related tools.",
+                "homepage": null,
                 "id": 26358783,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-06-28T17:39:04Z",
+                "open_issues": 1,
                 "owner": "ADmad",
                 "repo": "cakephp-i18n",
-                "stars": 44
+                "stars": 44,
+                "topics": [
+                  "cakephp",
+                  "cakephp-plugin",
+                  "i18n",
+                  "php",
+                  "translation"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -909,12 +1352,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A CakePHP plugin to manage translations of your static content the easy way via web backend.",
+                "homepage": null,
                 "id": 89071365,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-07-09T12:56:37Z",
+                "open_issues": 5,
                 "owner": "dereuromark",
                 "repo": "cakephp-translate",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "cakephp",
+                  "cakephp-plugin",
+                  "i18n",
+                  "po-files",
+                  "translation"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             }
@@ -932,12 +1386,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CakePHP plugin for using Glide image manipulation library",
+                "homepage": null,
                 "id": 40700279,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2025-03-21T15:11:29Z",
+                "open_issues": 0,
                 "owner": "ADmad",
                 "repo": "cakephp-glide",
-                "stars": 34
+                "stars": 34,
+                "topics": [
+                  "cakephp",
+                  "cakephp-plugin",
+                  "image-processing",
+                  "middleware",
+                  "php",
+                  "thumbnail"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -948,12 +1414,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "QR Code Plugin for CakePHP",
+                "homepage": null,
                 "id": 785020073,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-06-28T10:53:13Z",
+                "open_issues": 0,
                 "owner": "dereuromark",
                 "repo": "cakephp-qrcode",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -964,12 +1435,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Image Processing for php-collective/file-storage",
+                "homepage": null,
                 "id": 718407563,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-04-29T12:20:17Z",
+                "open_issues": 1,
                 "owner": "php-collective",
                 "repo": "file-storage-image-processor",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             }
@@ -987,12 +1463,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Send your projects up in the clouds",
+                "homepage": "http://rocketeer.autopergamene.eu/",
                 "id": 10866815,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2020-09-05T10:17:17Z",
+                "open_issues": 132,
                 "owner": "rocketeers",
                 "repo": "rocketeer",
-                "stars": 2631
+                "stars": 2631,
+                "topics": [
+                  "deployment",
+                  "php"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -1003,12 +1487,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Multi-Framework Composer Library Installer",
+                "homepage": null,
                 "id": 4698175,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-07-01T21:02:33Z",
+                "open_issues": 26,
                 "owner": "composer",
                 "repo": "installers",
-                "stars": 1441
+                "stars": 1441,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -1019,12 +1508,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A standalone DateTime library originally based off of Carbon",
+                "homepage": "http://book.cakephp.org/chronos",
                 "id": 42588972,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-08-17T18:21:24Z",
+                "open_issues": 2,
                 "owner": "cakephp",
                 "repo": "chronos",
-                "stars": 1362
+                "stars": 1362,
+                "topics": [
+                  "calendar-dates",
+                  "datetime-objects",
+                  "immutable-objects",
+                  "library",
+                  "mutable-objects",
+                  "php",
+                  "time"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -1035,12 +1537,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PHP Graphviz library",
+                "homepage": "https://alexandresalome.github.io/graphviz/",
                 "id": 4173645,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2024-04-25T20:12:36Z",
+                "open_issues": 3,
                 "owner": "alexandresalome",
                 "repo": "graphviz",
-                "stars": 73
+                "stars": 73,
+                "topics": [
+                  "graphviz",
+                  "php"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             }
@@ -1058,12 +1568,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CakePHP plugin for markup (parsing and displaying)",
+                "homepage": null,
                 "id": 50211541,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-08-18T09:01:46Z",
+                "open_issues": 0,
                 "owner": "dereuromark",
                 "repo": "cakephp-markup",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             }
@@ -1081,12 +1596,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CakePHP database migrations plugin",
+                "homepage": "https://book.cakephp.org/migrations/",
                 "id": 23262129,
                 "language": "PHP",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-17T18:20:10Z",
+                "open_issues": 6,
                 "owner": "cakephp",
                 "repo": "migrations",
-                "stars": 134
+                "stars": 134,
+                "topics": [
+                  "cakephp",
+                  "cakephp-plugin",
+                  "database-migrations",
+                  "php"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -1097,12 +1622,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Upgrade tools for CakePHP meant to facilitate migrating from one version of the framework to another",
+                "homepage": null,
                 "id": 16732471,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-08-10T19:18:12Z",
+                "open_issues": 0,
                 "owner": "cakephp",
                 "repo": "upgrade",
-                "stars": 111
+                "stars": 111,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -1113,12 +1643,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Upgrade tools for CakePHP meant to facilitate migrating from one version of the framework to another",
+                "homepage": null,
                 "id": 28525136,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-06-18T15:30:54Z",
+                "open_issues": 1,
                 "owner": "dereuromark",
                 "repo": "upgrade",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             }
@@ -1136,12 +1671,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A CakePHP Tools plugin containing lots of useful helpers, behaviors, components, shells, ...",
+                "homepage": "https://dereuromark.github.io/cakephp-tools/",
                 "id": 737564,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-08-02T12:09:36Z",
+                "open_issues": 1,
                 "owner": "dereuromark",
                 "repo": "cakephp-tools",
-                "stars": 333
+                "stars": 333,
+                "topics": [
+                  "cakephp",
+                  "cakephp-plugin",
+                  "enum",
+                  "php",
+                  "tools"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -1152,12 +1698,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AJAX for CakePHP: A plugin to ease handling AJAX requests.",
+                "homepage": null,
                 "id": 28989448,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-06-28T09:40:28Z",
+                "open_issues": 0,
                 "owner": "dereuromark",
                 "repo": "cakephp-ajax",
-                "stars": 54
+                "stars": 54,
+                "topics": [
+                  "ajax",
+                  "cakephp",
+                  "cakephp-plugin",
+                  "php"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -1168,12 +1724,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CakePHP plugin to \"shim\" functionality up and down for major versions of the framework.",
+                "homepage": "https://dereuromark.github.io/cakephp-shim/",
                 "id": 29889916,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-08-17T12:06:47Z",
+                "open_issues": 0,
                 "owner": "dereuromark",
                 "repo": "cakephp-shim",
-                "stars": 40
+                "stars": 40,
+                "topics": [
+                  "cakephp",
+                  "cakephp-plugin",
+                  "compatibility-wrapper",
+                  "php",
+                  "shim"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -1184,12 +1751,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CakePHP Setup Plugin - containing useful management and debugging tools for CakePHP apps",
+                "homepage": "https://dereuromark.github.io/cakephp-setup/",
                 "id": 3544492,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-08-24T11:01:22Z",
+                "open_issues": 0,
                 "owner": "dereuromark",
                 "repo": "cakephp-setup",
-                "stars": 35
+                "stars": 35,
+                "topics": [
+                  "backup",
+                  "cakephp",
+                  "cakephp-plugin",
+                  "maintenance",
+                  "management",
+                  "php",
+                  "setup"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -1200,12 +1780,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Enumeration list for CakePHP",
+                "homepage": null,
                 "id": 41097299,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-07-06T09:24:04Z",
+                "open_issues": 4,
                 "owner": "CakeDC",
                 "repo": "Enum",
-                "stars": 30
+                "stars": 30,
+                "topics": [
+                  "cakephp",
+                  "cakephp-plugin",
+                  "cakephp3",
+                  "enumeration"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -1216,12 +1806,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CakePHP DTO plugin - quickly generate useful data transfer objects for your app (mutable/immutable)",
+                "homepage": null,
                 "id": 160880030,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-06-28T11:02:07Z",
+                "open_issues": 0,
                 "owner": "dereuromark",
                 "repo": "cakephp-dto",
-                "stars": 30
+                "stars": 30,
+                "topics": [
+                  "data-transfer",
+                  "transfer-objects"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -1232,12 +1830,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DatabaseBackup is a CakePHP plugin to export, import and manage database backups",
+                "homepage": null,
                 "id": 95145744,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-08-26T10:58:06Z",
+                "open_issues": 4,
                 "owner": "mirko-pagliai",
                 "repo": "cakephp-database-backup",
-                "stars": 24
+                "stars": 24,
+                "topics": [
+                  "backup",
+                  "backup-script",
+                  "backup-tool",
+                  "backup-utility",
+                  "cakephp",
+                  "cakephp-plugin",
+                  "database-backup",
+                  "mysql",
+                  "php",
+                  "postgresql",
+                  "sqlite"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -1248,12 +1863,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CakePHP helper library for Htmx",
+                "homepage": null,
                 "id": 750297927,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2025-12-03T15:08:25Z",
+                "open_issues": 0,
                 "owner": "zunnu",
                 "repo": "cake-htmx",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "ajax",
+                  "backend",
+                  "cakephp",
+                  "cakephp-plugin",
+                  "frontend",
+                  "htmx",
+                  "htmx-cakephp",
+                  "php",
+                  "web-development"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -1264,12 +1894,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CakePHP plugin to render simple calendars or ical/ics files",
+                "homepage": null,
                 "id": 77719248,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-06-28T09:40:43Z",
+                "open_issues": 0,
                 "owner": "dereuromark",
                 "repo": "cakephp-calendar",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -1280,12 +1915,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A CakePHP Flash plugin for more powerful flash messages",
+                "homepage": null,
                 "id": 70943220,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-06-28T09:41:25Z",
+                "open_issues": 0,
                 "owner": "dereuromark",
                 "repo": "cakephp-flash",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -1296,12 +1936,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Plugin for build a Vue 3 app in front and load it on CakePHP site. Communicate Vue 3 Component on front with back without implement and use an API interface using a Middleware",
+                "homepage": null,
                 "id": 764525292,
                 "language": "Twig",
+                "license": "NOASSERTION",
                 "last_commit": "2025-03-03T16:38:32Z",
+                "open_issues": 1,
                 "owner": "CakeDC",
                 "repo": "cakephp-inertia",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -1312,12 +1957,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An OPCache Preloader for CakePHP 4 and 5 applications",
+                "homepage": null,
                 "id": 367684466,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-07-25T05:35:23Z",
+                "open_issues": 0,
                 "owner": "cnizzardini",
                 "repo": "cakephp-preloader",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -1328,12 +1978,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A CakePHP plugin for direct feedback or bugreport (with screenshot!) tab option in your app.",
+                "homepage": null,
                 "id": 116379624,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-06-28T09:41:16Z",
+                "open_issues": 2,
                 "owner": "dereuromark",
                 "repo": "cakephp-feedback",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -1344,12 +1999,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Batteries-included state machine plugin for CakePHP with PHP 8 Attributes, YAML config, audit trails, and visual admin dashboard",
+                "homepage": "https://dereuromark.github.io/cakephp-workflow/",
                 "id": 1194728353,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-06-28T10:50:25Z",
+                "open_issues": 0,
                 "owner": "dereuromark",
                 "repo": "cakephp-workflow",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "cakephp",
+                  "cakephp-plugin",
+                  "finite-state-machine",
+                  "graph",
+                  "php",
+                  "statemachine",
+                  "transitions",
+                  "workflow"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -1360,12 +2029,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A CakePHP plugin to discover and access PHP attributes",
+                "homepage": null,
                 "id": 1121098784,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-02-17T12:39:14Z",
+                "open_issues": 0,
                 "owner": "josbeir",
                 "repo": "cakephp-attribute-registry",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -1376,12 +2050,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A CakePHP plugin for managing feature flags in your code",
+                "homepage": null,
                 "id": 554859908,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-08-25T09:08:24Z",
+                "open_issues": 2,
                 "owner": "orca-services",
                 "repo": "cakephp-feature-flags",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "cakephp",
+                  "cakephp-plugin",
+                  "feature-flag",
+                  "feature-flags",
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             }
@@ -1399,12 +2084,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A KnpMenu seasoned menu plugin for CakePHP.",
+                "homepage": null,
                 "id": 91030043,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2024-06-19T08:41:41Z",
+                "open_issues": 4,
                 "owner": "icings",
                 "repo": "menu",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "cakephp-plugin",
+                  "knpmenu",
+                  "menu",
+                  "php"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -1415,12 +2110,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Powerful Menu plugin for CakePHP",
+                "homepage": "https://dereuromark.github.io/cakephp-menu/",
                 "id": 126092570,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-08-08T07:08:20Z",
+                "open_issues": 1,
                 "owner": "dereuromark",
                 "repo": "cakephp-menu",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "builder",
+                  "menu",
+                  "navigation",
+                  "tree"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             }
@@ -1438,12 +2143,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Push real-time updates to clients with Mercure 🚀 ",
+                "homepage": null,
                 "id": 1078978789,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-08-23T20:29:24Z",
+                "open_issues": 0,
                 "owner": "josbeir",
                 "repo": "cakephp-mercure",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -1454,12 +2164,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CakePHP Notification Plugin - Multi-channel notification system",
+                "homepage": null,
                 "id": 1105154320,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-07-25T21:27:59Z",
+                "open_issues": 0,
                 "owner": "Crustum",
                 "repo": "Notification",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -1470,12 +2185,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CakePHP Broadcasting Plugin - Real-time event broadcasting with WebSocket support",
+                "homepage": null,
                 "id": 1105154213,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-08-13T05:55:02Z",
+                "open_issues": 0,
                 "owner": "Crustum",
                 "repo": "Broadcasting",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             }
@@ -1493,12 +2213,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Adds soft-delete support to CakePHP ORM.",
+                "homepage": null,
                 "id": 39428165,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-03-24T16:52:11Z",
+                "open_issues": 3,
                 "owner": "UseMuffin",
                 "repo": "Trash",
-                "stars": 85
+                "stars": 85,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -1509,12 +2234,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CakePHP plugin for duplicating entities including related data",
+                "homepage": null,
                 "id": 45679037,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2024-08-07T14:25:47Z",
+                "open_issues": 5,
                 "owner": "riesenia",
                 "repo": "cakephp-duplicatable",
-                "stars": 51
+                "stars": 51,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -1525,12 +2255,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CakePHP plugin for maintaining a contiguous sequence of records",
+                "homepage": null,
                 "id": 30717712,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2025-11-22T13:48:59Z",
+                "open_issues": 0,
                 "owner": "ADmad",
                 "repo": "cakephp-sequence",
-                "stars": 45
+                "stars": 45,
+                "topics": [
+                  "cakephp",
+                  "cakephp-plugin",
+                  "php",
+                  "sequence",
+                  "sorting"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -1541,12 +2282,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CakePHP behavior plugin for easily generating some complicated queries like (bulk) insert/upsert etc.",
+                "homepage": null,
                 "id": 102205772,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2024-03-07T14:28:59Z",
+                "open_issues": 0,
                 "owner": "itosho",
                 "repo": "easy-query",
-                "stars": 26
+                "stars": 26,
+                "topics": [
+                  "behavior",
+                  "bulk-insert",
+                  "cakephp",
+                  "cakephp-orm",
+                  "cakephp-plugin",
+                  "cakephp5",
+                  "composer-package",
+                  "php8",
+                  "upsert"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -1557,12 +2313,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Default ordering for your CakePHP tables",
+                "homepage": null,
                 "id": 51081581,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-01-06T08:38:56Z",
+                "open_issues": 0,
                 "owner": "UseMuffin",
                 "repo": "Orderly",
-                "stars": 22
+                "stars": 22,
+                "topics": [
+                  "cakephp",
+                  "cakephp-plugin",
+                  "ordering",
+                  "php"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -1573,12 +2339,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Partitionable associations for the CakePHP ORM, allowing for basic limiting per group.",
+                "homepage": null,
                 "id": 370419309,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2024-07-03T10:58:15Z",
+                "open_issues": 2,
                 "owner": "icings",
                 "repo": "partitionable",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "associations",
+                  "cakephp",
+                  "database",
+                  "greatest-n-per-group",
+                  "limit",
+                  "orm"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -1589,12 +2367,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CakePHP Decimal type handling using Decimal value object.",
+                "homepage": null,
                 "id": 202242100,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-06-28T10:48:52Z",
+                "open_issues": 0,
                 "owner": "dereuromark",
                 "repo": "cakephp-decimal",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "cakephp",
+                  "decimal",
+                  "php",
+                  "precision"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -1605,12 +2393,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rapid pagination for CakePHP",
+                "homepage": null,
                 "id": 107501237,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2025-08-24T11:46:37Z",
+                "open_issues": 1,
                 "owner": "lampager",
                 "repo": "lampager-cakephp",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "cakephp",
+                  "cakephp-plugin",
+                  "fast",
+                  "pagination",
+                  "paginator",
+                  "php"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -1621,12 +2421,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A CakePHP plugin providing a collection of UID field types for your applications.",
+                "homepage": null,
                 "id": 1035080774,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2025-08-27T20:03:41Z",
+                "open_issues": 0,
                 "owner": "josbeir",
                 "repo": "cakephp-uid",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             }
@@ -1644,12 +2449,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CakePHP plugin for creating and/or rendering PDFs, supporting several popular PDF engines.",
+                "homepage": null,
                 "id": 4264971,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-06-19T18:25:47Z",
+                "open_issues": 2,
                 "owner": "FriendsOfCake",
                 "repo": "CakePdf",
-                "stars": 371
+                "stars": 371,
+                "topics": [
+                  "cakephp",
+                  "cakephp-plugin",
+                  "pdf",
+                  "php"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             }
@@ -1667,12 +2482,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Queue plugin for CakePHP - simple, pure PHP and without dependencies.",
+                "homepage": "https://dereuromark.github.io/cakephp-queue/",
                 "id": 2543495,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-08-02T11:54:00Z",
+                "open_issues": 0,
                 "owner": "dereuromark",
                 "repo": "cakephp-queue",
-                "stars": 308
+                "stars": 308,
+                "topics": [
+                  "asynchronous",
+                  "background-jobs",
+                  "cakephp",
+                  "cakephp-plugin",
+                  "cronjob",
+                  "php",
+                  "queue"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -1683,12 +2511,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A queue-interop compatible Queueing library",
+                "homepage": "https://book.cakephp.org/queue/",
                 "id": 225091981,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-08-24T17:56:37Z",
+                "open_issues": 9,
                 "owner": "cakephp",
                 "repo": "queue",
-                "stars": 36
+                "stars": 36,
+                "topics": [
+                  "cakephp",
+                  "cakephp-plugin",
+                  "queue",
+                  "queue-interop",
+                  "queueing"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -1699,12 +2538,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CakePHP Addon for Queue plugin to schedule commands and queue tasks as crontab like DB solution",
+                "homepage": null,
                 "id": 706440797,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-06-28T09:42:00Z",
+                "open_issues": 1,
                 "owner": "dereuromark",
                 "repo": "cakephp-queue-scheduler",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -1715,12 +2559,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 530612024,
                 "language": "PHP",
+                "license": "NOASSERTION",
                 "last_commit": "2025-09-22T15:48:18Z",
+                "open_issues": 0,
                 "owner": "CakeDC",
                 "repo": "cakephp-enqueue",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -1731,12 +2580,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The BatchQueue plugin provides a unified system for managing batch job processing in CakePHP applications. It supports both parallel execution and sequential chains. The plugin includes built-in support for compensation patterns.",
+                "homepage": null,
                 "id": 1112377944,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-07-25T21:25:44Z",
+                "open_issues": 0,
                 "owner": "Crustum",
                 "repo": "batch-queue",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -1747,12 +2601,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Temporal plugin provides workflow orchestration for CakePHP applications using Temporal.",
+                "homepage": null,
                 "id": 1120459609,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2025-12-21T09:07:29Z",
+                "open_issues": 0,
                 "owner": "Crustum",
                 "repo": "cakephp-temporal",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             }
@@ -1770,12 +2629,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Production-grade rapid controller development with built in love for API and Search",
+                "homepage": "https://crud.readthedocs.io/en/latest/",
                 "id": 10498102,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-01-13T01:54:52Z",
+                "open_issues": 11,
                 "owner": "FriendsOfCake",
                 "repo": "crud",
-                "stars": 379
+                "stars": 379,
+                "topics": [
+                  "cakephp",
+                  "cakephp-plugin",
+                  "crud",
+                  "php"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -1786,12 +2655,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "API Plugin for CakePHP",
+                "homepage": null,
                 "id": 73112770,
                 "language": "PHP",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-17T08:01:20Z",
+                "open_issues": 8,
                 "owner": "CakeDC",
                 "repo": "cakephp-api",
-                "stars": 61
+                "stars": 61,
+                "topics": [
+                  "api",
+                  "cakephp",
+                  "cakephp-api"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -1802,12 +2680,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automatically generate OpenAPI, Swagger, and Redoc documentation from your existing CakePHP code.",
+                "homepage": "http://cakephpswaggerbake.cnizz.com/",
                 "id": 254755946,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-07-25T02:58:48Z",
+                "open_issues": 1,
                 "owner": "cnizzardini",
                 "repo": "cakephp-swagger-bake",
-                "stars": 60
+                "stars": 60,
+                "topics": [
+                  "cake-plugin",
+                  "cakephp",
+                  "cakephp-api",
+                  "cakephp-plugin",
+                  "cakephp4",
+                  "openapi",
+                  "redoc",
+                  "swagger-bake",
+                  "swagger-documentation",
+                  "swagger-ui"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -1818,12 +2712,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CakePHP view builder utilizing Fractal library for entities transformation",
+                "homepage": null,
                 "id": 51300279,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2023-12-11T04:55:10Z",
+                "open_issues": 0,
                 "owner": "andrej-griniuk",
                 "repo": "cakephp-fractal-transformer-view",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             }
@@ -1841,12 +2740,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CakePHP: Easy model searching",
+                "homepage": null,
                 "id": 19203030,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-05-11T21:10:06Z",
+                "open_issues": 0,
                 "owner": "FriendsOfCake",
                 "repo": "search",
-                "stars": 171
+                "stars": 171,
+                "topics": [
+                  "cakephp",
+                  "cakephp-plugin",
+                  "filter",
+                  "php",
+                  "search"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -1857,12 +2767,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Elastic search datasource for CakePHP",
+                "homepage": "https://book.cakephp.org/elasticsearch/",
                 "id": 17096843,
                 "language": "PHP",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-25T20:39:22Z",
+                "open_issues": 0,
                 "owner": "cakephp",
                 "repo": "elastic-search",
-                "stars": 86
+                "stars": 86,
+                "topics": [
+                  "cakephp",
+                  "cakephp-plugin",
+                  "elasticsearch",
+                  "php"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -1873,12 +2793,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Plum Search plugin for CakePHP",
+                "homepage": null,
                 "id": 28932143,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-08-13T03:52:44Z",
+                "open_issues": 0,
                 "owner": "skie",
                 "repo": "plum_search",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "cakephp",
+                  "cakephp-plugin",
+                  "plum-search",
+                  "search"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -1889,12 +2819,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CakePHP Tags Plugin",
+                "homepage": null,
                 "id": 115227793,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-06-28T10:51:13Z",
+                "open_issues": 1,
                 "owner": "dereuromark",
                 "repo": "cakephp-tags",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "cakephp",
+                  "tagging",
+                  "tags"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -1905,12 +2844,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 854497355,
                 "language": "PHP",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-01T03:22:48Z",
+                "open_issues": 0,
                 "owner": "CakeDC",
                 "repo": "search-filter",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             }
@@ -1928,12 +2872,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "(API) Rate limiting requests in CakePHP",
+                "homepage": null,
                 "id": 34675617,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2023-09-23T08:44:45Z",
+                "open_issues": 0,
                 "owner": "UseMuffin",
                 "repo": "Throttle",
-                "stars": 62
+                "stars": 62,
+                "topics": [
+                  "cakephp",
+                  "cakephp-plugin",
+                  "middleware",
+                  "php",
+                  "rate-limiting"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -1944,12 +2899,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ID obfuscation for the CakePHP ORM.",
+                "homepage": null,
                 "id": 49851077,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2023-09-27T03:14:52Z",
+                "open_issues": 0,
                 "owner": "UseMuffin",
                 "repo": "Obfuscate",
-                "stars": 36
+                "stars": 36,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -1960,12 +2920,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CakePHP: Easy to integrate Google Recaptcha v2 to your project.",
+                "homepage": null,
                 "id": 47564984,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2025-01-28T13:11:25Z",
+                "open_issues": 0,
                 "owner": "ctlabvn",
                 "repo": "Recaptcha",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "cakephp",
+                  "composer",
+                  "recaptcha"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -1976,12 +2945,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CakePHP Expose plugin to expose entities through additional UUIDs instead of their AIID primary keys",
+                "homepage": null,
                 "id": 244479090,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-06-29T11:49:58Z",
+                "open_issues": 0,
                 "owner": "dereuromark",
                 "repo": "cakephp-expose",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -1992,12 +2966,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dead simple, unobtrusive and extendable captcha solution for CakePHP",
+                "homepage": null,
                 "id": 60796823,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-07-02T18:06:39Z",
+                "open_issues": 0,
                 "owner": "dereuromark",
                 "repo": "cakephp-captcha",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "cakephp",
+                  "cakephp-plugin",
+                  "captcha"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             }
@@ -2015,12 +2998,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A CakePHP Tools plugin containing lots of useful helpers, behaviors, components, shells, ...",
+                "homepage": "https://dereuromark.github.io/cakephp-tools/",
                 "id": 737564,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-08-02T12:09:36Z",
+                "open_issues": 1,
                 "owner": "dereuromark",
                 "repo": "cakephp-tools",
-                "stars": 333
+                "stars": 333,
+                "topics": [
+                  "cakephp",
+                  "cakephp-plugin",
+                  "enum",
+                  "php",
+                  "tools"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -2031,12 +3025,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Slugging for CakePHP",
+                "homepage": null,
                 "id": 34018840,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2024-10-29T08:16:38Z",
+                "open_issues": 5,
                 "owner": "UseMuffin",
                 "repo": "Slug",
-                "stars": 38
+                "stars": 38,
+                "topics": [
+                  "cakephp",
+                  "cakephp-plugin",
+                  "php",
+                  "slug"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             }
@@ -2054,12 +3058,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CakePHP application template",
+                "homepage": null,
                 "id": 12865009,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2026-08-05T02:16:17Z",
+                "open_issues": 6,
                 "owner": "cakephp",
                 "repo": "app",
-                "stars": 387
+                "stars": 387,
+                "topics": [
+                  "cakephp",
+                  "cakephp-application",
+                  "php"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -2070,12 +3083,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CakePHP application template - BS flavored",
+                "homepage": null,
                 "id": 883182452,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2026-05-02T13:19:48Z",
+                "open_issues": 0,
                 "owner": "dereuromark",
                 "repo": "cakephp-app",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "cakephp",
+                  "cakephp-application",
+                  "php",
+                  "skeleton-template"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             }
@@ -2093,12 +3116,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ratings Plugin for CakePHP",
+                "homepage": null,
                 "id": 4374618,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-06-28T10:53:17Z",
+                "open_issues": 1,
                 "owner": "dereuromark",
                 "repo": "cakephp-ratings",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "ratings",
+                  "reviews",
+                  "stars",
+                  "voting"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -2109,12 +3142,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Favorites Plugin for CakePHP",
+                "homepage": null,
                 "id": 780116178,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-06-28T10:33:20Z",
+                "open_issues": 0,
                 "owner": "dereuromark",
                 "repo": "cakephp-favorites",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "favorites",
+                  "likes",
+                  "rating",
+                  "stars",
+                  "votes"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -2125,12 +3169,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Comments Plugin for CakePHP",
+                "homepage": null,
                 "id": 771218504,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-06-28T10:53:27Z",
+                "open_issues": 1,
                 "owner": "dereuromark",
                 "repo": "cakephp-comments",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             }
@@ -2148,12 +3197,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CakePHP: Transparently use Bootstrap",
+                "homepage": null,
                 "id": 28697596,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-07-11T09:50:37Z",
+                "open_issues": 0,
                 "owner": "FriendsOfCake",
                 "repo": "bootstrap-ui",
-                "stars": 353
+                "stars": 353,
+                "topics": [
+                  "bootstrap",
+                  "cakephp",
+                  "cakephp-plugin",
+                  "php"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -2164,12 +3223,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A CakePHP Tools plugin containing lots of useful helpers, behaviors, components, shells, ...",
+                "homepage": "https://dereuromark.github.io/cakephp-tools/",
                 "id": 737564,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-08-02T12:09:36Z",
+                "open_issues": 1,
                 "owner": "dereuromark",
                 "repo": "cakephp-tools",
-                "stars": 333
+                "stars": 333,
+                "topics": [
+                  "cakephp",
+                  "cakephp-plugin",
+                  "enum",
+                  "php",
+                  "tools"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -2180,12 +3250,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CakePHP: A view class for generating CSV",
+                "homepage": null,
                 "id": 5823079,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-05-12T10:44:24Z",
+                "open_issues": 2,
                 "owner": "FriendsOfCake",
                 "repo": "cakephp-csvview",
-                "stars": 177
+                "stars": 177,
+                "topics": [
+                  "cakephp",
+                  "cakephp-plugin",
+                  "csv",
+                  "php"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -2196,12 +3276,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Bake Command Plugin",
+                "homepage": "https://book.cakephp.org/bake/",
                 "id": 27730883,
                 "language": "PHP",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-17T18:20:41Z",
+                "open_issues": 0,
                 "owner": "cakephp",
                 "repo": "bake",
-                "stars": 112
+                "stars": 112,
+                "topics": [
+                  "cakephp",
+                  "cakephp-plugin",
+                  "code-generation",
+                  "php"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -2212,12 +3302,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Twig View for CakePHP ",
+                "homepage": null,
                 "id": 245700994,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-06-30T09:14:43Z",
+                "open_issues": 3,
                 "owner": "cakephp",
                 "repo": "twig-view",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "cakephp",
+                  "twig",
+                  "twig-template-engine"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -2228,12 +3327,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CakePHP Plugin with RssView to create RSS feeds.",
+                "homepage": null,
                 "id": 28979310,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-06-28T09:41:13Z",
+                "open_issues": 0,
                 "owner": "dereuromark",
                 "repo": "cakephp-feed",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "cakephp",
+                  "cakephp-plugin",
+                  "feed",
+                  "php",
+                  "rss"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -2244,12 +3354,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CakePHP Meta plugin for managing meta tags and SEO related HTML header markup.",
+                "homepage": null,
                 "id": 38630011,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-06-28T10:53:09Z",
+                "open_issues": 0,
                 "owner": "dereuromark",
                 "repo": "cakephp-meta",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -2260,12 +3375,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A plugin for templating in CakePHP with HTML value objects, font-icons and useful helpers",
+                "homepage": "https://dereuromark.github.io/cakephp-templating/",
                 "id": 729778571,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-06-28T10:53:23Z",
+                "open_issues": 0,
                 "owner": "dereuromark",
                 "repo": "cakephp-templating",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "bootstrap",
+                  "cakephp",
+                  "cakephp-plugin",
+                  "font-icons",
+                  "html",
+                  "icons",
+                  "php"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -2276,12 +3404,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A CakePHP plugin to seamlessly integrate the Latte templating engine into your application.",
+                "homepage": null,
                 "id": 1044219743,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-04-06T19:56:11Z",
+                "open_issues": 3,
                 "owner": "josbeir",
                 "repo": "cakephp-latte-view",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -2292,12 +3425,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tailwind CSS / DaisyUI view helpers for CakePHP (forms, pagination, flash, breadcrumbs)",
+                "homepage": "https://github.com/dereuromark/cakephp-tailwind-ui",
                 "id": 1208710487,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-08-08T11:10:27Z",
+                "open_issues": 0,
                 "owner": "dereuromark",
                 "repo": "cakephp-tailwind-ui",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -2308,12 +3446,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CakePHP Plugin that generates XLS files",
+                "homepage": null,
                 "id": 886088129,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2025-01-11T14:22:26Z",
+                "open_issues": 2,
                 "owner": "impronta48",
                 "repo": "cakephp-xlsview",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -2324,12 +3467,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Define default HTML attributes within CakePHP's string template system",
+                "homepage": null,
                 "id": 1052272429,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2025-09-20T21:48:57Z",
+                "open_issues": 0,
                 "owner": "josbeir",
                 "repo": "cakephp-templater-defaults",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             }
@@ -2347,12 +3495,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CakePHP Code Sniffer",
+                "homepage": "http://cakephp.org",
                 "id": 3634443,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-08-21T05:12:55Z",
+                "open_issues": 5,
                 "owner": "cakephp",
                 "repo": "cakephp-codesniffer",
-                "stars": 232
+                "stars": 232,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -2363,12 +3516,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CakePHP: Improve performance of your fixture based tests on MySQL.",
+                "homepage": null,
                 "id": 62564031,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2024-08-09T14:17:56Z",
+                "open_issues": 4,
                 "owner": "FriendsOfCake",
                 "repo": "fixturize",
-                "stars": 24
+                "stars": 24,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -2379,12 +3537,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CakePHP Fixture Factories - maintained version with modern approach.",
+                "homepage": "https://dereuromark.github.io/cakephp-fixture-factories/",
                 "id": 723551200,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-05-28T14:07:23Z",
+                "open_issues": 2,
                 "owner": "dereuromark",
                 "repo": "cakephp-fixture-factories",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "cakephp",
+                  "cakephp-plugin",
+                  "fixture-factories",
+                  "php",
+                  "plugin",
+                  "test-fixtures"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             }
@@ -2408,12 +3578,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CakePHP3/4 support in NetBeans",
+                "homepage": null,
                 "id": 28796004,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2022-11-24T03:28:57Z",
+                "open_issues": 8,
                 "owner": "junichi11",
                 "repo": "cakephp3-netbeans",
-                "stars": 47
+                "stars": 47,
+                "topics": [
+                  "cakephp3",
+                  "cakephp4",
+                  "netbeans-plugin"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -2424,12 +3603,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Example Dockerfile for deploying a CakePHP application in a Docker container, able to connect to a remote database with database-based sessions.",
+                "homepage": null,
                 "id": 23392173,
                 "language": "Dockerfile",
+                "license": "MIT",
                 "last_commit": "2019-11-09T09:48:10Z",
+                "open_issues": 0,
                 "owner": "stefanvangastel",
                 "repo": "docker-cakephp",
-                "stars": 30
+                "stars": 30,
+                "topics": [
+                  "cakephp",
+                  "cakephp-application",
+                  "docker",
+                  "docker-cakephp",
+                  "docker-container",
+                  "dockerfile",
+                  "mysql-container",
+                  "ubuntu"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -2440,12 +3633,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A cakephp 5 template for Docker",
+                "homepage": null,
                 "id": 298841056,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2024-11-25T19:01:19Z",
+                "open_issues": 4,
                 "owner": "cnizzardini",
                 "repo": "cakephp-docker",
-                "stars": 29
+                "stars": 29,
+                "topics": [
+                  "cakephp",
+                  "cakephp-docker",
+                  "cakephp4",
+                  "docker",
+                  "docker-compose",
+                  "docker-compose-template",
+                  "docker-template"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -2456,12 +3662,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CakePHP 3 Vagrant Setup made simple",
+                "homepage": null,
                 "id": 56794871,
                 "language": "Jinja",
+                "license": "MIT",
                 "last_commit": "2022-03-31T16:14:01Z",
+                "open_issues": 0,
                 "owner": "cpierce",
                 "repo": "cakephp-vagrant-setup",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -2472,12 +3683,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "One-command CakePHP 5.x project generator with Docker, authentication, and SSL",
+                "homepage": null,
                 "id": 1159290859,
                 "language": "Smarty",
+                "license": "MIT",
                 "last_commit": "2026-04-30T21:55:26Z",
+                "open_issues": 0,
                 "owner": "cpierce",
                 "repo": "cakephp-docker-setup",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             }
@@ -2495,12 +3711,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "baserCMS :  Based Website Development Project",
+                "homepage": "http://basercms.net",
                 "id": 3420388,
                 "language": "PHP",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T02:42:33Z",
+                "open_issues": 87,
                 "owner": "baserproject",
                 "repo": "basercms",
-                "stars": 193
+                "stars": 193,
+                "topics": [
+                  "basercms",
+                  "php"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             }
@@ -2518,12 +3742,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 90197927,
                 "language": "PHP",
+                "license": "NOASSERTION",
                 "last_commit": "2021-10-05T21:16:40Z",
+                "open_issues": 2,
                 "owner": "gothinkster",
                 "repo": "cakephp-realworld-example-app",
-                "stars": 105
+                "stars": 105,
+                "topics": [
+                  "backend",
+                  "cakephp",
+                  "demo-app",
+                  "realworld",
+                  "rest-api"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -2534,12 +3769,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of examples for CakePHP 3",
+                "homepage": null,
                 "id": 23251089,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2014-08-23T14:00:36Z",
+                "open_issues": 0,
                 "owner": "lorenzo",
                 "repo": "cakephp3-examples",
-                "stars": 56
+                "stars": 56,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -2550,12 +3790,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A resource to help people starting with @CakePHP 3.",
+                "homepage": "https://xeta.io",
                 "id": 24263913,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2017-04-25T20:41:11Z",
+                "open_issues": 4,
                 "owner": "XetaIO",
                 "repo": "Xeta",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "blog",
+                  "cakephp",
+                  "dashboard",
+                  "framework",
+                  "php"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -2566,12 +3817,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A CakePHP + VueJS single page application skeleton/boilerplate.",
+                "homepage": null,
                 "id": 161028411,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-08-06T14:31:44Z",
+                "open_issues": 2,
                 "owner": "ishanvyas22",
                 "repo": "cakephpvue-spa",
-                "stars": 46
+                "stars": 46,
+                "topics": [
+                  "boilerplate",
+                  "cakephp",
+                  "crud",
+                  "hacktoberfest",
+                  "single-page-app",
+                  "skeleton",
+                  "spa",
+                  "vuejs"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -2582,12 +3847,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A Sample CakePHP 3 application built with the Crud plugin",
+                "homepage": null,
                 "id": 25625879,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2015-05-08T13:49:50Z",
+                "open_issues": 2,
                 "owner": "lorenzo",
                 "repo": "cakephp3-bookmarkr",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -2598,12 +3868,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Part of BlogMVC project: http://blogmvc.com/",
+                "homepage": null,
                 "id": 92321876,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2026-08-22T15:52:32Z",
+                "open_issues": 1,
                 "owner": "Kareylo",
                 "repo": "BlogMVC-CakePHP3",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -2614,12 +3889,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A demo application to send CakePHP docker container logs to Grafana Loki via Fluentd.",
+                "homepage": null,
                 "id": 554775374,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-08-03T14:27:46Z",
+                "open_issues": 0,
                 "owner": "ishanvyas22",
                 "repo": "cakephp-loki-demo",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "cakephp",
+                  "docker",
+                  "docker-compose",
+                  "fluentd",
+                  "grafana-loki",
+                  "logging"
+                ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             },
@@ -2630,12 +3917,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Demo App for TinyAuthBackend and TinyAuth plugins around CakePHP Auth.",
+                "homepage": null,
                 "id": 1191889679,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2026-07-29T11:53:24Z",
+                "open_issues": 2,
                 "owner": "dereuromark",
                 "repo": "cakephp-tinyauth-demo",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
             }
@@ -2649,15 +3941,23 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:59:01.216Z",
+    "last_updated": "2026-08-29T04:36:01.770Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of amazingly awesome CakePHP plugins, resources and shiny things. ",
+      "homepage": null,
       "id": 22418008,
       "language": null,
+      "license": "WTFPL",
       "last_commit": "2026-08-25T09:35:10Z",
+      "open_issues": 5,
       "owner": "FriendsOfCake",
       "repo": "awesome-cakephp",
-      "stars": 937
+      "stars": 937,
+      "topics": [
+        "awesome",
+        "awesome-list"
+      ]
     },
     "original_repository_sha": "3d88e89ed7e8a9c6679ffce659f38cba6b4226ad",
     "enhanced_repository": "enhansome/enhansome-cakephp",
