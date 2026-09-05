@@ -13,8 +13,8 @@ If you are looking for previous CakePHP resources please visit:
 
 Additional lists you might find useful:
 
-* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,652 | 🐛 62 | 🌐 Ruby | 📅 2024-06-02
-* [Awesome PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,674 | 🐛 85 | 📅 2026-07-13
+* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,653 | 🐛 62 | 🌐 Ruby | 📅 2024-06-02
+* [Awesome PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,676 | 🐛 85 | 📅 2026-07-13
 * [CakePHP Plugins](https://plugins.cakephp.org)
 
 > For those wondering; this list differs from plugins.cakephp.org by supporting
@@ -107,7 +107,7 @@ Additional lists you might find useful:
 
 *Plugins and libraries for implementing authentication and authorization.*
 
-* [CakeDC/Users plugin](https://github.com/CakeDC/users) ⭐ 523 | 🐛 50 | 🌐 PHP | 📅 2026-08-31 - Complete user management (admin panel, remember me, etc), Social login (FB, Twitter, LinkedIn, Google, Instagram), RBAC, API and more.
+* [CakeDC/Users plugin](https://github.com/CakeDC/users) ⭐ 522 | 🐛 50 | 🌐 PHP | 📅 2026-08-31 - Complete user management (admin panel, remember me, etc), Social login (FB, Twitter, LinkedIn, Google, Instagram), RBAC, API and more.
 
 * [Tools:Passwordable](https://github.com/dereuromark/cakephp-tools) ⭐ 333 | 🐛 1 | 🌐 PHP | 📅 2026-08-02 - Containing [Passwordable behavior](https://dereuromark.github.io/cakephp-tools/behavior/passwordable) for a DRY approach on password hashing.
 
@@ -345,7 +345,7 @@ Additional lists you might find useful:
 
 *Plugins around social features.*
 
-* [Ratings plugin](https://github.com/dereuromark/cakephp-ratings) ⭐ 9 | 🐛 1 | 🌐 PHP | 📅 2026-06-28 - Allows users to rate records and displays ratings.
+* [Ratings plugin](https://github.com/dereuromark/cakephp-ratings) ⭐ 8 | 🐛 1 | 🌐 PHP | 📅 2026-06-28 - Allows users to rate records and displays ratings.
 * [Favorites plugin](https://github.com/dereuromark/cakephp-favorites) ⭐ 3 | 🐛 0 | 🌐 PHP | 📅 2026-06-28 - Allows users to star/like/favor records.
 * [Comments plugin](https://github.com/dereuromark/cakephp-comments) ⭐ 2 | 🐛 1 | 🌐 PHP | 📅 2026-06-28 - Allows users to comment records, supporting different formats.
 
@@ -411,7 +411,7 @@ IDE specific compatibility information and tips can be found [here](https://gith
 
 *Web-based (demo) applications and tools.*
 
-* [RealWorld](https://github.com/gothinkster/cakephp-realworld-example-app) ⚠️ Archived - Example CakePHP codebase containing real world examples (CRUD, auth, advanced patterns and more) that adheres to the [RealWorld](https://github.com/gothinkster/realworld-example-apps) ⭐ 84,187 | 🐛 28 | 🌐 TypeScript | 📅 2026-08-26 spec and API.
+* [RealWorld](https://github.com/gothinkster/cakephp-realworld-example-app) ⚠️ Archived - Example CakePHP codebase containing real world examples (CRUD, auth, advanced patterns and more) that adheres to the [RealWorld](https://github.com/gothinkster/realworld-example-apps) ⭐ 84,190 | 🐛 28 | 🌐 TypeScript | 📅 2026-08-26 spec and API.
 * [Query examples](https://github.com/lorenzo/cakephp3-examples) ⭐ 56 | 🐛 0 | 🌐 PHP | 📅 2014-08-23 - Advanced query building examples.
 * [Xeta](https://github.com/XetaIO/Xeta) ⭐ 50 | 🐛 4 | 🌐 PHP | 📅 2017-04-25 - A resource to help people starting with CakePHP.
 * [Vue.js demo app](https://github.com/ishanvyas22/cakephpvue-spa) ⭐ 46 | 🐛 3 | 🌐 PHP | 📅 2026-09-03 - A CakePHP + Vue.js single page application skeleton.
@@ -467,7 +467,7 @@ Various resources, such as books, websites and articles, for improving your Cake
 
 *Reading materials related to the CakePHP internals and decisions.*
 
-* [Top 10 (and more) core contributors](https://github.com/cakephp/cakephp/graphs/contributors) ⭐ 8,797 | 🐛 33 | 🌐 PHP | 📅 2026-09-04 - Give 'em a hand.
+* [Top 10 (and more) core contributors](https://github.com/cakephp/cakephp/graphs/contributors) ⭐ 8,797 | 🐛 28 | 🌐 PHP | 📅 2026-09-05 - Give 'em a hand.
 
 ## Conferences
 
@@ -489,4 +489,4 @@ awesome-cakephp has been created by [dereuromark](https://github.com/dereuromark
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
