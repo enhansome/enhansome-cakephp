@@ -112,10 +112,10 @@
             "language": "Ruby",
             "license": null,
             "last_commit": "2024-06-02T22:46:41Z",
-            "open_issues": 62,
+            "open_issues": 63,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33657,
+            "stars": 33659,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:01.216Z"
@@ -133,10 +133,10 @@
             "language": null,
             "license": "WTFPL",
             "last_commit": "2026-07-13T19:44:57Z",
-            "open_issues": 87,
+            "open_issues": 88,
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32679,
+            "stars": 32680,
             "topics": [
               "awesome",
               "awesome-lists",
@@ -1472,7 +1472,7 @@
                 "open_issues": 132,
                 "owner": "rocketeers",
                 "repo": "rocketeer",
-                "stars": 2631,
+                "stars": 2630,
                 "topics": [
                   "deployment",
                   "php"
@@ -1517,7 +1517,7 @@
                 "open_issues": 2,
                 "owner": "cakephp",
                 "repo": "chronos",
-                "stars": 1361,
+                "stars": 1362,
                 "topics": [
                   "calendar-dates",
                   "datetime-objects",
@@ -3941,7 +3941,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T15:15:34.901Z",
+    "last_updated": "2026-09-08T13:52:53.841Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome CakePHP plugins, resources and shiny things. ",
