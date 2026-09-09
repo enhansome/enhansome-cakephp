@@ -112,10 +112,10 @@
             "language": "Ruby",
             "license": null,
             "last_commit": "2024-06-02T22:46:41Z",
-            "open_issues": 63,
+            "open_issues": 65,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33659,
+            "stars": 33660,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:01.216Z"
@@ -133,10 +133,10 @@
             "language": null,
             "license": "WTFPL",
             "last_commit": "2026-07-13T19:44:57Z",
-            "open_issues": 88,
+            "open_issues": 89,
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32680,
+            "stars": 32682,
             "topics": [
               "awesome",
               "awesome-lists",
@@ -563,8 +563,8 @@
                 "id": 75036358,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-09-05T15:32:56Z",
-                "open_issues": 3,
+                "last_commit": "2026-09-08T21:46:45Z",
+                "open_issues": 2,
                 "owner": "cakephp",
                 "repo": "authentication",
                 "stars": 118,
@@ -3716,8 +3716,8 @@
                 "id": 3420388,
                 "language": "PHP",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-04T08:37:42Z",
-                "open_issues": 87,
+                "last_commit": "2026-09-08T22:44:52Z",
+                "open_issues": 88,
                 "owner": "baserproject",
                 "repo": "basercms",
                 "stars": 190,
@@ -3941,7 +3941,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T13:52:53.841Z",
+    "last_updated": "2026-09-09T13:55:25.796Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome CakePHP plugins, resources and shiny things. ",
