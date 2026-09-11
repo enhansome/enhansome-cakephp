@@ -115,7 +115,7 @@
             "open_issues": 65,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33661,
+            "stars": 33664,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:01.216Z"
@@ -133,10 +133,10 @@
             "language": null,
             "license": "WTFPL",
             "last_commit": "2026-07-13T19:44:57Z",
-            "open_issues": 89,
+            "open_issues": 90,
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32685,
+            "stars": 32686,
             "topics": [
               "awesome",
               "awesome-lists",
@@ -772,8 +772,8 @@
                 "id": 82395792,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-09-04T06:24:29Z",
-                "open_issues": 5,
+                "last_commit": "2026-09-11T10:36:20Z",
+                "open_issues": 4,
                 "owner": "dereuromark",
                 "repo": "cakephp-ide-helper",
                 "stars": 189,
@@ -1246,7 +1246,7 @@
                 "id": 1000939634,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2025-06-13T08:02:11Z",
+                "last_commit": "2026-09-11T02:53:09Z",
                 "open_issues": 0,
                 "owner": "skie",
                 "repo": "rule-flow",
@@ -2773,7 +2773,7 @@
                 "language": "PHP",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-31T20:11:38Z",
-                "open_issues": 0,
+                "open_issues": 2,
                 "owner": "cakephp",
                 "repo": "elastic-search",
                 "stars": 86,
@@ -3941,7 +3941,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T13:49:34.854Z",
+    "last_updated": "2026-09-11T13:49:25.779Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome CakePHP plugins, resources and shiny things. ",
