@@ -136,7 +136,7 @@
             "open_issues": 90,
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32690,
+            "stars": 32695,
             "topics": [
               "awesome",
               "awesome-lists",
@@ -772,7 +772,7 @@
                 "id": 82395792,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-09-11T10:36:20Z",
+                "last_commit": "2026-09-13T08:42:42Z",
                 "open_issues": 4,
                 "owner": "dereuromark",
                 "repo": "cakephp-ide-helper",
@@ -3941,7 +3941,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T13:09:24.154Z",
+    "last_updated": "2026-09-13T13:53:14.008Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome CakePHP plugins, resources and shiny things. ",
