@@ -13,8 +13,8 @@ If you are looking for previous CakePHP resources please visit:
 
 Additional lists you might find useful:
 
-* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,666 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02
-* [Awesome PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,695 | 🐛 90 | 📅 2026-07-13
+* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,669 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02
+* [Awesome PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,698 | 🐛 91 | 📅 2026-07-13
 * [CakePHP Plugins](https://plugins.cakephp.org)
 
 > For those wondering; this list differs from plugins.cakephp.org by supporting
@@ -225,7 +225,7 @@ Additional lists you might find useful:
 
 *Plugins and resources around migration and upgrading.*
 
-* [Migrations plugin](https://github.com/cakephp/migrations) ⭐ 134 | 🐛 8 | 🌐 PHP | 📅 2026-08-31 - (DB) Migration plugin.
+* [Migrations plugin](https://github.com/cakephp/migrations) ⭐ 134 | 🐛 11 | 🌐 PHP | 📅 2026-09-14 - (DB) Migration plugin.
 * [Upgrade app](https://github.com/cakephp/upgrade) ⭐ 112 | 🐛 0 | 🌐 PHP | 📅 2026-08-10 - Official upgrade app for 3.x=>4.x and 4.x=>5.x.
 * [Upgrade app (extended)](https://github.com/dereuromark/upgrade) ⭐ 23 | 🐛 1 | 🌐 PHP | 📅 2026-06-18 - An extended upgrade app for 3.x=>4.x and some 5.x snippets.
 * [Upgrade/Migration Guide](https://book.cakephp.org/5/en/appendices.html) - Official migration guide.
@@ -249,7 +249,7 @@ Additional lists you might find useful:
 * [Feedback plugin](https://github.com/dereuromark/cakephp-feedback) ⭐ 7 | 🐛 2 | 🌐 PHP | 📅 2026-06-28 - Allow visitors to send quick and easy feedback incl. a screenshot via sidebar form.
 * [Workflow plugin](https://github.com/dereuromark/cakephp-workflow) ⭐ 3 | 🐛 0 | 🌐 PHP | 📅 2026-06-28 - Batteries-included state machine plugin with PHP 8 attributes, YAML config, audit trails, and visual admin dashboard.
 * [AttributeRegistry plugin](https://github.com/josbeir/cakephp-attribute-registry) ⚠️ Archived - A powerful CakePHP plugin for discovering, caching, and querying PHP 8 attributes across your application and plugins.
-* [FeatureFlags plugin](https://github.com/orca-services/cakephp-feature-flags) ⭐ 0 | 🐛 2 | 🌐 PHP | 📅 2026-09-07 - A plugin for managing feature flags in your code.
+* [FeatureFlags plugin](https://github.com/orca-services/cakephp-feature-flags) ⭐ 0 | 🐛 2 | 🌐 PHP | 📅 2026-09-14 - A plugin for managing feature flags in your code.
 
 ### Navigation
 
@@ -263,8 +263,8 @@ Additional lists you might find useful:
 *Working with notification software.*
 
 * [Mercure plugin](https://github.com/josbeir/cakephp-mercure) ⭐ 5 | 🐛 0 | 🌐 PHP | 📅 2026-08-23 - Push real-time updates to clients using the Mercure protocol.
-* [Crustum/Notification plugin](https://github.com/crustum/notification) ⭐ 2 | 🐛 0 | 🌐 PHP | 📅 2026-07-25 - The Notification plugin provides support for sending notifications across a variety of delivery channels.
-* [Crustum/Broadcasting plugin](https://github.com/crustum/broadcasting) ⭐ 1 | 🐛 0 | 🌐 PHP | 📅 2026-08-13 - The Broadcasting plugin provides real-time event broadcasting for CakePHP applications using WebSocket connections compatible with the Pusher protocol or Redis pub/sub.
+* [Crustum/Notification plugin](https://github.com/crustum/notification) ⭐ 2 | 🐛 0 | 🌐 PHP | 📅 2026-09-14 - The Notification plugin provides support for sending notifications across a variety of delivery channels.
+* [Crustum/Broadcasting plugin](https://github.com/crustum/broadcasting) ⭐ 1 | 🐛 0 | 🌐 PHP | 📅 2026-09-14 - The Broadcasting plugin provides real-time event broadcasting for CakePHP applications using WebSocket connections compatible with the Pusher protocol or Redis pub/sub.
 
 ### ORM / Database / Datamapping
 
@@ -312,7 +312,7 @@ Additional lists you might find useful:
 *Plugins and software for indexing and performing search queries on data.*
 
 * [Search plugin](https://github.com/FriendsOfCake/search) ⭐ 171 | 🐛 0 | 🌐 PHP | 📅 2026-05-11 - Provides easy searching/filtering for paginated views using PRG pattern.
-* [Cake/Elasticsearch plugin](https://github.com/cakephp/elastic-search) ⭐ 86 | 🐛 2 | 🌐 PHP | 📅 2026-08-31 - Alternative ORM using [Elasticsearch](https://www.elastic.co/) as its backend.
+* [Cake/Elasticsearch plugin](https://github.com/cakephp/elastic-search) ⭐ 86 | 🐛 0 | 🌐 PHP | 📅 2026-09-13 - Alternative ORM using [Elasticsearch](https://www.elastic.co/) as its backend.
 * [PlumSearch plugin](https://github.com/skie/plum_search) ⭐ 19 | 🐛 0 | 🌐 PHP | 📅 2026-08-13 - Implements custom, flexible and extendable search strategies. Implements PRG pattern.
 * [Tags plugin](https://github.com/dereuromark/cakephp-tags) ⭐ 17 | 🐛 1 | 🌐 PHP | 📅 2026-06-28 - For tagging and finding tagged records.
 * [CakeDC/SearchFilter plugin](https://github.com/CakeDC/search-filter) ⭐ 3 | 🐛 0 | 🌐 PHP | 📅 2026-07-01 - Powerful and flexible solution for implementing advanced search functionality. Provides a robust set of tools for creating dynamic, user-friendly search interfaces with minimal effort.
@@ -324,7 +324,7 @@ Additional lists you might find useful:
 * [Muffin/Throttle plugin](https://github.com/usemuffin/throttle) ⭐ 62 | 🐛 0 | 🌐 PHP | 📅 2023-09-23 - A plugin for rate limiting (API) requests.
 * [Muffin/Obfuscate plugin](https://github.com/usemuffin/obfuscate) ⭐ 36 | 🐛 0 | 🌐 PHP | 📅 2023-09-27 - Primary key obfuscation/shortening using UUIDs, HashIds, Optimus, Tiny and/or custom obfuscation strategies.
 * [Recaptcha plugin](https://github.com/ctlabvn/Recaptcha) ⭐ 20 | 🐛 0 | 🌐 PHP | 📅 2025-01-28 - Simple, lightweight Google Recaptcha v2.
-* [Expose plugin](https://github.com/dereuromark/cakephp-expose) ⭐ 9 | 🐛 0 | 🌐 PHP | 📅 2026-06-29 - Expose entities through additional UUIDs instead of their AIID primary keys to obfuscate those IDs and data associated with these numerically ordered values.
+* [Expose plugin](https://github.com/dereuromark/cakephp-expose) ⭐ 9 | 🐛 0 | 🌐 PHP | 📅 2026-09-14 - Expose entities through additional UUIDs instead of their AIID primary keys to obfuscate those IDs and data associated with these numerically ordered values.
 * [Captcha plugin](https://github.com/dereuromark/cakephp-captcha) ⭐ 8 | 🐛 0 | 🌐 PHP | 📅 2026-07-02 - Simple, unobtrusive and extendable captcha solution providing by default an image based math captcha.
 
 ### SEO
@@ -467,7 +467,7 @@ Various resources, such as books, websites and articles, for improving your Cake
 
 *Reading materials related to the CakePHP internals and decisions.*
 
-* [Top 10 (and more) core contributors](https://github.com/cakephp/cakephp/graphs/contributors) ⭐ 8,792 | 🐛 25 | 🌐 PHP | 📅 2026-09-13 - Give 'em a hand.
+* [Top 10 (and more) core contributors](https://github.com/cakephp/cakephp/graphs/contributors) ⭐ 8,791 | 🐛 26 | 🌐 PHP | 📅 2026-09-13 - Give 'em a hand.
 
 ## Conferences
 
@@ -489,4 +489,4 @@ awesome-cakephp has been created by [dereuromark](https://github.com/dereuromark
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
