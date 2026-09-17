@@ -133,10 +133,10 @@
             "language": null,
             "license": "WTFPL",
             "last_commit": "2026-07-13T19:44:57Z",
-            "open_issues": 91,
+            "open_issues": 92,
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32700,
+            "stars": 32701,
             "topics": [
               "awesome",
               "awesome-lists",
@@ -3717,7 +3717,7 @@
                 "language": "PHP",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-10T01:17:02Z",
-                "open_issues": 88,
+                "open_issues": 87,
                 "owner": "baserproject",
                 "repo": "basercms",
                 "stars": 190,
@@ -3941,7 +3941,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T14:21:42.722Z",
+    "last_updated": "2026-09-17T14:27:30.595Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome CakePHP plugins, resources and shiny things. ",
