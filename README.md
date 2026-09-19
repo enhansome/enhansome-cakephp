@@ -13,8 +13,8 @@ If you are looking for previous CakePHP resources please visit:
 
 Additional lists you might find useful:
 
-* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,681 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02
-* [Awesome PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,700 | 🐛 92 | 📅 2026-07-13
+* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,680 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02
+* [Awesome PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,698 | 🐛 92 | 📅 2026-07-13
 * [CakePHP Plugins](https://plugins.cakephp.org)
 
 > For those wondering; this list differs from plugins.cakephp.org by supporting
@@ -225,7 +225,7 @@ Additional lists you might find useful:
 
 *Plugins and resources around migration and upgrading.*
 
-* [Migrations plugin](https://github.com/cakephp/migrations) ⭐ 134 | 🐛 11 | 🌐 PHP | 📅 2026-09-15 - (DB) Migration plugin.
+* [Migrations plugin](https://github.com/cakephp/migrations) ⭐ 134 | 🐛 9 | 🌐 PHP | 📅 2026-09-19 - (DB) Migration plugin.
 * [Upgrade app](https://github.com/cakephp/upgrade) ⭐ 112 | 🐛 0 | 🌐 PHP | 📅 2026-08-10 - Official upgrade app for 3.x=>4.x and 4.x=>5.x.
 * [Upgrade app (extended)](https://github.com/dereuromark/upgrade) ⭐ 23 | 🐛 1 | 🌐 PHP | 📅 2026-06-18 - An extended upgrade app for 3.x=>4.x and some 5.x snippets.
 * [Upgrade/Migration Guide](https://book.cakephp.org/5/en/appendices.html) - Official migration guide.
@@ -338,7 +338,7 @@ Additional lists you might find useful:
 
 *Plugins and repositories around app skeletons.*
 
-* [App template](https://github.com/cakephp/app) ⭐ 387 | 🐛 6 | 🌐 PHP | 📅 2026-08-05 - An empty CakePHP project for use with composer.
+* [App template](https://github.com/cakephp/app) ⭐ 387 | 🐛 7 | 🌐 PHP | 📅 2026-08-05 - An empty CakePHP project for use with composer.
 * [BS flavored App template](https://github.com/dereuromark/cakephp-app) ⭐ 4 | 🐛 0 | 🌐 PHP | 📅 2026-05-02 - An empty CakePHP project with BS5 and FontAwesome out of the box.
 
 ### Social
@@ -411,7 +411,7 @@ IDE specific compatibility information and tips can be found [here](https://gith
 
 *Web-based (demo) applications and tools.*
 
-* [RealWorld](https://github.com/gothinkster/cakephp-realworld-example-app) ⚠️ Archived - Example CakePHP codebase containing real world examples (CRUD, auth, advanced patterns and more) that adheres to the [RealWorld](https://github.com/gothinkster/realworld-example-apps) ⭐ 84,221 | 🐛 28 | 🌐 TypeScript | 📅 2026-08-26 spec and API.
+* [RealWorld](https://github.com/gothinkster/cakephp-realworld-example-app) ⚠️ Archived - Example CakePHP codebase containing real world examples (CRUD, auth, advanced patterns and more) that adheres to the [RealWorld](https://github.com/gothinkster/realworld-example-apps) ⭐ 84,223 | 🐛 28 | 🌐 TypeScript | 📅 2026-08-26 spec and API.
 * [Query examples](https://github.com/lorenzo/cakephp3-examples) ⭐ 56 | 🐛 0 | 🌐 PHP | 📅 2014-08-23 - Advanced query building examples.
 * [Xeta](https://github.com/XetaIO/Xeta) ⭐ 50 | 🐛 4 | 🌐 PHP | 📅 2017-04-25 - A resource to help people starting with CakePHP.
 * [Vue.js demo app](https://github.com/ishanvyas22/cakephpvue-spa) ⭐ 46 | 🐛 3 | 🌐 PHP | 📅 2026-09-18 - A CakePHP + Vue.js single page application skeleton.
@@ -467,7 +467,7 @@ Various resources, such as books, websites and articles, for improving your Cake
 
 *Reading materials related to the CakePHP internals and decisions.*
 
-* [Top 10 (and more) core contributors](https://github.com/cakephp/cakephp/graphs/contributors) ⭐ 8,792 | 🐛 25 | 🌐 PHP | 📅 2026-09-18 - Give 'em a hand.
+* [Top 10 (and more) core contributors](https://github.com/cakephp/cakephp/graphs/contributors) ⭐ 8,791 | 🐛 23 | 🌐 PHP | 📅 2026-09-19 - Give 'em a hand.
 
 ## Conferences
 
@@ -489,4 +489,4 @@ awesome-cakephp has been created by [dereuromark](https://github.com/dereuromark
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
