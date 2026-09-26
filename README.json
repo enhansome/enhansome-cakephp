@@ -115,7 +115,7 @@
             "open_issues": 65,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33687,
+            "stars": 33688,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:01.216Z"
@@ -136,7 +136,7 @@
             "open_issues": 93,
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32710,
+            "stars": 32712,
             "topics": [
               "awesome",
               "awesome-lists",
@@ -951,8 +951,8 @@
                 "id": 423066,
                 "language": "PHP",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-25T07:31:30Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-26T11:13:08Z",
+                "open_issues": 0,
                 "owner": "cakephp",
                 "repo": "debug_kit",
                 "stars": 839,
@@ -1627,7 +1627,7 @@
                 "id": 16732471,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-08-10T19:18:12Z",
+                "last_commit": "2026-09-26T12:29:01Z",
                 "open_issues": 0,
                 "owner": "cakephp",
                 "repo": "upgrade",
@@ -3716,8 +3716,8 @@
                 "id": 3420388,
                 "language": "PHP",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-25T08:51:35Z",
-                "open_issues": 90,
+                "last_commit": "2026-09-26T06:52:55Z",
+                "open_issues": 88,
                 "owner": "baserproject",
                 "repo": "basercms",
                 "stars": 190,
@@ -3941,7 +3941,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T14:44:31.208Z",
+    "last_updated": "2026-09-26T13:53:40.262Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome CakePHP plugins, resources and shiny things. ",
