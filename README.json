@@ -19,7 +19,7 @@
             "open_issues": 18,
             "owner": "FriendsOfCake",
             "repo": "awesome-cakephp",
-            "stars": 937,
+            "stars": 936,
             "topics": [
               "awesome",
               "awesome-list"
@@ -43,7 +43,7 @@
             "open_issues": 18,
             "owner": "FriendsOfCake",
             "repo": "awesome-cakephp",
-            "stars": 937,
+            "stars": 936,
             "topics": [
               "awesome",
               "awesome-list"
@@ -67,7 +67,7 @@
             "open_issues": 18,
             "owner": "FriendsOfCake",
             "repo": "awesome-cakephp",
-            "stars": 937,
+            "stars": 936,
             "topics": [
               "awesome",
               "awesome-list"
@@ -91,7 +91,7 @@
             "open_issues": 18,
             "owner": "FriendsOfCake",
             "repo": "awesome-cakephp",
-            "stars": 937,
+            "stars": 936,
             "topics": [
               "awesome",
               "awesome-list"
@@ -115,7 +115,7 @@
             "open_issues": 65,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33688,
+            "stars": 33690,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:01.216Z"
@@ -563,7 +563,7 @@
                 "id": 75036358,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-09-25T09:07:51Z",
+                "last_commit": "2026-09-27T11:31:23Z",
                 "open_issues": 3,
                 "owner": "cakephp",
                 "repo": "authentication",
@@ -951,7 +951,7 @@
                 "id": 423066,
                 "language": "PHP",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-26T11:13:08Z",
+                "last_commit": "2026-09-27T12:44:50Z",
                 "open_issues": 0,
                 "owner": "cakephp",
                 "repo": "debug_kit",
@@ -1049,7 +1049,7 @@
                 "id": 555414023,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-08-09T10:01:09Z",
+                "last_commit": "2026-09-27T08:25:34Z",
                 "open_issues": 1,
                 "owner": "LordSimal",
                 "repo": "cakephp-sentry",
@@ -2772,8 +2772,8 @@
                 "id": 17096843,
                 "language": "PHP",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-13T16:42:06Z",
-                "open_issues": 0,
+                "last_commit": "2026-09-27T13:46:26Z",
+                "open_issues": 1,
                 "owner": "cakephp",
                 "repo": "elastic-search",
                 "stars": 86,
@@ -2971,8 +2971,8 @@
                 "id": 60796823,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-09-16T07:59:52Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-27T00:03:46Z",
+                "open_issues": 0,
                 "owner": "dereuromark",
                 "repo": "cakephp-captcha",
                 "stars": 8,
@@ -3281,7 +3281,7 @@
                 "id": 27730883,
                 "language": "PHP",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-25T08:55:05Z",
+                "last_commit": "2026-09-27T11:05:42Z",
                 "open_issues": 1,
                 "owner": "cakephp",
                 "repo": "bake",
@@ -3716,7 +3716,7 @@
                 "id": 3420388,
                 "language": "PHP",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-26T06:52:55Z",
+                "last_commit": "2026-09-27T07:24:40Z",
                 "open_issues": 88,
                 "owner": "baserproject",
                 "repo": "basercms",
@@ -3799,7 +3799,7 @@
                 "open_issues": 4,
                 "owner": "XetaIO",
                 "repo": "Xeta",
-                "stars": 50,
+                "stars": 49,
                 "topics": [
                   "blog",
                   "cakephp",
@@ -3941,7 +3941,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T13:53:40.262Z",
+    "last_updated": "2026-09-27T14:49:59.697Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome CakePHP plugins, resources and shiny things. ",
@@ -3953,7 +3953,7 @@
       "open_issues": 18,
       "owner": "FriendsOfCake",
       "repo": "awesome-cakephp",
-      "stars": 937,
+      "stars": 936,
       "topics": [
         "awesome",
         "awesome-list"
