@@ -264,7 +264,7 @@
                 "open_issues": 31,
                 "owner": "markstory",
                 "repo": "asset_compress",
-                "stars": 369,
+                "stars": 368,
                 "topics": [
                   "asset-pipeline",
                   "cakephp",
@@ -2971,7 +2971,7 @@
                 "id": 60796823,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-09-27T00:03:46Z",
+                "last_commit": "2026-09-29T07:29:20Z",
                 "open_issues": 0,
                 "owner": "dereuromark",
                 "repo": "cakephp-captcha",
@@ -3716,7 +3716,7 @@
                 "id": 3420388,
                 "language": "PHP",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-27T07:24:40Z",
+                "last_commit": "2026-09-29T00:46:33Z",
                 "open_issues": 91,
                 "owner": "baserproject",
                 "repo": "basercms",
@@ -3941,7 +3941,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T17:48:52.441Z",
+    "last_updated": "2026-09-29T16:07:08.517Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome CakePHP plugins, resources and shiny things. ",
