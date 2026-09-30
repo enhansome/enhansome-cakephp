@@ -133,7 +133,7 @@
             "language": null,
             "license": "WTFPL",
             "last_commit": "2026-09-27T20:39:19Z",
-            "open_issues": 93,
+            "open_issues": 94,
             "owner": "ziadoz",
             "repo": "awesome-php",
             "stars": 32716,
@@ -563,7 +563,7 @@
                 "id": 75036358,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-09-28T12:17:30Z",
+                "last_commit": "2026-09-30T02:38:30Z",
                 "open_issues": 3,
                 "owner": "cakephp",
                 "repo": "authentication",
@@ -3941,7 +3941,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T16:07:08.517Z",
+    "last_updated": "2026-09-30T16:05:43.660Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome CakePHP plugins, resources and shiny things. ",
