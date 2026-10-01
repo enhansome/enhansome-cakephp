@@ -112,10 +112,10 @@
             "language": "Ruby",
             "license": null,
             "last_commit": "2024-06-02T22:46:41Z",
-            "open_issues": 66,
+            "open_issues": 65,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33695,
+            "stars": 33697,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:01.216Z"
@@ -136,7 +136,7 @@
             "open_issues": 94,
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32716,
+            "stars": 32718,
             "topics": [
               "awesome",
               "awesome-lists",
@@ -260,8 +260,8 @@
                 "id": 553608,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-09-28T04:04:16Z",
-                "open_issues": 31,
+                "last_commit": "2026-09-30T19:05:04Z",
+                "open_issues": 30,
                 "owner": "markstory",
                 "repo": "asset_compress",
                 "stars": 368,
@@ -2564,7 +2564,7 @@
                 "id": 530612024,
                 "language": "PHP",
                 "license": "NOASSERTION",
-                "last_commit": "2025-09-22T15:48:18Z",
+                "last_commit": "2026-10-01T09:24:20Z",
                 "open_issues": 0,
                 "owner": "CakeDC",
                 "repo": "cakephp-enqueue",
@@ -3716,7 +3716,7 @@
                 "id": 3420388,
                 "language": "PHP",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-29T00:46:33Z",
+                "last_commit": "2026-10-01T07:57:53Z",
                 "open_issues": 91,
                 "owner": "baserproject",
                 "repo": "basercms",
@@ -3941,7 +3941,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T16:05:43.660Z",
+    "last_updated": "2026-10-01T16:41:56.102Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome CakePHP plugins, resources and shiny things. ",
