@@ -5,104 +5,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "the CakePHP 2.x version",
-          "description": "of this awesome list",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A curated list of amazingly awesome CakePHP plugins, resources and shiny things. ",
-            "homepage": null,
-            "id": 22418008,
-            "language": null,
-            "license": "WTFPL",
-            "last_commit": "2026-08-25T09:35:10Z",
-            "open_issues": 18,
-            "owner": "FriendsOfCake",
-            "repo": "awesome-cakephp",
-            "stars": 936,
-            "topics": [
-              "awesome",
-              "awesome-list"
-            ]
-          },
-          "first_seen": "2026-08-28T20:59:01.216Z"
-        },
-        {
-          "node_type": "item",
-          "title": "the CakePHP 3.x version",
-          "description": "of this awesome list",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A curated list of amazingly awesome CakePHP plugins, resources and shiny things. ",
-            "homepage": null,
-            "id": 22418008,
-            "language": null,
-            "license": "WTFPL",
-            "last_commit": "2026-08-25T09:35:10Z",
-            "open_issues": 18,
-            "owner": "FriendsOfCake",
-            "repo": "awesome-cakephp",
-            "stars": 936,
-            "topics": [
-              "awesome",
-              "awesome-list"
-            ]
-          },
-          "first_seen": "2026-08-28T20:59:01.216Z"
-        },
-        {
-          "node_type": "item",
-          "title": "the CakePHP 4.x version",
-          "description": "of this awesome list",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A curated list of amazingly awesome CakePHP plugins, resources and shiny things. ",
-            "homepage": null,
-            "id": 22418008,
-            "language": null,
-            "license": "WTFPL",
-            "last_commit": "2026-08-25T09:35:10Z",
-            "open_issues": 18,
-            "owner": "FriendsOfCake",
-            "repo": "awesome-cakephp",
-            "stars": 936,
-            "topics": [
-              "awesome",
-              "awesome-list"
-            ]
-          },
-          "first_seen": "2026-08-28T20:59:01.216Z"
-        },
-        {
-          "node_type": "item",
-          "title": "this wiki with a list of not-yet upgraded plugins",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A curated list of amazingly awesome CakePHP plugins, resources and shiny things. ",
-            "homepage": null,
-            "id": 22418008,
-            "language": null,
-            "license": "WTFPL",
-            "last_commit": "2026-08-25T09:35:10Z",
-            "open_issues": 18,
-            "owner": "FriendsOfCake",
-            "repo": "awesome-cakephp",
-            "stars": 936,
-            "topics": [
-              "awesome",
-              "awesome-list"
-            ]
-          },
-          "first_seen": "2026-08-28T20:59:01.216Z"
-        },
-        {
-          "node_type": "item",
           "title": "Awesome Awesomeness",
-          "description": null,
+          "description": "bayandin/awesome-awesomeness",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -123,7 +27,7 @@
         {
           "node_type": "item",
           "title": "Awesome PHP",
-          "description": null,
+          "description": "ziadoz/awesome-php",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -136,7 +40,7 @@
             "open_issues": 94,
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32721,
+            "stars": 32722,
             "topics": [
               "awesome",
               "awesome-lists",
@@ -882,6 +786,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Crustum/StructArmed preset",
+              "description": "Architecture/convention preset for CakePHP 5 that enforces layer isolation, naming, and quality/safety rules (max complexity, no dd/dump/die) via a static analyzer.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "StructArmed preset for CakePHP 5 conventions (Controller/Component, Table/Entity/Behavior, View/Cell/Helper, Command)",
+                "homepage": null,
+                "id": 1331247137,
+                "language": "PHP",
+                "license": "MIT",
+                "last_commit": "2026-08-30T09:21:07Z",
+                "open_issues": 0,
+                "owner": "Crustum",
+                "repo": "structarmed-cakephp",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-10-03T04:37:59.011Z"
             }
           ],
           "description": "Analyzing, parsing and manipulation codebases.",
@@ -1472,7 +1397,7 @@
                 "open_issues": 132,
                 "owner": "rocketeers",
                 "repo": "rocketeer",
-                "stars": 2629,
+                "stars": 2628,
                 "topics": [
                   "deployment",
                   "php"
@@ -2045,6 +1970,27 @@
             },
             {
               "node_type": "item",
+              "title": "CakePHP Claude Skill",
+              "description": "Claude Code skill for CakePHP development covering conventions, PHPStan compliance, migrations, and upgrade guidance.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Claude Code skill for CakePHP 5 — conventions, PHPStan level 8, upload behavior, migrations, testing, and 4→5 upgrade guidance",
+                "homepage": null,
+                "id": 1331550238,
+                "language": "Shell",
+                "license": "MIT",
+                "last_commit": "2026-09-27T19:34:55Z",
+                "open_issues": 0,
+                "owner": "cpierce",
+                "repo": "cakephp-claude-skill",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-10-03T04:37:59.011Z"
+            },
+            {
+              "node_type": "item",
               "title": "FeatureFlags plugin",
               "description": "A plugin for managing feature flags in your code.",
               "children": [],
@@ -2105,7 +2051,7 @@
             },
             {
               "node_type": "item",
-              "title": "Menu plugin",
+              "title": "CakeMenu plugin",
               "description": "Composable menu builder and renderer for nested navigation, active-state matching, and breadcrumbs - and zero dependencies.",
               "children": [],
               "repo_info": {
@@ -2115,8 +2061,8 @@
                 "id": 126092570,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-08-08T07:08:20Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-02T21:52:08Z",
+                "open_issues": 0,
                 "owner": "dereuromark",
                 "repo": "cakephp-menu",
                 "stars": 5,
@@ -3941,7 +3887,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T15:58:13.962Z",
+    "last_updated": "2026-10-03T04:37:59.011Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome CakePHP plugins, resources and shiny things. ",
@@ -3949,8 +3895,8 @@
       "id": 22418008,
       "language": null,
       "license": "WTFPL",
-      "last_commit": "2026-08-25T09:35:10Z",
-      "open_issues": 18,
+      "last_commit": "2026-10-02T21:50:30Z",
+      "open_issues": 16,
       "owner": "FriendsOfCake",
       "repo": "awesome-cakephp",
       "stars": 936,
@@ -3959,7 +3905,7 @@
         "awesome-list"
       ]
     },
-    "original_repository_sha": "3d88e89ed7e8a9c6679ffce659f38cba6b4226ad",
+    "original_repository_sha": "24b197f6f4d5ef47212af641a71c127b371e2b1f",
     "enhanced_repository": "enhansome/enhansome-cakephp",
     "enhanced_repository_description": null,
     "title": "Awesome CakePHP with stars"
