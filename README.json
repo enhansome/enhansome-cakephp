@@ -19,7 +19,7 @@
             "open_issues": 65,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33695,
+            "stars": 33698,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:01.216Z"
@@ -40,7 +40,7 @@
             "open_issues": 94,
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32723,
+            "stars": 32725,
             "topics": [
               "awesome",
               "awesome-lists",
@@ -467,7 +467,7 @@
                 "id": 75036358,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-10-02T06:38:44Z",
+                "last_commit": "2026-10-03T18:21:13Z",
                 "open_issues": 2,
                 "owner": "cakephp",
                 "repo": "authentication",
@@ -495,8 +495,8 @@
                 "id": 113933042,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-10-02T06:46:05Z",
-                "open_issues": 4,
+                "last_commit": "2026-10-03T18:26:55Z",
+                "open_issues": 3,
                 "owner": "cakephp",
                 "repo": "authorization",
                 "stars": 74,
@@ -1421,7 +1421,7 @@
                 "open_issues": 26,
                 "owner": "composer",
                 "repo": "installers",
-                "stars": 1441,
+                "stars": 1440,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
@@ -1711,7 +1711,7 @@
                 "language": "PHP",
                 "license": "MIT",
                 "last_commit": "2026-07-06T09:24:04Z",
-                "open_issues": 4,
+                "open_issues": 6,
                 "owner": "CakeDC",
                 "repo": "Enum",
                 "stars": 30,
@@ -2718,7 +2718,7 @@
                 "id": 17096843,
                 "language": "PHP",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T06:56:51Z",
+                "last_commit": "2026-10-04T03:40:14Z",
                 "open_issues": 1,
                 "owner": "cakephp",
                 "repo": "elastic-search",
@@ -3227,7 +3227,7 @@
                 "id": 27730883,
                 "language": "PHP",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-27T11:05:42Z",
+                "last_commit": "2026-10-03T18:21:41Z",
                 "open_issues": 1,
                 "owner": "cakephp",
                 "repo": "bake",
@@ -3768,8 +3768,8 @@
                 "id": 161028411,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-09-18T04:26:09Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-04T12:07:58Z",
+                "open_issues": 4,
                 "owner": "ishanvyas22",
                 "repo": "cakephpvue-spa",
                 "stars": 46,
@@ -3887,7 +3887,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T14:25:23.269Z",
+    "last_updated": "2026-10-04T14:58:38.291Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome CakePHP plugins, resources and shiny things. ",
