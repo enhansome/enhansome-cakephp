@@ -19,7 +19,7 @@
             "open_issues": 65,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33698,
+            "stars": 33702,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:01.216Z"
@@ -40,7 +40,7 @@
             "open_issues": 94,
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32725,
+            "stars": 32727,
             "topics": [
               "awesome",
               "awesome-lists",
@@ -768,6 +768,27 @@
             },
             {
               "node_type": "item",
+              "title": "Crustum/StructArmed preset",
+              "description": "Architecture/convention preset for CakePHP 5 that enforces layer isolation, naming, and quality/safety rules (max complexity, no dd/dump/die) via a static analyzer.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "StructArmed preset for CakePHP 5 conventions (Controller/Component, Table/Entity/Behavior, View/Cell/Helper, Command)",
+                "homepage": null,
+                "id": 1331247137,
+                "language": "PHP",
+                "license": "MIT",
+                "last_commit": "2026-08-30T09:21:07Z",
+                "open_issues": 0,
+                "owner": "Crustum",
+                "repo": "structarmed-cakephp",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-10-03T04:37:59.011Z"
+            },
+            {
+              "node_type": "item",
               "title": "IdeHelperExtra plugin",
               "description": "Useful IdeHelper addons for other plugins or custom use cases.",
               "children": [],
@@ -786,27 +807,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Crustum/StructArmed preset",
-              "description": "Architecture/convention preset for CakePHP 5 that enforces layer isolation, naming, and quality/safety rules (max complexity, no dd/dump/die) via a static analyzer.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "StructArmed preset for CakePHP 5 conventions (Controller/Component, Table/Entity/Behavior, View/Cell/Helper, Command)",
-                "homepage": null,
-                "id": 1331247137,
-                "language": "PHP",
-                "license": "MIT",
-                "last_commit": "2026-08-30T09:21:07Z",
-                "open_issues": 0,
-                "owner": "Crustum",
-                "repo": "structarmed-cakephp",
-                "stars": 0,
-                "topics": []
-              },
-              "first_seen": "2026-10-03T04:37:59.011Z"
             }
           ],
           "description": "Analyzing, parsing and manipulation codebases.",
@@ -1118,7 +1118,7 @@
                 "open_issues": 10,
                 "owner": "FriendsOfCake",
                 "repo": "cakephp-upload",
-                "stars": 546,
+                "stars": 547,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
@@ -2001,7 +2001,7 @@
                 "id": 554859908,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-09-28T05:59:02Z",
+                "last_commit": "2026-10-05T06:09:21Z",
                 "open_issues": 2,
                 "owner": "orca-services",
                 "repo": "cakephp-feature-flags",
@@ -3662,8 +3662,8 @@
                 "id": 3420388,
                 "language": "PHP",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-01T07:57:53Z",
-                "open_issues": 91,
+                "last_commit": "2026-10-05T03:44:03Z",
+                "open_issues": 108,
                 "owner": "baserproject",
                 "repo": "basercms",
                 "stars": 190,
@@ -3768,8 +3768,8 @@
                 "id": 161028411,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-10-04T12:07:58Z",
-                "open_issues": 4,
+                "last_commit": "2026-10-05T08:30:33Z",
+                "open_issues": 5,
                 "owner": "ishanvyas22",
                 "repo": "cakephpvue-spa",
                 "stars": 46,
@@ -3887,7 +3887,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T14:58:38.291Z",
+    "last_updated": "2026-10-05T18:50:16.558Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome CakePHP plugins, resources and shiny things. ",
