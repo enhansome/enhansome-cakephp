@@ -13,8 +13,8 @@ If you are looking for previous CakePHP resources please visit:
 
 Additional lists you might find useful:
 
-* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,705 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02
-* [Awesome PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,729 | 🐛 94 | 📅 2026-09-27
+* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,706 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02
+* [Awesome PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,730 | 🐛 94 | 📅 2026-09-27
 * [CakePHP Plugins](https://plugins.cakephp.org)
 
 > For those wondering; this list differs from plugins.cakephp.org by supporting
@@ -100,7 +100,7 @@ Additional lists you might find useful:
 * [Muffin/Footprint plugin](https://github.com/UseMuffin/Footprint) ⭐ 95 | 🐛 0 | 🌐 PHP | 📅 2026-04-22 - Plugin to allow passing currently logged in user to model layer.
 * [Version plugin](https://github.com/josegonzalez/cakephp-version) ⭐ 49 | 🐛 7 | 🌐 PHP | 📅 2024-01-09 - A plugin that facilitates versioned database entities.
 * [DatabaseLog plugin](https://github.com/dereuromark/CakePHP-DatabaseLog) ⭐ 44 | 🐛 0 | 🌐 PHP | 📅 2026-08-06 - Simple and stand-alone logging to database instead of files.
-* [AuditStash plugin](https://github.com/dereuromark/cakephp-audit-stash) ⭐ 9 | 🐛 1 | 🌐 PHP | 📅 2026-06-28 - Flexible and rock solid audit log tracking.
+* [AuditStash plugin](https://github.com/dereuromark/cakephp-audit-stash) ⭐ 9 | 🐛 2 | 🌐 PHP | 📅 2026-10-06 - Flexible and rock solid audit log tracking.
 * [Bouncer plugin](https://github.com/dereuromark/cakephp-bouncer) ⭐ 1 | 🐛 2 | 🌐 PHP | 📅 2026-07-22 - The pendant to AuditStash, allow moderation and approval of add/edit/delete actions before the actual change is applied.
 
 ### Authentication and Authorization
@@ -113,9 +113,9 @@ Additional lists you might find useful:
 
 * [TinyAuth plugin](https://github.com/dereuromark/cakephp-tinyauth) ⭐ 131 | 🐛 1 | 🌐 PHP | 📅 2026-08-02 - Authentication and role-based (single/multi) authorization as very light-weight approach.
 
-* [Authentication plugin](https://github.com/cakephp/authentication) ⭐ 118 | 🐛 2 | 🌐 PHP | 📅 2026-10-03 - Official CakePHP authentication middleware plugin.
+* [Authentication plugin](https://github.com/cakephp/authentication) ⭐ 118 | 🐛 3 | 🌐 PHP | 📅 2026-10-06 - Official CakePHP authentication middleware plugin.
 
-* [Authorization plugin](https://github.com/cakephp/authorization) ⭐ 74 | 🐛 3 | 🌐 PHP | 📅 2026-10-03 - Official CakePHP authorization stack.
+* [Authorization plugin](https://github.com/cakephp/authorization) ⭐ 74 | 🐛 4 | 🌐 PHP | 📅 2026-10-06 - Official CakePHP authorization stack.
 
 * [ADmad/SocialAuth plugin](https://github.com/ADmad/cakephp-social-auth) ⭐ 51 | 🐛 4 | 🌐 PHP | 📅 2026-01-06 - A plugin which allows you to authenticate using social providers like Facebook/Google/Twitter etc. using [SocialConnect/auth](https://github.com/SocialConnect/auth) ⭐ 564 | 🐛 37 | 🌐 PHP | 📅 2026-06-23 social sign on library.
 
@@ -154,7 +154,7 @@ Additional lists you might find useful:
 
 *Debugging and local development.*
 
-* [DebugKit plugin](https://github.com/cakephp/debug_kit) ⭐ 839 | 🐛 0 | 🌐 PHP | 📅 2026-09-27 - The de-facto standard for debugging.
+* [DebugKit plugin](https://github.com/cakephp/debug_kit) ⭐ 839 | 🐛 0 | 🌐 PHP | 📅 2026-10-06 - The de-facto standard for debugging.
 * [Setup plugin](https://github.com/dereuromark/cakephp-setup) ⭐ 35 | 🐛 0 | 🌐 PHP | 📅 2026-08-24 - A lightweight setup plugin containing healthcheck(s), debugging and maintenance tools.
 * [Execution order](https://github.com/dereuromark/executionorder) ⭐ 21 | 🐛 4 | 🌐 PHP | 📅 2024-11-07 - A demo app to display the execution order of files, methods and callbacks.
 * [CakephpWhoops plugin](https://github.com/dereuromark/cakephp-whoops) ⭐ 14 | 🐛 1 | 🌐 PHP | 📅 2026-06-28 - PHP errors and exceptions for cool kids with [filp/whoops](https://github.com/filp/whoops) ⭐ 13,232 | 🐛 7 | 🌐 PHP | 📅 2026-10-03.
@@ -174,7 +174,7 @@ Additional lists you might find useful:
 *Upload, storage, and file handling.*
 
 * [Josegonzalez/Upload plugin](https://github.com/FriendsOfCake/cakephp-upload) ⭐ 547 | 🐛 10 | 🌐 PHP | 📅 2026-02-16 - A customisable plugin that uses [Flysystem](https://flysystem.thephpleague.com/) to write to multiple backends (Dropbox, FTP, S3, Local, etc.).
-* [FileStorage plugin](https://github.com/dereuromark/cakephp-file-storage) ⭐ 10 | 🐛 1 | 🌐 PHP | 📅 2026-07-31 - Flexible file storage and upload plugin.
+* [FileStorage plugin](https://github.com/dereuromark/cakephp-file-storage) ⭐ 10 | 🐛 2 | 🌐 PHP | 📅 2026-10-06 - Flexible file storage and upload plugin.
 
 ### Filtering and Validation
 
@@ -204,7 +204,7 @@ Additional lists you might find useful:
 
 * [ADmad/Glide plugin](https://github.com/ADmad/cakephp-glide) ⭐ 34 | 🐛 0 | 🌐 PHP | 📅 2025-03-21 - A plugin for using [Glide](https://glide.thephpleague.com/) image manipulation library.
 * [QrCode plugin](https://github.com/dereuromark/cakephp-qrcode/) ⭐ 9 | 🐛 0 | 🌐 PHP | 📅 2026-06-28 - Easily render SVG/PNG QR Codes for your app.
-* [file-storage-image-processor](https://github.com/php-collective/file-storage-image-processor) ⭐ 0 | 🐛 1 | 🌐 PHP | 📅 2026-04-29 as `intervention/image` wrapper through [FileStorage plugin](https://github.com/dereuromark/cakephp-file-storage) ⭐ 10 | 🐛 1 | 🌐 PHP | 📅 2026-07-31.
+* [file-storage-image-processor](https://github.com/php-collective/file-storage-image-processor) ⭐ 0 | 🐛 1 | 🌐 PHP | 📅 2026-04-29 as `intervention/image` wrapper through [FileStorage plugin](https://github.com/dereuromark/cakephp-file-storage) ⭐ 10 | 🐛 2 | 🌐 PHP | 📅 2026-10-06.
 
 ### Libs
 
@@ -226,7 +226,7 @@ Additional lists you might find useful:
 
 *Plugins and resources around migration and upgrading.*
 
-* [Migrations plugin](https://github.com/cakephp/migrations) ⭐ 134 | 🐛 9 | 🌐 PHP | 📅 2026-09-19 - (DB) Migration plugin.
+* [Migrations plugin](https://github.com/cakephp/migrations) ⭐ 134 | 🐛 9 | 🌐 PHP | 📅 2026-10-06 - (DB) Migration plugin.
 * [Upgrade app](https://github.com/cakephp/upgrade) ⭐ 112 | 🐛 0 | 🌐 PHP | 📅 2026-09-26 - Official upgrade app for 3.x=>4.x and 4.x=>5.x.
 * [Upgrade app (extended)](https://github.com/dereuromark/upgrade) ⭐ 23 | 🐛 1 | 🌐 PHP | 📅 2026-06-18 - An extended upgrade app for 3.x=>4.x and some 5.x snippets.
 * [Upgrade/Migration Guide](https://book.cakephp.org/5/en/appendices.html) - Official migration guide.
@@ -239,7 +239,7 @@ Additional lists you might find useful:
 * [Ajax plugin](https://github.com/dereuromark/cakephp-ajax) ⭐ 54 | 🐛 0 | 🌐 PHP | 📅 2026-06-28 - A plugin to ease handling AJAX requests.
 * [Shim plugin](https://github.com/dereuromark/cakephp-shim) ⭐ 40 | 🐛 0 | 🌐 PHP | 📅 2026-08-17 - A plugin containing useful shims and improvements as basis for your application.
 * [Setup:Maintenance](https://github.com/dereuromark/cakephp-setup/blob/master/docs/maintenance/index.md) ⭐ 35 | 🐛 0 | 🌐 PHP | 📅 2026-08-24 - Maintenance shell to go into maintenance mode for all requests with optional IP whitelisting.
-* [CakeDC/Enum plugin](https://github.com/CakeDC/enum) ⭐ 30 | 🐛 4 | 🌐 PHP | 📅 2026-10-06 - A plugin to add enumeration list support to your app.
+* [CakeDC/Enum plugin](https://github.com/CakeDC/enum) ⭐ 30 | 🐛 3 | 🌐 PHP | 📅 2026-10-06 - A plugin to add enumeration list support to your app.
 * [CakeDto plugin](https://github.com/dereuromark/cakephp-dto) ⭐ 30 | 🐛 0 | 🌐 PHP | 📅 2026-06-28 - Quickly generate useful data transfer objects for your app (mutable/immutable), replacing messy arrays and leveraging your IDE through typehinting and autocomplete.
 * [DatabaseBackup plugin](https://github.com/mirko-pagliai/cakephp-database-backup) ⭐ 24 | 🐛 4 | 🌐 PHP | 📅 2026-09-03 - A plugin to export, import and manage database backups. Currently, the plugin supports MySQL, PostgreSQL and SQLite databases.
 * [CakeHtmx plugin](https://github.com/zunnu/cake-htmx) ⭐ 18 | 🐛 0 | 🌐 PHP | 📅 2025-12-03 - CakePHP integration for [htmx](https://htmx.org/).
@@ -293,9 +293,9 @@ Additional lists you might find useful:
 *Working with event and task queues.*
 
 * [Queue plugin](https://github.com/dereuromark/cakephp-queue) ⭐ 308 | 🐛 0 | 🌐 PHP | 📅 2026-08-02 - A minimal and dependency-free queue solution.
-* [Queue plugin](https://github.com/cakephp/queue) ⭐ 36 | 🐛 10 | 🌐 PHP | 📅 2026-09-25 - CakePHP core queue system for the [php-queue](https://php-enqueue.github.io) queue library.
+* [Queue plugin](https://github.com/cakephp/queue) ⭐ 36 | 🐛 11 | 🌐 PHP | 📅 2026-10-06 - CakePHP core queue system for the [php-queue](https://php-enqueue.github.io) queue library.
 * [QueueScheduler plugin](https://github.com/dereuromark/cakephp-queue-scheduler) ⭐ 7 | 🐛 1 | 🌐 PHP | 📅 2026-06-28 - A dependency-free crontab-like scheduler as DB driven solution and addon to Queue (dereuromark) plugin.
-* [Cake/Enqueue plugin](https://github.com/CakeDC/cakephp-enqueue) ⭐ 0 | 🐛 0 | 🌐 PHP | 📅 2026-10-01 - Database-driven message queue integration using the Enqueue library for CakePHP Queue plugin.
+* [Cake/Enqueue plugin](https://github.com/CakeDC/cakephp-enqueue) ⭐ 0 | 🐛 1 | 🌐 PHP | 📅 2026-10-01 - Database-driven message queue integration using the Enqueue library for CakePHP Queue plugin.
 * [Crustum/BatchQueue plugin](https://github.com/crustum/batch-queue) ⭐ 0 | 🐛 0 | 🌐 PHP | 📅 2026-07-25 - Unified system for managing batch job processing with parallel execution and sequential chains.
 * [Crustum/Temporal plugin](https://github.com/crustum/cakephp-temporal) ⭐ 0 | 🐛 0 | 🌐 PHP | 📅 2025-12-21 - Workflow orchestration plugin for durable execution, reliable background jobs, and long-running processes with automatic retries.
 
@@ -340,7 +340,7 @@ Additional lists you might find useful:
 
 *Plugins and repositories around app skeletons.*
 
-* [App template](https://github.com/cakephp/app) ⭐ 387 | 🐛 6 | 🌐 PHP | 📅 2026-09-19 - An empty CakePHP project for use with composer.
+* [App template](https://github.com/cakephp/app) ⭐ 387 | 🐛 6 | 🌐 PHP | 📅 2026-10-06 - An empty CakePHP project for use with composer.
 * [BS flavored App template](https://github.com/dereuromark/cakephp-app) ⭐ 4 | 🐛 0 | 🌐 PHP | 📅 2026-05-02 - An empty CakePHP project with BS5 and FontAwesome out of the box.
 
 ### Social
@@ -358,7 +358,7 @@ Additional lists you might find useful:
 * [BootstrapUI plugin](https://github.com/friendsofcake/bootstrap-ui) ⭐ 353 | 🐛 0 | 🌐 PHP | 📅 2026-07-11 - Bootstrap 4/5 integration.
 * [Tools:Tree](https://github.com/dereuromark/cakephp-tools) ⭐ 333 | 🐛 1 | 🌐 PHP | 📅 2026-08-02 - Tree helper to work with Core Tree behavior and handle tree structure output.
 * [CsvView plugin](https://github.com/FriendsOfCake/cakephp-csvview) ⭐ 177 | 🐛 2 | 🌐 PHP | 📅 2026-05-12 - A view class to easily generate CSV.
-* [Bake plugin](https://github.com/cakephp/bake) ⭐ 112 | 🐛 1 | 🌐 PHP | 📅 2026-10-03 - Provides code generation functionality.
+* [Bake plugin](https://github.com/cakephp/bake) ⭐ 112 | 🐛 2 | 🌐 PHP | 📅 2026-10-06 - Provides code generation functionality.
 * [TwigView plugin](https://github.com/cakephp/twig-view) ⭐ 15 | 🐛 3 | 🌐 PHP | 📅 2026-09-23 - A plugin to use the Twig Templating Language for views.
 * [Feed plugin](https://github.com/dereuromark/cakephp-feed) ⭐ 13 | 🐛 0 | 🌐 PHP | 📅 2026-06-28 - Containing an RssView class to easily generate (complex) RSS feeds.
 * [Meta plugin](https://github.com/dereuromark/cakephp-meta) ⭐ 9 | 🐛 0 | 🌐 PHP | 📅 2026-06-28 - Makes handling meta tags and SEO-relevant HTML markup DRY and easy.
@@ -469,7 +469,7 @@ Various resources, such as books, websites and articles, for improving your Cake
 
 *Reading materials related to the CakePHP internals and decisions.*
 
-* [Top 10 (and more) core contributors](https://github.com/cakephp/cakephp/graphs/contributors) ⭐ 8,791 | 🐛 26 | 🌐 PHP | 📅 2026-10-06 - Give 'em a hand.
+* [Top 10 (and more) core contributors](https://github.com/cakephp/cakephp/graphs/contributors) ⭐ 8,791 | 🐛 29 | 🌐 PHP | 📅 2026-10-06 - Give 'em a hand.
 
 ## Conferences
 
