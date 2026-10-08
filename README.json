@@ -19,7 +19,7 @@
             "open_issues": 65,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33706,
+            "stars": 33710,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:01.216Z"
@@ -40,7 +40,7 @@
             "open_issues": 94,
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32730,
+            "stars": 32732,
             "topics": [
               "awesome",
               "awesome-lists",
@@ -319,8 +319,8 @@
                 "id": 1077141053,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-10-06T16:13:30Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-07T16:12:31Z",
+                "open_issues": 1,
                 "owner": "dereuromark",
                 "repo": "cakephp-audit-stash",
                 "stars": 9,
@@ -347,7 +347,7 @@
                 "id": 1097616513,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-07-22T12:22:09Z",
+                "last_commit": "2026-10-07T16:28:36Z",
                 "open_issues": 2,
                 "owner": "dereuromark",
                 "repo": "cakephp-bouncer",
@@ -467,8 +467,8 @@
                 "id": 75036358,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-10-06T16:11:46Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-06T16:43:32Z",
+                "open_issues": 2,
                 "owner": "cakephp",
                 "repo": "authentication",
                 "stars": 118,
@@ -495,8 +495,8 @@
                 "id": 113933042,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-10-06T16:11:51Z",
-                "open_issues": 4,
+                "last_commit": "2026-10-06T16:43:05Z",
+                "open_issues": 3,
                 "owner": "cakephp",
                 "repo": "authorization",
                 "stars": 74,
@@ -579,6 +579,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
+            },
+            {
+              "node_type": "item",
+              "title": "CakePasskeys plugin",
+              "description": "Passkey (WebAuthn) registration and sign-in, with a JavaScript client and cells for managing passkeys.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Passwordless authentication using WebAuthn/passkeys for CakePHP",
+                "homepage": null,
+                "id": 1236506485,
+                "language": "PHP",
+                "license": "MIT",
+                "last_commit": "2026-10-07T18:03:47Z",
+                "open_issues": 0,
+                "owner": "dereuromark",
+                "repo": "cakephp-passkeys",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-10-08T16:57:24.254Z"
             },
             {
               "node_type": "item",
@@ -676,7 +697,7 @@
                 "id": 82395792,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-09-25T06:59:34Z",
+                "last_commit": "2026-10-08T11:54:57Z",
                 "open_issues": 4,
                 "owner": "dereuromark",
                 "repo": "cakephp-ide-helper",
@@ -727,7 +748,7 @@
                 "id": 122780973,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-08-02T09:42:02Z",
+                "last_commit": "2026-10-07T13:26:20Z",
                 "open_issues": 1,
                 "owner": "dereuromark",
                 "repo": "cakephp-test-helper",
@@ -903,7 +924,7 @@
                 "id": 3544492,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-08-24T11:01:22Z",
+                "last_commit": "2026-10-08T10:33:28Z",
                 "open_issues": 0,
                 "owner": "dereuromark",
                 "repo": "cakephp-setup",
@@ -1008,6 +1029,35 @@
                 ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
+            },
+            {
+              "node_type": "item",
+              "title": "OrcaServices/Heartbeat plugin",
+              "description": "A plugin providing an application heartbeat status page with configurable sensors.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A CakePHP plugin providing an application heartbeat status page with configurable sensors",
+                "homepage": null,
+                "id": 87213868,
+                "language": "PHP",
+                "license": "MIT",
+                "last_commit": "2026-10-05T01:16:05Z",
+                "open_issues": 1,
+                "owner": "orca-services",
+                "repo": "cakephp-heartbeat",
+                "stars": 4,
+                "topics": [
+                  "cakephp",
+                  "cakephp-plugin",
+                  "hacktoberfest",
+                  "heartbeat",
+                  "status-dashboard",
+                  "status-page",
+                  "statuspage"
+                ]
+              },
+              "first_seen": "2026-10-08T16:57:24.254Z"
             }
           ],
           "description": "Debugging and local development.",
@@ -1028,7 +1078,7 @@
                 "id": 2543495,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-08-02T11:54:00Z",
+                "last_commit": "2026-10-07T21:22:13Z",
                 "open_issues": 0,
                 "owner": "dereuromark",
                 "repo": "cakephp-queue",
@@ -1135,8 +1185,8 @@
                 "id": 309511008,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-10-06T16:04:14Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-08T11:24:28Z",
+                "open_issues": 1,
                 "owner": "dereuromark",
                 "repo": "cakephp-file-storage",
                 "stars": 10,
@@ -1526,8 +1576,8 @@
                 "id": 23262129,
                 "language": "PHP",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-06T16:15:19Z",
-                "open_issues": 9,
+                "last_commit": "2026-10-08T16:49:04Z",
+                "open_issues": 11,
                 "owner": "cakephp",
                 "repo": "migrations",
                 "stars": 134,
@@ -1681,7 +1731,7 @@
                 "id": 3544492,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-08-24T11:01:22Z",
+                "last_commit": "2026-10-08T10:33:28Z",
                 "open_issues": 0,
                 "owner": "dereuromark",
                 "repo": "cakephp-setup",
@@ -1710,8 +1760,8 @@
                 "id": 41097299,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-10-06T15:09:09Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-07T11:09:34Z",
+                "open_issues": 1,
                 "owner": "CakeDC",
                 "repo": "Enum",
                 "stars": 30,
@@ -1929,7 +1979,7 @@
                 "id": 1194728353,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-06-28T10:50:25Z",
+                "last_commit": "2026-10-07T16:42:45Z",
                 "open_issues": 0,
                 "owner": "dereuromark",
                 "repo": "cakephp-workflow",
@@ -2020,6 +2070,34 @@
           "description": "Misc plugins and libraries.",
           "node_type": "group",
           "title": "Miscellaneous"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Crustum/Rhythm plugin",
+              "description": "Real-time application performance monitoring for CakePHP 5.x with metrics for HTTP requests, DB queries, queue, exceptions, and cache plus a live dashboard.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Real-time application performance monitoring for CakePHP 5.x applications with comprehensive metric collection, storage, and visualization. Provides server monitoring, HTTP request tracking, database query performance analysis, queue monitoring, exception tracking, cache performance metrics with a real-time dashboard.",
+                "homepage": null,
+                "id": 1126828745,
+                "language": "PHP",
+                "license": "MIT",
+                "last_commit": "2026-07-25T21:29:54Z",
+                "open_issues": 0,
+                "owner": "Crustum",
+                "repo": "rhythm",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-10-08T16:57:24.254Z"
+            }
+          ],
+          "description": "Application monitoring and observability.",
+          "node_type": "group",
+          "title": "Monitoring"
         },
         {
           "children": [
@@ -2433,7 +2511,7 @@
                 "id": 2543495,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-08-02T11:54:00Z",
+                "last_commit": "2026-10-07T21:22:13Z",
                 "open_issues": 0,
                 "owner": "dereuromark",
                 "repo": "cakephp-queue",
@@ -2462,8 +2540,8 @@
                 "id": 225091981,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-10-06T16:12:16Z",
-                "open_issues": 11,
+                "last_commit": "2026-10-06T16:44:25Z",
+                "open_issues": 10,
                 "owner": "cakephp",
                 "repo": "queue",
                 "stars": 36,
@@ -2510,7 +2588,7 @@
                 "id": 530612024,
                 "language": "PHP",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-01T09:24:20Z",
+                "last_commit": "2026-10-07T17:27:00Z",
                 "open_issues": 1,
                 "owner": "CakeDC",
                 "repo": "cakephp-enqueue",
@@ -2671,6 +2749,35 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
+            },
+            {
+              "node_type": "item",
+              "title": "SwaggerUi plugin",
+              "description": "A plugin for publishing Swagger UIs based on OpenAPI specification files.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A CakePHP plugin for publishing Swagger UIs based on OpenAPI specification files",
+                "homepage": null,
+                "id": 305730915,
+                "language": "PHP",
+                "license": "MIT",
+                "last_commit": "2026-10-05T00:52:13Z",
+                "open_issues": 1,
+                "owner": "orca-services",
+                "repo": "cakephp-swagger-ui",
+                "stars": 1,
+                "topics": [
+                  "cakephp",
+                  "cakephp-plugin",
+                  "hacktoberfest",
+                  "open-api",
+                  "openapi",
+                  "swagger",
+                  "swagger-ui"
+                ]
+              },
+              "first_seen": "2026-10-08T16:57:24.254Z"
             }
           ],
           "description": "Plugins and web tools for developing REST-ful APIs.",
@@ -2803,6 +2910,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Crustum/Explorator plugin",
+              "description": "Driver-based full-text search for CakePHP Tables and Entities (collection, database, Algolia, Meilisearch, Typesense).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The Explorator plugin provides driver-based full-text search for CakePHP Tables and Entities (collection, database, Algolia, Meilisearch, Typesense).",
+                "homepage": null,
+                "id": 1314538519,
+                "language": "PHP",
+                "license": "MIT",
+                "last_commit": "2026-09-18T07:09:53Z",
+                "open_issues": 0,
+                "owner": "Crustum",
+                "repo": "explorator",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-10-08T16:57:24.254Z"
             }
           ],
           "description": "Plugins and software for indexing and performing search queries on data.",
@@ -3009,7 +3137,7 @@
                 "id": 12865009,
                 "language": "PHP",
                 "license": null,
-                "last_commit": "2026-10-06T16:14:33Z",
+                "last_commit": "2026-10-07T17:41:34Z",
                 "open_issues": 6,
                 "owner": "cakephp",
                 "repo": "app",
@@ -3227,8 +3355,8 @@
                 "id": 27730883,
                 "language": "PHP",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-06T16:11:56Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-07T18:13:05Z",
+                "open_issues": 3,
                 "owner": "cakephp",
                 "repo": "bake",
                 "stars": 112,
@@ -3503,11 +3631,68 @@
                 ]
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
+            },
+            {
+              "node_type": "item",
+              "title": "DataValidationTesting plugin",
+              "description": "A plugin to help testing data validation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A CakePHP plugin to help testing data validation",
+                "homepage": null,
+                "id": 82308012,
+                "language": "PHP",
+                "license": "MIT",
+                "last_commit": "2026-10-01T14:24:02Z",
+                "open_issues": 1,
+                "owner": "orca-services",
+                "repo": "cakephp-data-validation-testing",
+                "stars": 0,
+                "topics": [
+                  "cakephp",
+                  "cakephp-plugin",
+                  "data-validation",
+                  "hacktoberfest",
+                  "php",
+                  "testing",
+                  "unit-testing"
+                ]
+              },
+              "first_seen": "2026-10-08T16:57:24.254Z"
             }
           ],
           "description": "Plugins/Tools for testing codebases and generating test data.",
           "node_type": "group",
           "title": "Testing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Crustum/Saloon plugin",
+              "description": "Integrates Saloon for building elegant HTTP API clients and SDKs, with CakePHP events, Bake generators, testing helpers, and cache/rate-limit bridges.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The Saloon plugin integrates Saloon with CakePHP for building elegant HTTP API clients and SDKs, with CakePHP events, Bake generators, testing helpers, and cache bridges for caching and rate limiting.",
+                "homepage": null,
+                "id": 1309163845,
+                "language": "PHP",
+                "license": "MIT",
+                "last_commit": "2026-09-16T19:44:29Z",
+                "open_issues": 0,
+                "owner": "Crustum",
+                "repo": "saloon",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-10-08T16:57:24.254Z"
+            }
+          ],
+          "description": "Accessing third party APIs.",
+          "node_type": "group",
+          "title": "Third Party APIs"
         }
       ],
       "title": "Plugins"
@@ -3662,8 +3847,8 @@
                 "id": 3420388,
                 "language": "PHP",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-05T03:44:03Z",
-                "open_issues": 108,
+                "last_commit": "2026-10-08T07:34:45Z",
+                "open_issues": 89,
                 "owner": "baserproject",
                 "repo": "basercms",
                 "stars": 190,
@@ -3768,8 +3953,8 @@
                 "id": 161028411,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-10-05T08:30:33Z",
-                "open_issues": 5,
+                "last_commit": "2026-10-08T12:15:34Z",
+                "open_issues": 9,
                 "owner": "ishanvyas22",
                 "repo": "cakephpvue-spa",
                 "stars": 46,
@@ -3887,7 +4072,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T16:16:17.516Z",
+    "last_updated": "2026-10-08T16:57:24.254Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome CakePHP plugins, resources and shiny things. ",
@@ -3895,8 +4080,8 @@
       "id": 22418008,
       "language": null,
       "license": "WTFPL",
-      "last_commit": "2026-10-02T21:50:30Z",
-      "open_issues": 16,
+      "last_commit": "2026-10-08T10:14:26Z",
+      "open_issues": 9,
       "owner": "FriendsOfCake",
       "repo": "awesome-cakephp",
       "stars": 936,
@@ -3905,7 +4090,7 @@
         "awesome-list"
       ]
     },
-    "original_repository_sha": "24b197f6f4d5ef47212af641a71c127b371e2b1f",
+    "original_repository_sha": "7266da55345d422c596ec0bd3587924714be006b",
     "enhanced_repository": "enhansome/enhansome-cakephp",
     "enhanced_repository_description": null,
     "title": "Awesome CakePHP with stars"
