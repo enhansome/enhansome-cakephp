@@ -13,8 +13,8 @@ If you are looking for previous CakePHP resources please visit:
 
 Additional lists you might find useful:
 
-* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,710 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02
-* [Awesome PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,732 | 🐛 94 | 📅 2026-09-27
+* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,711 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02
+* [Awesome PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,736 | 🐛 95 | 📅 2026-09-27
 * [CakePHP Plugins](https://plugins.cakephp.org)
 
 > For those wondering; this list differs from plugins.cakephp.org by supporting
@@ -120,7 +120,7 @@ Additional lists you might find useful:
 
 * [ADmad/SocialAuth plugin](https://github.com/ADmad/cakephp-social-auth) ⭐ 51 | 🐛 4 | 🌐 PHP | 📅 2026-01-06 - A plugin which allows you to authenticate using social providers like Facebook/Google/Twitter etc. using [SocialConnect/auth](https://github.com/SocialConnect/auth) ⭐ 564 | 🐛 37 | 🌐 PHP | 📅 2026-06-23 social sign on library.
 
-* [TwoFactorAuth plugin](https://github.com/andrej-griniuk/cakephp-two-factor-auth) ⭐ 38 | 🐛 3 | 🌐 PHP | 📅 2026-05-07 - Allows two factor authentication using Google Authenticator or similar app to generate one-time codes. Based on [RobThree/TwoFactorAuth](https://github.com/RobThree/TwoFactorAuth) ⭐ 1,189 | 🐛 3 | 🌐 PHP | 📅 2026-01-05 library.
+* [TwoFactorAuth plugin](https://github.com/andrej-griniuk/cakephp-two-factor-auth) ⭐ 38 | 🐛 3 | 🌐 PHP | 📅 2026-05-07 - Allows two factor authentication using Google Authenticator or similar app to generate one-time codes. Based on [RobThree/TwoFactorAuth](https://github.com/RobThree/TwoFactorAuth) ⭐ 1,190 | 🐛 3 | 🌐 PHP | 📅 2026-01-05 library.
 
 * [ApiTokenAuthenticator plugin](https://github.com/rrd108/api-token-authenticator) ⭐ 3 | 🐛 4 | 🌐 PHP | 📅 2025-11-26 - A simple token authentication plugin for CakePHP REST APIs.
 
@@ -230,7 +230,7 @@ Additional lists you might find useful:
 
 *Plugins and resources around migration and upgrading.*
 
-* [Migrations plugin](https://github.com/cakephp/migrations) ⭐ 134 | 🐛 11 | 🌐 PHP | 📅 2026-10-08 - (DB) Migration plugin.
+* [Migrations plugin](https://github.com/cakephp/migrations) ⭐ 134 | 🐛 11 | 🌐 PHP | 📅 2026-10-09 - (DB) Migration plugin.
 * [Upgrade app](https://github.com/cakephp/upgrade) ⭐ 112 | 🐛 0 | 🌐 PHP | 📅 2026-09-26 - Official upgrade app for 3.x=>4.x and 4.x=>5.x.
 * [Upgrade app (extended)](https://github.com/dereuromark/upgrade) ⭐ 23 | 🐛 1 | 🌐 PHP | 📅 2026-06-18 - An extended upgrade app for 3.x=>4.x and some 5.x snippets.
 * [Upgrade/Migration Guide](https://book.cakephp.org/5/en/appendices.html) - Official migration guide.
@@ -276,7 +276,7 @@ Additional lists you might find useful:
 
 * [Mercure plugin](https://github.com/josbeir/cakephp-mercure) ⭐ 5 | 🐛 0 | 🌐 PHP | 📅 2026-08-23 - Push real-time updates to clients using the Mercure protocol.
 * [Crustum/Notification plugin](https://github.com/crustum/notification) ⭐ 2 | 🐛 0 | 🌐 PHP | 📅 2026-09-14 - The Notification plugin provides support for sending notifications across a variety of delivery channels.
-* [Crustum/Broadcasting plugin](https://github.com/crustum/broadcasting) ⭐ 1 | 🐛 0 | 🌐 PHP | 📅 2026-09-14 - The Broadcasting plugin provides real-time event broadcasting for CakePHP applications using WebSocket connections compatible with the Pusher protocol or Redis pub/sub.
+* [Crustum/Broadcasting plugin](https://github.com/crustum/broadcasting) ⭐ 1 | 🐛 0 | 🌐 PHP | 📅 2026-10-08 - The Broadcasting plugin provides real-time event broadcasting for CakePHP applications using WebSocket connections compatible with the Pusher protocol or Redis pub/sub.
 
 ### ORM / Database / Datamapping
 
@@ -428,7 +428,7 @@ IDE specific compatibility information and tips can be found [here](https://gith
 
 *Web-based (demo) applications and tools.*
 
-* [RealWorld](https://github.com/gothinkster/cakephp-realworld-example-app) ⚠️ Archived - Example CakePHP codebase containing real world examples (CRUD, auth, advanced patterns and more) that adheres to the [RealWorld](https://github.com/gothinkster/realworld-example-apps) ⭐ 84,260 | 🐛 28 | 🌐 TypeScript | 📅 2026-08-26 spec and API.
+* [RealWorld](https://github.com/gothinkster/cakephp-realworld-example-app) ⚠️ Archived - Example CakePHP codebase containing real world examples (CRUD, auth, advanced patterns and more) that adheres to the [RealWorld](https://github.com/gothinkster/realworld-example-apps) ⭐ 84,263 | 🐛 28 | 🌐 TypeScript | 📅 2026-08-26 spec and API.
 * [Query examples](https://github.com/lorenzo/cakephp3-examples) ⭐ 56 | 🐛 0 | 🌐 PHP | 📅 2014-08-23 - Advanced query building examples.
 * [Xeta](https://github.com/XetaIO/Xeta) ⭐ 49 | 🐛 4 | 🌐 PHP | 📅 2017-04-25 - A resource to help people starting with CakePHP.
 * [Vue.js demo app](https://github.com/ishanvyas22/cakephpvue-spa) ⭐ 46 | 🐛 9 | 🌐 PHP | 📅 2026-10-08 - A CakePHP + Vue.js single page application skeleton.
@@ -484,7 +484,7 @@ Various resources, such as books, websites and articles, for improving your Cake
 
 *Reading materials related to the CakePHP internals and decisions.*
 
-* [Top 10 (and more) core contributors](https://github.com/cakephp/cakephp/graphs/contributors) ⭐ 8,790 | 🐛 32 | 🌐 PHP | 📅 2026-10-08 - Give 'em a hand.
+* [Top 10 (and more) core contributors](https://github.com/cakephp/cakephp/graphs/contributors) ⭐ 8,790 | 🐛 39 | 🌐 PHP | 📅 2026-10-09 - Give 'em a hand.
 
 ## Conferences
 
@@ -506,4 +506,4 @@ awesome-cakephp has been created by [dereuromark](https://github.com/dereuromark
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
