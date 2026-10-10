@@ -16,10 +16,10 @@
             "language": "Ruby",
             "license": null,
             "last_commit": "2024-06-02T22:46:41Z",
-            "open_issues": 65,
+            "open_issues": 64,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33711,
+            "stars": 33716,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:01.216Z"
@@ -1471,7 +1471,7 @@
                 "open_issues": 26,
                 "owner": "composer",
                 "repo": "installers",
-                "stars": 1440,
+                "stars": 1439,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
@@ -1576,8 +1576,8 @@
                 "id": 23262129,
                 "language": "PHP",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-09T13:51:27Z",
-                "open_issues": 11,
+                "last_commit": "2026-10-10T08:21:15Z",
+                "open_issues": 10,
                 "owner": "cakephp",
                 "repo": "migrations",
                 "stars": 134,
@@ -3851,7 +3851,7 @@
                 "open_issues": 89,
                 "owner": "baserproject",
                 "repo": "basercms",
-                "stars": 190,
+                "stars": 191,
                 "topics": [
                   "basercms",
                   "php"
@@ -4072,7 +4072,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T16:35:38.482Z",
+    "last_updated": "2026-10-10T15:34:12.981Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome CakePHP plugins, resources and shiny things. ",
