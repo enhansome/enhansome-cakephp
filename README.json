@@ -19,7 +19,7 @@
             "open_issues": 64,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33721,
+            "stars": 33720,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:01.216Z"
@@ -40,7 +40,7 @@
             "open_issues": 95,
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32739,
+            "stars": 32742,
             "topics": [
               "awesome",
               "awesome-lists",
@@ -252,8 +252,8 @@
                 "id": 34571038,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-04-22T06:26:26Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-13T02:49:41Z",
+                "open_issues": 0,
                 "owner": "UseMuffin",
                 "repo": "Footprint",
                 "stars": 95,
@@ -727,8 +727,8 @@
                 "id": 266729527,
                 "language": "PHP",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-06T10:33:38Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-13T15:29:48Z",
+                "open_issues": 2,
                 "owner": "CakeDC",
                 "repo": "cakephp-phpstan",
                 "stars": 43,
@@ -1472,7 +1472,7 @@
                 "open_issues": 132,
                 "owner": "rocketeers",
                 "repo": "rocketeer",
-                "stars": 2628,
+                "stars": 2627,
                 "topics": [
                   "deployment",
                   "php"
@@ -2288,7 +2288,7 @@
                 "id": 45679037,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2024-08-07T14:25:47Z",
+                "last_commit": "2026-10-13T02:50:09Z",
                 "open_issues": 6,
                 "owner": "riesenia",
                 "repo": "cakephp-duplicatable",
@@ -3162,8 +3162,8 @@
                 "id": 12865009,
                 "language": "PHP",
                 "license": null,
-                "last_commit": "2026-10-12T15:43:12Z",
-                "open_issues": 11,
+                "last_commit": "2026-10-13T12:49:01Z",
+                "open_issues": 12,
                 "owner": "cakephp",
                 "repo": "app",
                 "stars": 387,
@@ -3301,7 +3301,7 @@
                 "id": 28697596,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-10-12T17:56:57Z",
+                "last_commit": "2026-10-13T14:37:10Z",
                 "open_issues": 0,
                 "owner": "FriendsOfCake",
                 "repo": "bootstrap-ui",
@@ -3380,7 +3380,7 @@
                 "id": 27730883,
                 "language": "PHP",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-12T18:28:15Z",
+                "last_commit": "2026-10-13T08:47:45Z",
                 "open_issues": 2,
                 "owner": "cakephp",
                 "repo": "bake",
@@ -4097,7 +4097,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T19:20:02.548Z",
+    "last_updated": "2026-10-13T17:08:15.775Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome CakePHP plugins, resources and shiny things. ",
@@ -4109,7 +4109,7 @@
       "open_issues": 9,
       "owner": "FriendsOfCake",
       "repo": "awesome-cakephp",
-      "stars": 936,
+      "stars": 935,
       "topics": [
         "awesome",
         "awesome-list"
