@@ -40,7 +40,7 @@
             "open_issues": 98,
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32760,
+            "stars": 32761,
             "topics": [
               "awesome",
               "awesome-lists",
@@ -381,7 +381,7 @@
                 "id": 865313,
                 "language": "PHP",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-31T07:48:16Z",
+                "last_commit": "2026-10-23T18:57:22Z",
                 "open_issues": 52,
                 "owner": "CakeDC",
                 "repo": "users",
@@ -1472,7 +1472,7 @@
                 "open_issues": 132,
                 "owner": "rocketeers",
                 "repo": "rocketeer",
-                "stars": 2627,
+                "stars": 2626,
                 "topics": [
                   "deployment",
                   "php"
@@ -1581,6 +1581,32 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
+            },
+            {
+              "node_type": "item",
+              "title": "MarkupCarve/CakeCarve plugin",
+              "description": "Renders and validates Carve markup, with a helper, views, an ORM behavior and console commands.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "CakePHP plugin for Carve: rendering, views, validation, ORM behavior, commands and caching",
+                "homepage": "https://markup-carve.github.io/cakephp-carve/",
+                "id": 1431106084,
+                "language": "PHP",
+                "license": "MIT",
+                "last_commit": "2026-10-24T09:48:20Z",
+                "open_issues": 0,
+                "owner": "markup-carve",
+                "repo": "cakephp-carve",
+                "stars": 0,
+                "topics": [
+                  "cakephp",
+                  "cakephp-plugin",
+                  "carve",
+                  "markup"
+                ]
+              },
+              "first_seen": "2026-10-24T13:35:51.039Z"
             }
           ],
           "description": "Syntax highlighting and markup processing.",
@@ -1627,8 +1653,8 @@
                 "id": 16732471,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-10-14T05:21:45Z",
-                "open_issues": 0,
+                "last_commit": "2026-10-24T11:33:42Z",
+                "open_issues": 1,
                 "owner": "cakephp",
                 "repo": "upgrade",
                 "stars": 114,
@@ -1835,7 +1861,7 @@
                 "id": 95145744,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-09-03T15:24:23Z",
+                "last_commit": "2026-10-24T13:30:51Z",
                 "open_issues": 4,
                 "owner": "mirko-pagliai",
                 "repo": "cakephp-database-backup",
@@ -2110,7 +2136,7 @@
                 "id": 1126828745,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-07-25T21:29:54Z",
+                "last_commit": "2026-10-23T21:45:11Z",
                 "open_issues": 0,
                 "owner": "Crustum",
                 "repo": "rhythm",
@@ -2218,7 +2244,7 @@
                 "id": 1105154320,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-10-22T17:12:11Z",
+                "last_commit": "2026-10-23T18:24:54Z",
                 "open_issues": 0,
                 "owner": "Crustum",
                 "repo": "Notification",
@@ -2239,7 +2265,7 @@
                 "id": 1105154213,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-10-22T15:58:05Z",
+                "last_commit": "2026-10-23T18:24:47Z",
                 "open_issues": 0,
                 "owner": "Crustum",
                 "repo": "Broadcasting",
@@ -2709,7 +2735,7 @@
                 "id": 73112770,
                 "language": "PHP",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-13T22:40:35Z",
+                "last_commit": "2026-10-23T19:16:25Z",
                 "open_issues": 5,
                 "owner": "CakeDC",
                 "repo": "cakephp-api",
@@ -3599,7 +3625,7 @@
                 "id": 3634443,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-09-22T07:08:40Z",
+                "last_commit": "2026-10-24T10:56:35Z",
                 "open_issues": 5,
                 "owner": "cakephp",
                 "repo": "cakephp-codesniffer",
@@ -4097,7 +4123,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T14:27:14.452Z",
+    "last_updated": "2026-10-24T13:35:51.039Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome CakePHP plugins, resources and shiny things. ",
@@ -4105,7 +4131,7 @@
       "id": 22418008,
       "language": null,
       "license": "WTFPL",
-      "last_commit": "2026-10-11T16:58:30Z",
+      "last_commit": "2026-10-23T17:00:27Z",
       "open_issues": 9,
       "owner": "FriendsOfCake",
       "repo": "awesome-cakephp",
@@ -4115,7 +4141,7 @@
         "awesome-list"
       ]
     },
-    "original_repository_sha": "a7a8d3ac0dad7fcc28319d499a94357307cb139b",
+    "original_repository_sha": "079a30f1838e87e0ac66398bbd7364cd094547cd",
     "enhanced_repository": "enhansome/enhansome-cakephp",
     "enhanced_repository_description": null,
     "title": "Awesome CakePHP with stars"
