@@ -13,8 +13,8 @@ If you are looking for previous CakePHP resources please visit:
 
 Additional lists you might find useful:
 
-* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,750 | 🐛 64 | 🌐 Ruby | 📅 2024-06-02
-* [Awesome PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,765 | 🐛 99 | 📅 2026-09-27
+* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,752 | 🐛 64 | 🌐 Ruby | 📅 2024-06-02
+* [Awesome PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,768 | 🐛 99 | 📅 2026-09-27
 * [CakePHP Plugins](https://plugins.cakephp.org)
 
 > For those wondering; this list differs from plugins.cakephp.org by supporting
@@ -160,7 +160,7 @@ Additional lists you might find useful:
 * [DebugKit plugin](https://github.com/cakephp/debug_kit) ⭐ 839 | 🐛 0 | 🌐 PHP | 📅 2026-10-21 - The de-facto standard for debugging.
 * [Setup plugin](https://github.com/dereuromark/cakephp-setup) ⭐ 35 | 🐛 0 | 🌐 PHP | 📅 2026-10-25 - A lightweight setup plugin containing healthcheck(s), debugging and maintenance tools.
 * [Execution order](https://github.com/dereuromark/executionorder) ⭐ 21 | 🐛 4 | 🌐 PHP | 📅 2024-11-07 - A demo app to display the execution order of files, methods and callbacks.
-* [CakephpWhoops plugin](https://github.com/dereuromark/cakephp-whoops) ⭐ 14 | 🐛 1 | 🌐 PHP | 📅 2026-06-28 - PHP errors and exceptions for cool kids with [filp/whoops](https://github.com/filp/whoops) ⭐ 13,227 | 🐛 7 | 🌐 PHP | 📅 2026-10-18.
+* [CakephpWhoops plugin](https://github.com/dereuromark/cakephp-whoops) ⭐ 14 | 🐛 1 | 🌐 PHP | 📅 2026-06-28 - PHP errors and exceptions for cool kids with [filp/whoops](https://github.com/filp/whoops) ⭐ 13,223 | 🐛 7 | 🌐 PHP | 📅 2026-10-18.
 * [Sentry plugin](https://github.com/lordsimal/cakephp-sentry) ⭐ 12 | 🐛 1 | 🌐 PHP | 📅 2026-09-27 - A plugin to seamlessly integrate Sentry for errors and exceptions.
 * [AssociationsDebugger plugin](https://github.com/zunnu/associations-debugger) ⭐ 11 | 🐛 1 | 🌐 JavaScript | 📅 2024-06-15 - A plugin that draws your model associations as diagram.
 * [OrcaServices/Heartbeat plugin](https://github.com/orca-services/cakephp-heartbeat) ⭐ 4 | 🐛 3 | 🌐 PHP | 📅 2026-10-26 - A plugin providing an application heartbeat status page with configurable sensors.
@@ -315,7 +315,7 @@ Additional lists you might find useful:
 
 *Plugins and web tools for developing REST-ful APIs.*
 
-* [CRUD plugin](https://github.com/FriendsOfCake/crud) ⭐ 379 | 🐛 11 | 🌐 PHP | 📅 2026-10-11 - CakePHP Application development on steroids - rapid prototyping / scaffolding & production-ready code.
+* [CRUD plugin](https://github.com/FriendsOfCake/crud) ⭐ 380 | 🐛 11 | 🌐 PHP | 📅 2026-10-11 - CakePHP Application development on steroids - rapid prototyping / scaffolding & production-ready code.
 * [CakeDC/Api plugin](https://github.com/CakeDC/cakephp-api) ⭐ 60 | 🐛 5 | 🌐 PHP | 📅 2026-10-27 - All-in-one solution to provide a complete API. It includes versioning, renderers, CRUD, authentication, extensions (paginate, filter, HATEOAS), and much more.
 * [SwaggerBake plugin](https://github.com/cnizzardini/cakephp-swagger-bake) ⭐ 59 | 🐛 1 | 🌐 PHP | 📅 2026-09-22 - This plugin automatically builds OpenAPI from your existing models and routes for display in Swagger and Redoc.
 * [FractalTransformerView plugin](https://github.com/andrej-griniuk/cakephp-fractal-transformer-view) ⭐ 18 | 🐛 0 | 🌐 PHP | 📅 2023-12-11 - A plugin which allows using [Fractal transformers](https://fractal.thephpleague.com/transformers/) for your API output.
@@ -423,16 +423,16 @@ IDE specific compatibility information and tips can be found [here](https://gith
 
 ### CMS and applications built on CakePHP
 
-* [baserCMS](https://github.com/baserproject/basercms) ⭐ 191 | 🐛 100 | 🌐 PHP | 📅 2026-10-27 - This is a website development framework with RESTful APIs. Installable as a plugin for CakePHP.
+* [baserCMS](https://github.com/baserproject/basercms) ⭐ 192 | 🐛 87 | 🌐 PHP | 📅 2026-10-28 - This is a website development framework with RESTful APIs. Installable as a plugin for CakePHP.
 
 ### Demo
 
 *Web-based (demo) applications and tools.*
 
-* [RealWorld](https://github.com/gothinkster/cakephp-realworld-example-app) ⚠️ Archived - Example CakePHP codebase containing real world examples (CRUD, auth, advanced patterns and more) that adheres to the [RealWorld](https://github.com/gothinkster/realworld-example-apps) ⭐ 84,332 | 🐛 30 | 🌐 TypeScript | 📅 2026-08-26 spec and API.
+* [RealWorld](https://github.com/gothinkster/cakephp-realworld-example-app) ⚠️ Archived - Example CakePHP codebase containing real world examples (CRUD, auth, advanced patterns and more) that adheres to the [RealWorld](https://github.com/gothinkster/realworld-example-apps) ⭐ 84,330 | 🐛 30 | 🌐 TypeScript | 📅 2026-08-26 spec and API.
 * [Query examples](https://github.com/lorenzo/cakephp3-examples) ⭐ 56 | 🐛 0 | 🌐 PHP | 📅 2014-08-23 - Advanced query building examples.
 * [Xeta](https://github.com/XetaIO/Xeta) ⭐ 49 | 🐛 4 | 🌐 PHP | 📅 2017-04-25 - A resource to help people starting with CakePHP.
-* [Vue.js demo app](https://github.com/ishanvyas22/cakephpvue-spa) ⭐ 46 | 🐛 11 | 🌐 PHP | 📅 2026-10-26 - A CakePHP + Vue.js single page application skeleton.
+* [Vue.js demo app](https://github.com/ishanvyas22/cakephpvue-spa) ⭐ 46 | 🐛 7 | 🌐 PHP | 📅 2026-10-28 - A CakePHP + Vue.js single page application skeleton.
 * [Bookmarkr](https://github.com/lorenzo/cakephp3-bookmarkr) ⚠️ Archived - A bookmarking application built with the CRUD plugin.
 * [BlogMVC](https://github.com/Kareylo/BlogMVC-CakePHP3) ⭐ 8 | 🐛 1 | 🌐 PHP | 📅 2026-08-22 - A simple Blog example with CakePHP based on [BlogMVC Project](https://github.com/Grafikart/BlogMVC) ⚠️ Archived.
 * [Fluentd + Grafana Loki demo application](https://github.com/ishanvyas22/cakephp-loki-demo) ⭐ 1 | 🐛 0 | 🌐 PHP | 📅 2026-08-03 - A demo application to send CakePHP Docker container logs to [Grafana Loki](https://grafana.com/) via [Fluentd](https://www.fluentd.org/).
@@ -485,7 +485,7 @@ Various resources, such as books, websites and articles, for improving your Cake
 
 *Reading materials related to the CakePHP internals and decisions.*
 
-* [Top 10 (and more) core contributors](https://github.com/cakephp/cakephp/graphs/contributors) ⭐ 8,790 | 🐛 26 | 🌐 PHP | 📅 2026-10-27 - Give 'em a hand.
+* [Top 10 (and more) core contributors](https://github.com/cakephp/cakephp/graphs/contributors) ⭐ 8,790 | 🐛 27 | 🌐 PHP | 📅 2026-10-28 - Give 'em a hand.
 
 ## Conferences
 
@@ -507,4 +507,4 @@ awesome-cakephp has been created by [dereuromark](https://github.com/dereuromark
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._

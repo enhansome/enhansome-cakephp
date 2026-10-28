@@ -19,7 +19,7 @@
             "open_issues": 64,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33750,
+            "stars": 33752,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:01.216Z"
@@ -40,7 +40,7 @@
             "open_issues": 99,
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32765,
+            "stars": 32768,
             "topics": [
               "awesome",
               "awesome-lists",
@@ -2713,7 +2713,7 @@
                 "open_issues": 11,
                 "owner": "FriendsOfCake",
                 "repo": "crud",
-                "stars": 379,
+                "stars": 380,
                 "topics": [
                   "cakephp",
                   "cakephp-plugin",
@@ -3052,7 +3052,7 @@
                 "license": "MIT",
                 "last_commit": "2025-01-28T13:11:25Z",
                 "open_issues": 0,
-                "owner": "ctlabvn",
+                "owner": "meohamhoc-vn",
                 "repo": "Recaptcha",
                 "stars": 20,
                 "topics": [
@@ -3898,11 +3898,11 @@
                 "id": 3420388,
                 "language": "PHP",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-27T11:24:10Z",
-                "open_issues": 100,
+                "last_commit": "2026-10-28T08:07:09Z",
+                "open_issues": 87,
                 "owner": "baserproject",
                 "repo": "basercms",
-                "stars": 191,
+                "stars": 192,
                 "topics": [
                   "basercms",
                   "php"
@@ -4004,8 +4004,8 @@
                 "id": 161028411,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-10-26T04:32:56Z",
-                "open_issues": 11,
+                "last_commit": "2026-10-28T05:23:57Z",
+                "open_issues": 7,
                 "owner": "ishanvyas22",
                 "repo": "cakephpvue-spa",
                 "stars": 46,
@@ -4123,7 +4123,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T15:32:53.188Z",
+    "last_updated": "2026-10-28T16:16:38.792Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome CakePHP plugins, resources and shiny things. ",
