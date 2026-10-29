@@ -16,10 +16,10 @@
             "language": "Ruby",
             "license": null,
             "last_commit": "2024-06-02T22:46:41Z",
-            "open_issues": 64,
+            "open_issues": 65,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33752,
+            "stars": 33759,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:01.216Z"
@@ -36,11 +36,11 @@
             "id": 14705691,
             "language": null,
             "license": "WTFPL",
-            "last_commit": "2026-09-27T20:39:19Z",
-            "open_issues": 99,
+            "last_commit": "2026-10-29T16:23:54Z",
+            "open_issues": 80,
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32768,
+            "stars": 32778,
             "topics": [
               "awesome",
               "awesome-lists",
@@ -228,7 +228,7 @@
                 "open_issues": 0,
                 "owner": "josbeir",
                 "repo": "cakephp-vite",
-                "stars": 3,
+                "stars": 2,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
@@ -323,7 +323,7 @@
                 "open_issues": 1,
                 "owner": "dereuromark",
                 "repo": "cakephp-audit-stash",
-                "stars": 9,
+                "stars": 10,
                 "topics": [
                   "audit-log",
                   "audit-trail",
@@ -442,7 +442,7 @@
                 "open_issues": 0,
                 "owner": "dereuromark",
                 "repo": "cakephp-tinyauth",
-                "stars": 131,
+                "stars": 132,
                 "topics": [
                   "acl",
                   "authentication",
@@ -701,7 +701,7 @@
                 "open_issues": 4,
                 "owner": "dereuromark",
                 "repo": "cakephp-ide-helper",
-                "stars": 189,
+                "stars": 190,
                 "topics": [
                   "annotations",
                   "autocompletion",
@@ -1082,7 +1082,7 @@
                 "open_issues": 0,
                 "owner": "dereuromark",
                 "repo": "cakephp-queue",
-                "stars": 308,
+                "stars": 309,
                 "topics": [
                   "asynchronous",
                   "background-jobs",
@@ -1472,7 +1472,7 @@
                 "open_issues": 132,
                 "owner": "rocketeers",
                 "repo": "rocketeer",
-                "stars": 2626,
+                "stars": 2625,
                 "topics": [
                   "deployment",
                   "php"
@@ -1517,7 +1517,7 @@
                 "open_issues": 4,
                 "owner": "cakephp",
                 "repo": "chronos",
-                "stars": 1362,
+                "stars": 1361,
                 "topics": [
                   "calendar-dates",
                   "datetime-objects",
@@ -2190,11 +2190,11 @@
                 "id": 126092570,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-10-16T12:05:09Z",
+                "last_commit": "2026-10-28T17:13:59Z",
                 "open_issues": 0,
                 "owner": "dereuromark",
                 "repo": "cakephp-menu",
-                "stars": 5,
+                "stars": 6,
                 "topics": [
                   "builder",
                   "menu",
@@ -2248,7 +2248,7 @@
                 "open_issues": 0,
                 "owner": "Crustum",
                 "repo": "Notification",
-                "stars": 2,
+                "stars": 3,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
@@ -2566,7 +2566,7 @@
                 "open_issues": 0,
                 "owner": "dereuromark",
                 "repo": "cakephp-queue",
-                "stars": 308,
+                "stars": 309,
                 "topics": [
                   "asynchronous",
                   "background-jobs",
@@ -2622,7 +2622,7 @@
                 "open_issues": 1,
                 "owner": "dereuromark",
                 "repo": "cakephp-queue-scheduler",
-                "stars": 7,
+                "stars": 8,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:01.216Z"
@@ -3509,7 +3509,7 @@
                 "open_issues": 0,
                 "owner": "dereuromark",
                 "repo": "cakephp-templating",
-                "stars": 5,
+                "stars": 6,
                 "topics": [
                   "bootstrap",
                   "cakephp",
@@ -3898,8 +3898,8 @@
                 "id": 3420388,
                 "language": "PHP",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-28T08:07:09Z",
-                "open_issues": 87,
+                "last_commit": "2026-10-29T10:23:54Z",
+                "open_issues": 89,
                 "owner": "baserproject",
                 "repo": "basercms",
                 "stars": 192,
@@ -4123,7 +4123,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T16:16:38.792Z",
+    "last_updated": "2026-10-29T16:24:48.649Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome CakePHP plugins, resources and shiny things. ",
