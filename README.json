@@ -19,7 +19,7 @@
             "open_issues": 65,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33759,
+            "stars": 33762,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:01.216Z"
@@ -2530,7 +2530,7 @@
                 "language": "PHP",
                 "license": "MIT",
                 "last_commit": "2026-06-19T18:25:47Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "FriendsOfCake",
                 "repo": "CakePdf",
                 "stars": 371,
@@ -3898,7 +3898,7 @@
                 "id": 3420388,
                 "language": "PHP",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-30T08:53:04Z",
+                "last_commit": "2026-11-01T07:41:15Z",
                 "open_issues": 88,
                 "owner": "baserproject",
                 "repo": "basercms",
@@ -4123,7 +4123,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T15:29:45.363Z",
+    "last_updated": "2026-11-01T16:23:36.800Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome CakePHP plugins, resources and shiny things. ",
