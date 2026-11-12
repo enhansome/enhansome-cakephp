@@ -19,7 +19,7 @@
             "open_issues": 65,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33780,
+            "stars": 33784,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:01.216Z"
@@ -37,10 +37,10 @@
             "language": null,
             "license": "WTFPL",
             "last_commit": "2026-10-30T20:46:41Z",
-            "open_issues": 78,
+            "open_issues": 79,
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32796,
+            "stars": 32797,
             "topics": [
               "awesome",
               "awesome-lists",
@@ -1605,8 +1605,8 @@
                 "id": 1431106084,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-11T11:43:10Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-12T11:39:33Z",
+                "open_issues": 0,
                 "owner": "markup-carve",
                 "repo": "cakephp-carve",
                 "stars": 1,
@@ -2041,8 +2041,8 @@
                 "id": 1426609431,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-11T16:22:43Z",
-                "open_issues": 2,
+                "last_commit": "2026-11-12T10:22:30Z",
+                "open_issues": 0,
                 "owner": "josbeir",
                 "repo": "cakephp-interact",
                 "stars": 3,
@@ -2749,7 +2749,7 @@
                 "open_issues": 11,
                 "owner": "FriendsOfCake",
                 "repo": "crud",
-                "stars": 381,
+                "stars": 379,
                 "topics": [
                   "cakephp",
                   "cakephp-plugin",
@@ -3935,7 +3935,7 @@
                 "language": "PHP",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-11T00:37:34Z",
-                "open_issues": 85,
+                "open_issues": 95,
                 "owner": "baserproject",
                 "repo": "basercms",
                 "stars": 192,
@@ -4159,7 +4159,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T17:27:41.132Z",
+    "last_updated": "2026-11-12T17:44:52.921Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome CakePHP plugins, resources and shiny things. ",
