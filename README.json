@@ -19,7 +19,7 @@
             "open_issues": 66,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33786,
+            "stars": 33787,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:01.216Z"
@@ -37,10 +37,10 @@
             "language": null,
             "license": "WTFPL",
             "last_commit": "2026-10-30T20:46:41Z",
-            "open_issues": 84,
+            "open_issues": 83,
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32800,
+            "stars": 32803,
             "topics": [
               "awesome",
               "awesome-lists",
@@ -381,8 +381,8 @@
                 "id": 865313,
                 "language": "PHP",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-10T19:33:30Z",
-                "open_issues": 55,
+                "last_commit": "2026-11-14T13:54:38Z",
+                "open_issues": 54,
                 "owner": "CakeDC",
                 "repo": "users",
                 "stars": 521,
@@ -1320,7 +1320,7 @@
                 "open_issues": 1,
                 "owner": "ADmad",
                 "repo": "cakephp-i18n",
-                "stars": 44,
+                "stars": 45,
                 "topics": [
                   "cakephp",
                   "cakephp-plugin",
@@ -1402,7 +1402,7 @@
                 "id": 40700279,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-10-31T06:44:49Z",
+                "last_commit": "2026-11-14T14:20:43Z",
                 "open_issues": 0,
                 "owner": "ADmad",
                 "repo": "cakephp-glide",
@@ -2041,7 +2041,7 @@
                 "id": 1426609431,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-13T09:36:16Z",
+                "last_commit": "2026-11-14T13:31:36Z",
                 "open_issues": 0,
                 "owner": "josbeir",
                 "repo": "cakephp-interact",
@@ -2566,7 +2566,7 @@
                 "language": "PHP",
                 "license": "MIT",
                 "last_commit": "2026-11-07T08:02:04Z",
-                "open_issues": 2,
+                "open_issues": 4,
                 "owner": "FriendsOfCake",
                 "repo": "CakePdf",
                 "stars": 372,
@@ -4159,7 +4159,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T17:23:00.021Z",
+    "last_updated": "2026-11-14T16:06:54.579Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome CakePHP plugins, resources and shiny things. ",
