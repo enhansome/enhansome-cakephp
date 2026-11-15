@@ -14,7 +14,7 @@ If you are looking for previous CakePHP resources please visit:
 Additional lists you might find useful:
 
 * [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,787 | 🐛 66 | 🌐 Ruby | 📅 2024-06-02
-* [Awesome PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,803 | 🐛 83 | 📅 2026-10-30
+* [Awesome PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,801 | 🐛 83 | 📅 2026-10-30
 * [CakePHP Plugins](https://plugins.cakephp.org)
 
 > For those wondering; this list differs from plugins.cakephp.org by supporting
@@ -120,7 +120,7 @@ Additional lists you might find useful:
 
 * [ADmad/SocialAuth plugin](https://github.com/ADmad/cakephp-social-auth) ⭐ 51 | 🐛 4 | 🌐 PHP | 📅 2026-10-11 - A plugin which allows you to authenticate using social providers like Facebook/Google/Twitter etc. using [SocialConnect/auth](https://github.com/SocialConnect/auth) ⭐ 565 | 🐛 37 | 🌐 PHP | 📅 2026-06-23 social sign on library.
 
-* [TwoFactorAuth plugin](https://github.com/andrej-griniuk/cakephp-two-factor-auth) ⭐ 38 | 🐛 3 | 🌐 PHP | 📅 2026-05-07 - Allows two factor authentication using Google Authenticator or similar app to generate one-time codes. Based on [RobThree/TwoFactorAuth](https://github.com/RobThree/TwoFactorAuth) ⭐ 1,190 | 🐛 3 | 🌐 PHP | 📅 2026-01-05 library.
+* [TwoFactorAuth plugin](https://github.com/andrej-griniuk/cakephp-two-factor-auth) ⭐ 38 | 🐛 3 | 🌐 PHP | 📅 2026-05-07 - Allows two factor authentication using Google Authenticator or similar app to generate one-time codes. Based on [RobThree/TwoFactorAuth](https://github.com/RobThree/TwoFactorAuth) ⭐ 1,189 | 🐛 3 | 🌐 PHP | 📅 2026-01-05 library.
 
 * [ApiTokenAuthenticator plugin](https://github.com/rrd108/api-token-authenticator) ⭐ 3 | 🐛 4 | 🌐 PHP | 📅 2025-11-26 - A simple token authentication plugin for CakePHP REST APIs.
 
@@ -254,7 +254,7 @@ Additional lists you might find useful:
 * [Inertia plugin](https://github.com/CakeDC/cakephp-inertia) ⭐ 12 | 🐛 0 | 🌐 Twig | 📅 2025-03-03 - Plugin for connecting a Vue 3 app and use an API interface using a middleware.
 * [OPCache Preloader](https://github.com/cnizzardini/cakephp-preloader) ⭐ 12 | 🐛 0 | 🌐 PHP | 📅 2026-07-25 - An OPCache Preloader for CakePHP applications.
 * [Feedback plugin](https://github.com/dereuromark/cakephp-feedback) ⭐ 7 | 🐛 2 | 🌐 PHP | 📅 2026-11-11 - Allow visitors to send quick and easy feedback incl. a screenshot via sidebar form.
-* [Interact plugin](https://github.com/josbeir/cakephp-interact) ⭐ 3 | 🐛 0 | 🌐 PHP | 📅 2026-11-14 - Interactive pages using native CakePHP templates and Alpine.js.
+* [Interact plugin](https://github.com/josbeir/cakephp-interact) ⭐ 3 | 🐛 0 | 🌐 PHP | 📅 2026-11-15 - Interactive pages using native CakePHP templates and Alpine.js.
 * [Workflow plugin](https://github.com/dereuromark/cakephp-workflow) ⭐ 3 | 🐛 0 | 🌐 PHP | 📅 2026-11-11 - Batteries-included state machine plugin with PHP 8 attributes, YAML config, audit trails, and visual admin dashboard.
 * [AttributeRegistry plugin](https://github.com/josbeir/cakephp-attribute-registry) ⚠️ Archived - A powerful CakePHP plugin for discovering, caching, and querying PHP 8 attributes across your application and plugins.
 * [CakePHP Claude Skill](https://github.com/cpierce/cakephp-claude-skill) ⭐ 0 | 🐛 0 | 🌐 Shell | 📅 2026-09-27 - Claude Code skill for CakePHP development covering conventions, PHPStan compliance, migrations, and upgrade guidance.
@@ -430,7 +430,7 @@ IDE specific compatibility information and tips can be found [here](https://gith
 
 *Web-based (demo) applications and tools.*
 
-* [RealWorld](https://github.com/gothinkster/cakephp-realworld-example-app) ⚠️ Archived - Example CakePHP codebase containing real world examples (CRUD, auth, advanced patterns and more) that adheres to the [RealWorld](https://github.com/gothinkster/realworld-example-apps) ⭐ 84,381 | 🐛 27 | 🌐 TypeScript | 📅 2026-11-02 spec and API.
+* [RealWorld](https://github.com/gothinkster/cakephp-realworld-example-app) ⚠️ Archived - Example CakePHP codebase containing real world examples (CRUD, auth, advanced patterns and more) that adheres to the [RealWorld](https://github.com/gothinkster/realworld-example-apps) ⭐ 84,380 | 🐛 27 | 🌐 TypeScript | 📅 2026-11-02 spec and API.
 * [Query examples](https://github.com/lorenzo/cakephp3-examples) ⭐ 56 | 🐛 0 | 🌐 PHP | 📅 2014-08-23 - Advanced query building examples.
 * [Xeta](https://github.com/XetaIO/Xeta) ⭐ 49 | 🐛 4 | 🌐 PHP | 📅 2017-04-25 - A resource to help people starting with CakePHP.
 * [Vue.js demo app](https://github.com/ishanvyas22/cakephpvue-spa) ⭐ 46 | 🐛 6 | 🌐 PHP | 📅 2026-11-06 - A CakePHP + Vue.js single page application skeleton.
@@ -486,7 +486,7 @@ Various resources, such as books, websites and articles, for improving your Cake
 
 *Reading materials related to the CakePHP internals and decisions.*
 
-* [Top 10 (and more) core contributors](https://github.com/cakephp/cakephp/graphs/contributors) ⭐ 8,799 | 🐛 39 | 🌐 PHP | 📅 2026-11-14 - Give 'em a hand.
+* [Top 10 (and more) core contributors](https://github.com/cakephp/cakephp/graphs/contributors) ⭐ 8,798 | 🐛 41 | 🌐 PHP | 📅 2026-11-15 - Give 'em a hand.
 
 ## Conferences
 
@@ -508,4 +508,4 @@ awesome-cakephp has been created by [dereuromark](https://github.com/dereuromark
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
