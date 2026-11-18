@@ -19,7 +19,7 @@
             "open_issues": 66,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33794,
+            "stars": 33797,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:01.216Z"
@@ -37,10 +37,10 @@
             "language": null,
             "license": "WTFPL",
             "last_commit": "2026-10-30T20:46:41Z",
-            "open_issues": 85,
+            "open_issues": 86,
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32807,
+            "stars": 32808,
             "topics": [
               "awesome",
               "awesome-lists",
@@ -381,7 +381,7 @@
                 "id": 865313,
                 "language": "PHP",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-14T13:54:38Z",
+                "last_commit": "2026-11-18T15:12:11Z",
                 "open_issues": 54,
                 "owner": "CakeDC",
                 "repo": "users",
@@ -2849,7 +2849,7 @@
                 "id": 305730915,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-09T05:45:02Z",
+                "last_commit": "2026-11-18T12:47:04Z",
                 "open_issues": 1,
                 "owner": "orca-services",
                 "repo": "cakephp-swagger-ui",
@@ -3225,7 +3225,7 @@
                 "language": "PHP",
                 "license": null,
                 "last_commit": "2026-11-09T04:37:24Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "cakephp",
                 "repo": "app",
                 "stars": 388,
@@ -4159,7 +4159,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T18:45:02.338Z",
+    "last_updated": "2026-11-18T18:24:01.424Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome CakePHP plugins, resources and shiny things. ",
