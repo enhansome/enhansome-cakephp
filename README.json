@@ -19,7 +19,7 @@
             "open_issues": 67,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33812,
+            "stars": 33811,
             "topics": []
           },
           "first_seen": "2026-08-28T20:59:01.216Z"
@@ -40,7 +40,7 @@
             "open_issues": 93,
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32817,
+            "stars": 32816,
             "topics": [
               "awesome",
               "awesome-lists",
@@ -1524,11 +1524,11 @@
                 "id": 42588972,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-23T19:52:10Z",
-                "open_issues": 5,
+                "last_commit": "2026-11-27T22:13:54Z",
+                "open_issues": 3,
                 "owner": "cakephp",
                 "repo": "chronos",
-                "stars": 1361,
+                "stars": 1360,
                 "topics": [
                   "calendar-dates",
                   "datetime-objects",
@@ -1605,7 +1605,7 @@
                 "id": 1431106084,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-27T10:02:49Z",
+                "last_commit": "2026-11-28T16:44:32Z",
                 "open_issues": 3,
                 "owner": "markup-carve",
                 "repo": "cakephp-carve",
@@ -2771,8 +2771,8 @@
                 "id": 73112770,
                 "language": "PHP",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-27T15:02:05Z",
-                "open_issues": 4,
+                "last_commit": "2026-11-28T17:11:24Z",
+                "open_issues": 5,
                 "owner": "CakeDC",
                 "repo": "cakephp-api",
                 "stars": 60,
@@ -3661,8 +3661,8 @@
                 "id": 3634443,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-10-24T10:56:35Z",
-                "open_issues": 5,
+                "last_commit": "2026-11-28T16:14:06Z",
+                "open_issues": 6,
                 "owner": "cakephp",
                 "repo": "cakephp-codesniffer",
                 "stars": 230,
@@ -3934,7 +3934,7 @@
                 "id": 3420388,
                 "language": "PHP",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-26T09:00:02Z",
+                "last_commit": "2026-11-28T06:12:10Z",
                 "open_issues": 86,
                 "owner": "baserproject",
                 "repo": "basercms",
@@ -4159,7 +4159,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T19:10:47.131Z",
+    "last_updated": "2026-11-28T17:49:06.243Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome CakePHP plugins, resources and shiny things. ",
@@ -4171,7 +4171,7 @@
       "open_issues": 9,
       "owner": "FriendsOfCake",
       "repo": "awesome-cakephp",
-      "stars": 936,
+      "stars": 935,
       "topics": [
         "awesome",
         "awesome-list"
